@@ -45,7 +45,7 @@ This is the website for my resume as part of milestone project 1 for my full sta
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wireframe-online-resume-layout.png)
+    -   Site Layout - [View](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wireframe-online-resume-layout.png)
 
 ## Features
 
@@ -144,8 +144,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 **04/12/21**
 
--   Created repo from boilerplate.
+-   Created repo from boilerplate
 -   Worked on README.md in preparation for initial mentor meeting
+-   Created wireframe for site layout
 
 ### Known Bugs
 
