@@ -1,4 +1,4 @@
-<h1 align="center">Paul Eagle - Full Stack Web Development - Milestone Project 1</h1>
+<h1 align="center">Full Stack Web Development - Milestone Project 1</h1>
 
 **Repo:**
 
