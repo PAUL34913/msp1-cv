@@ -144,7 +144,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Changelog
 
-**04/12/21
+**04/12/21**
 
 -   Created repo from boilerplate template.
 -   Worked on README.md in preparation for initial mentor meeting
