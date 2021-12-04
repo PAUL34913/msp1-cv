@@ -2,11 +2,11 @@
 
 **Repo:**
 
-https://github.com/PAUL34913/Boilerplate 
+https://github.com/PAUL34913/msp1-cv
 
 **Live Site:**
 
-https://paul34913.github.io/Boilerplate/
+https://paul34913.github.io/msp1-cv/
 
 This is the main marketing website for Your Site. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
