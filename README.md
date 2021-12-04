@@ -140,7 +140,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Changelog
+## Changelog
 
 **04/12/21**
 
@@ -148,7 +148,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Worked on README.md in preparation for initial mentor meeting
 -   Created wireframe for site layout
 
-### Known Bugs
+## Known Bugs
 
 -   No known bugs at present
 
