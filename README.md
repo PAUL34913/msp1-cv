@@ -45,11 +45,7 @@ This is the website for my resume as part of milestone project 1 for my full sta
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wireframe-online-resume-layout.png)
 
 ## Features
 
