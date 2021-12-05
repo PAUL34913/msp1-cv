@@ -148,6 +148,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Worked on README.md in preparation for initial mentor meeting
 -   Created wireframe for site layout
 
+**04/12/21**
+
+-   Added social-links to top-bar
+-   Added responsive hero image
+
+
 ## Known Bugs
 
 -   No known bugs at present
