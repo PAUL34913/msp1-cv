@@ -150,6 +150,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 **04/12/21**
 
+-   Added contact button to top bar
 -   Added social-links to top-bar
 -   Added responsive hero image
 
