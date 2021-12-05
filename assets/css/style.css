@@ -1,20 +1,18 @@
+/* Fonts (Exo, Roboto) */
+
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+/* General */
 
 body {
     color: #fff;
     font-family: 'Exo', sans-serif;
 }
 
-.badge {
-    vertical-align: middle;
-    margin-top: 10px;
-    padding: 5px;
-    border: 1px solid #fff;
-}
-
-.badge-danger:hover {
-    background-color: #fff;
-    color: #000;
+.row {
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
 }
 
 .header-container {
@@ -23,38 +21,30 @@ body {
     text-align: center;
 }
 
-.top-bar, .bot-bar {
+ul {
+    padding-top: 0.5vh;
+}
+
+/* Top Bar */
+
+.top-bar {
+    position: fixed;
     background-color: #000;
     height: 40px;
 }
 
-.top-bar {
-    position: fixed;
-}
-
-.bot-bar {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.hero-image {
-    padding-top: 39px;
-    margin: 0 auto;
-    max-width: 1200px;
-    border: 1px solid #000;
-}
-
-.social-icon-lbl {
-    font-size: 1rem;
-    color: #fff;
+.badge {
     vertical-align: middle;
-    padding: 0;
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid #fff;
+    background-color: rgb(241, 39, 39);
 }
 
 .social-icon {
     color: #fff;
     list-style: none;
-    font-size: 2em;
+    font-size: 1.8em;
 }
 
 .social-icon:hover {
@@ -74,6 +64,53 @@ body {
     padding: 12px 0 0 10px;
 }
 
-ul {
-    padding-top: 0.5vh;
+/* Navbar */
+
+.n-bar {
+    position: fixed;
+    top: 40px;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+    padding-top: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    color: #000;
+    text-align: left;
+    text-indent: 9px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.n-bar a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+.active {
+    font-weight: bold;
+    color: #dc3545;
+}
+
+.btn-danger {
+    background-color: #fff;
+    color: #dc3545;
+}
+
+/* Hero Image */
+
+.hero-image {
+    padding-top: 79px;
+    margin: 0 auto;
+    max-width: 1200px;
+    border: 1px solid #000;
+}
+
+/* Bottom Bar */
+
+.bot-bar {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #000;
+    height: 40px;
 }

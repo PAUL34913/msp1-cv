@@ -153,6 +153,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added contact button to top bar
 -   Added social-links to top-bar
 -   Added responsive hero image
+-   Added navbar and links
 
 
 ## Known Bugs
