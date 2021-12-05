@@ -154,10 +154,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added social-links to top-bar
 -   Added responsive hero image
 -   Added responsive navbar and links
--   Added Google Fonts "Evo, Roboto"
+-   Added Google Fonts "Evo"
 -   Completed Header
 -   Completed responsive general page template
-
+-   HTML validated with no errors on https://validator.w3.org/nu/#textarea
+-   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 
 ## Known Bugs
 
