@@ -4,7 +4,7 @@
 
 **Repo:**
 
-https://github.com/PAUL34913/msp1-cv
+https://github.com/PAUL34913/msp1-online-resume
 
 **Live Site:**
 
