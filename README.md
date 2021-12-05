@@ -148,12 +148,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Worked on README.md in preparation for initial mentor meeting
 -   Created wireframe for site layout
 
-**04/12/21**
+**05/12/21**
 
 -   Added contact button to top bar
 -   Added social-links to top-bar
 -   Added responsive hero image
--   Added navbar and links
+-   Added responsive navbar and links
+-   Added Google Fonts "Evo, Roboto"
+-   Completed Header
+-   Completed responsive general page template
 
 
 ## Known Bugs
