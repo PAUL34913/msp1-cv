@@ -168,6 +168,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
+Fix:
+
+Have added a padding of 2px to the top to push the links down slightly, but cannot push any further as they going out of line in the opposite direction when viewing at mobile size on desktop. It's a happy medium.
+
 -   Firefox Mobile Night Mode
 
 Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
