@@ -166,7 +166,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Social Link Alignment
 
-Alignment of links is slightly out when viewing on Safari mobile (iPhone7)
+Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
 -   Firefox Mobile Night Mode
 
