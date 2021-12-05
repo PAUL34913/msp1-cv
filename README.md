@@ -162,7 +162,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Known Bugs
 
--   No known bugs at present
+**05/12/21**
+
+-   Social Link Alignment
+
+Alignment of links is slightly out when viewing on Safari mobile (iPhone7)
+
+-   Firefox Mobile Night Mode
+
+Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
 
 ## Deployment
 
