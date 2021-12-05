@@ -170,7 +170,7 @@ Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and F
 
 Fix:
 
-Have added a padding of 2px to the top to push the links down slightly, but cannot push any further as they going out of line in the opposite direction when viewing at mobile size on desktop. It's a happy medium.
+Have added a top padding of 2px to push the links down slightly.
 
 -   Firefox Mobile Night Mode
 
