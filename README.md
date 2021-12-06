@@ -248,7 +248,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+-   Eagle vector used in hero image supplied by:
+    [Getdrawings.com](http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png)
 
 ### Acknowledgements
 
