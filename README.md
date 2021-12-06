@@ -35,11 +35,11 @@ This is the website for my online resume as part of milestone project 1 for my f
 
 -   ### Design
     -   #### Colour Scheme
-        -   Insert color information here.
+        -   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
     -   #### Typography
-        -   Insert information and comments about the fonts used here.
+        -   I have used "True Bold" for the hero image header which I think compliments "Exo" which has been used for the rest of the site. It seems to give the site and modern, and clean feel and helps to provide a professional looking layout.
     -   #### Imagery
-        -   Imagery is important. Write about hero image and any other images used, talk about the impression the theme gives.
+        -   For the hero image I have created a large image with bright popping colors against a darker background, and used thick edges to highlight the image and accompanying hero text head. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
 *   ### Wireframes
 
