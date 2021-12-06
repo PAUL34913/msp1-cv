@@ -2,13 +2,9 @@
 
 ### ONLINE RESUME
 
-- **Repo:**
+- **Repo:** https://github.com/PAUL34913/msp1-online-resume
 
-https://github.com/PAUL34913/msp1-online-resume
-
-- **Live Site:**
-
-https://paul34913.github.io/msp1-online-resume/
+- **Live Site:** https://paul34913.github.io/msp1-online-resume/
 
 **Introduction**
 
