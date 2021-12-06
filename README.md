@@ -144,7 +144,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, and i-Pad.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
@@ -249,6 +249,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My sons Thomas and James, for their help with testing the site on a variety of devices.
 
--   Tutor support at Code Institute for their support.
+-   My Mentor, for continuous helpful feedback.
+
+-   Tutor support at Code Institute, for their support.
