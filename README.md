@@ -12,7 +12,7 @@ https://paul34913.github.io/msp1-online-resume/
 
 This is the website for my online resume as part of milestone project 1 for my full stack web development course with Code Institute. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential employers, fellow students, tutors, or anyone else who may be interested in my information.
 
-<h2 align="center"><img src="assets/images/mockup.png"></h2>
+![Desktop Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/mockup.png "Desktop Wireframe")
 
 ## User Experience (UX)
 
@@ -45,7 +45,13 @@ This is the website for my online resume as part of milestone project 1 for my f
 
 *   ### Wireframes
 
-    -   Site Layout - [View](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wireframe-online-resume-layout.png)
+    Click here for full view - [Desktop Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
+    </br>
+    ![Desktop Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png "Desktop Wireframe")
+
+    Click here for full view - [Tablet Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
+    </br>
+    ![Tablet Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png "Tablet Wireframe")
 
 ## Features
 
