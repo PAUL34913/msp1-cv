@@ -72,17 +72,17 @@ This is the website for my online resume as part of milestone project 1 for my f
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.2.1:](https://getbootstrap.com/docs/4.2/getting-started/download/)
+1. [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/download/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Google Fonts:](https://fonts.google.com/)
+1. [Google Fonts](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome 4.7.0:](https://fontawesome.com/v4.7/)
+1. [Font Awesome 4.7.0](https://fontawesome.com/v4.7/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+1. [GitHub](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Balsamiq:](https://balsamiq.com/)
+1. [Balsamiq](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
