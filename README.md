@@ -173,6 +173,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   HTML validated with no errors on https://validator.w3.org/nu/#textarea
 -   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 
+**06/12/21**
+
+-   Meeting with mentor
+-   Revision and improvement of README.md
+-   Created wireframes for tablet and mobile   
+
 ## Known Bugs
 
 **05/12/21**
