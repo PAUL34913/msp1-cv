@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Web Development - Milestone Project 1</h1>
+# Full Stack Web Development - Milestone Project 1
 
 ### Online Resume
 
@@ -173,6 +173,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   HTML validated with no errors on https://validator.w3.org/nu/#textarea
 -   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 
+**06/12/21**
+
+-   Meeting with mentor
+-   Revision and improvement of README.md
+-   Created wireframes for tablet and mobile   
+
 ## Known Bugs
 
 **05/12/21**
@@ -241,7 +247,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    </br>
+    </br>
+    Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 ### Content
 
