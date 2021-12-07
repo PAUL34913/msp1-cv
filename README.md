@@ -43,7 +43,7 @@ This is the website for my online resume as part of milestone project 1 for my f
 
 *   ### Wireframes
 
-    These are the wireframes for the desktop, tablet and mobile version of my website. These designs were created prior to the website development and as such, these designs are likely to change throughout the process. Please click the wireframe links above the pictures to get a full screen view.
+    These are the wireframes for the mobile, tablet and desktop version of my website. These designs were created prior to the website development and as such, these designs are likely to change throughout the process. Please click the wireframe links above the pictures to get a full screen view.
 
     Click the images for a full screen view. - [Mobile Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
     </br>
@@ -177,6 +177,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Meeting with mentor
 -   Revision and improvement of README.md
+-   Updated desktop wireframe
 -   Created wireframes for tablet and mobile   
 
 ## Known Bugs
