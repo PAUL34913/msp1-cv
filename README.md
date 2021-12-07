@@ -35,11 +35,11 @@ This is the website for my online resume as part of milestone project 1 for my f
 
 -   ### Design
     -   #### Colour Scheme
-        -   Insert color information here.
+        -   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
     -   #### Typography
-        -   Insert information and comments about the fonts used here.
+        -   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
     -   #### Imagery
-        -   Imagery is important. Write about hero image and any other images used, talk about the impression the theme gives.
+        -   For the hero image I have created a large image with bright popping colors against a darker background and used thick edges to highlight the image and accompanying hero text header. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
 *   ### Wireframes
 
@@ -149,7 +149,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, and i-Pad.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
@@ -241,11 +241,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
 
 ### Content
 
@@ -253,10 +249,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+-   Eagle vector used in hero image supplied by:
+    [Getdrawings.com](http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png)
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My sons Thomas and James, for their help with testing the site on a variety of devices.
 
--   Tutor support at Code Institute for their support.
+-   My Mentor, for continuous helpful feedback.
+
+-   Tutor support at Code Institute, for their support.
