@@ -47,18 +47,10 @@ This is the website for my online resume as part of milestone project 1 for my f
 
     Click the images for a full screen view. - (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
     </br>
-    
-    ![Mobile Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png "Mobile Wireframe")
-
     (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
     </br>
-    
-    ![Tablet Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png "Tablet Wireframe")
-
-   (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
+     (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
     </br>
-    
-    ![Desktop Wireframe](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png "Desktop Wireframe")
 
 ## Features
 
