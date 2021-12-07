@@ -49,9 +49,12 @@ This is the website for my online resume as part of milestone project 1 for my f
     
     ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
     </br>
+    </br>
     ![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
     </br>
+    </br>
     ![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
+    </br>
     </br>
 
 ## Features
