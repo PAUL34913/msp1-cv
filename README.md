@@ -43,7 +43,7 @@ This is the website for my online resume as part of milestone project 1 for my f
 
 *   ### Wireframes
 
-    These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, these designs are likely to change throughout the process. Please click the pictures to get a full screen view.
+    These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
 
     Click the images for a full screen view.
     
@@ -75,9 +75,11 @@ This is the website for my online resume as part of milestone project 1 for my f
 1. [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/download/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Google Fonts](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Exo' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome 4.7.0](https://fontawesome.com/v4.7/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [VS Code Web Version](https://vscode.dev/)
+    - VS code web version was used within Gitpod to create and edit the content of the website..
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub](https://github.com/)
@@ -106,24 +108,24 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
         2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        3. In each section of the page, there is a "top" button, when it is clicked the user is brought to the top of the page where the navigation bar is.
 
     3. As a First Time Visitor, I want to look for references or testimonials to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+        1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the testimonials section,social links are also presented at the very top of the page using easy to see icons.
+        2. The social links are also presented in the footer of the page for good measure.
+        3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media and highlights the links to them.
 
 -   #### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to spend time reading blog entries.
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+        1. These are clearly linked in the navigation bar.
+        2. The user will be directed to a page with archived blogs available to read.
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
+        1. The navigation bar clearly highlights the "Contact Me" Page.
+        2. Here the user can fill out the form on the page, or are told that alternatively they can message the organisation on social media.
         3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
         5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
@@ -176,6 +178,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Revision and improvement of README.md
 -   Updated desktop wireframe
 -   Created wireframes for tablet and mobile   
+
+**07/12/21**
+
+-   Revision and improvement of README.md
 
 ## Known Bugs
 
