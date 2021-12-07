@@ -45,11 +45,13 @@ This is the website for my online resume as part of milestone project 1 for my f
 
     These are the wireframes for the mobile, tablet and desktop version of my website. These designs were created prior to the website development and as such, these designs are likely to change throughout the process. Please click the wireframe links above the pictures to get a full screen view.
 
-    Click the images for a full screen view. - (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
+    Click the images for a full screen view.
+    
+    ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
     </br>
-    (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
+    ![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
     </br>
-     (https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
+    ![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
     </br>
 
 ## Features
