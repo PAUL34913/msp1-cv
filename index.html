@@ -65,12 +65,18 @@
                 <div class="col-12 n-bar d-none d-lg-block">
                     <ul class="list-inline n-bar">
                         <li class="list-inline-item">Navigation:</li>
-                        <li class="list-inline-item active">Home</li>
-                        <li class="list-inline-item"><a href="#">About me</a></li>
-                        <li class="list-inline-item"><a href="#">My Skills</a></li>
-                        <li class="list-inline-item"><a href="#">Personal Info</a></li>
-                        <li class="list-inline-item"><a href="#">Work History</a></li>
-                        <li class="list-inline-item"><a href="#">Testimonials</a></li>
+                        <!-- Drop-down code from Stack Overflow -->
+                        <li class="list-inline-item dropdown active">
+                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle active">Home <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                              <li><a href="#about-me">About Me</a></li>
+                              <li><a href="#">My Skills</a></li>
+                              <li><a href="#">Personal Info</a></li>
+                              <li><a href="#">Work History</a></li>
+                              <li><a href="#">Testimonials</a></li>
+                            </ul>
+                        </li>
+                        <!-- /Drop-down code from Stack Overflow -->
                         <li class="list-inline-item"><a href="#">Portfolio</a></li>
                         <li class="list-inline-item"><a href="#">Blog</a></li>
                         <li class="list-inline-item"><a href="#">Download CV</a></li>
@@ -79,7 +85,18 @@
                 <div class="col-12 n-bar d-sm-block d-lg-none">
                     <ul class="list-inline n-bar">
                         <li class="list-inline-item">Navigation:</li>
-                        <li class="list-inline-item"><a href="#" class="active">Home</a></li>
+                        <!-- Drop-down code from Stack Overflow -->
+                        <li class="list-inline-item dropdown active">
+                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle active">Home <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                              <li><a href="#about-me">About Me</a></li>
+                              <li><a href="#">My Skills</a></li>
+                              <li><a href="#">Personal Info</a></li>
+                              <li><a href="#">Work History</a></li>
+                              <li><a href="#">Testimonials</a></li>
+                            </ul>
+                        </li>
+                        <!-- /Drop-down code from Stack Overflow -->
                         <li class="list-inline-item"><a href="#">Portfolio</a></li>
                         <li class="list-inline-item"><a href="#">Blog</a></li>
                         <li class="list-inline-item"><a href="#">Download CV</a></li>
@@ -105,7 +122,7 @@
                 </div>
                 <!-- /Bottom Bar -->  
             </div>
-            <section class="about-me">
+            <section class="about-me" id="about-me">
                 <div class="row d-flex about-me-row pt-md-5">
                     <!-- About Me -->
                     <div class="d-sm-none col-12 col-md-6 col-lg-4 pt-4">

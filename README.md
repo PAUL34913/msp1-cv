@@ -194,7 +194,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Created about me section (not responsive)
 -   Created about me section image.
 -   About me section now fully responsive.
--   Fixed paddings and margins
+-   Fixed about me section paddings and margins.
+-   Added drop-down menu to navbar.
+-   Styled drop-down menu.
 
 ## Known Bugs
 
@@ -268,6 +270,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
     </br>
     </br>
     Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+-   [Dropdown-Menu](https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user)
+    </br>
+    </br>
+    Dropdown menu in navbar, found on stack overflow on the above link
 
 ### Content
 
