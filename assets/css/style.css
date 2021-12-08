@@ -128,3 +128,25 @@ ul {
 .about-me-text {
     padding-top: 40px;
 }
+
+.about-me-row {
+    border: 1px solid #000;
+    padding: 0 0 50px 0;
+}
+
+.about-me-mobile-image {
+    max-width: 75%;
+}
+
+.about-me-tablet-image {
+    max-width: 50%;
+}
+
+.about-me-laptop-image {
+    max-width: 75%;
+}
+
+.about-me-image {
+    max-width: 85%;
+    padding-top: 20px;
+}
