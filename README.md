@@ -4,11 +4,11 @@
 
 - **Repo:** 
 
-https://github.com/PAUL34913/msp1-online-resume
+    https://github.com/PAUL34913/msp1-online-resume
 
 - **Live Site:** 
 
-https://paul34913.github.io/msp1-online-resume/
+    https://paul34913.github.io/msp1-online-resume/
 
 ### Introduction
 
@@ -271,12 +271,14 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   Eagle vector used in hero image from Getdrawings.com
+-   [Eagle Vector](http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png)
+ 
+    Used in creation of hero image.
    
-    http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
+    [Spiderweb Image](http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png)
 
--   Spiderweb image used in hero image by Ellie Burgin
-   
+    Used in creation of hero image.
+    
     https://www.pexels.com/@ellie-burgin-1661546
     
 ### Acknowledgements
