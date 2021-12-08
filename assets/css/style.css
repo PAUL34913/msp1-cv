@@ -31,6 +31,7 @@ ul {
     position: fixed;
     background-color: #000;
     height: 40px;
+    z-index: 1;
 }
 
 .badge {
@@ -91,6 +92,7 @@ ul {
     text-indent: 0px;
     font-size: 0.8rem;
     font-weight: bold;
+    z-index: 1;
 }
 
 .n-bar a:hover {

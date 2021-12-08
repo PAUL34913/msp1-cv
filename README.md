@@ -111,8 +111,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
         1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
-        2. The site uses a fixed navigation bar so that the user can navigate the site at any moment with a single click.
-        3. The navbar reduces to "essential" links for the mobile version, I chose not to use a hamburger menu as this would mean an extra click would be required to reach the destination, every time.
+        2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
+        3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
     3. As a First Time Visitor, I want to look for references or testimonials to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
         1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the testimonials section,social links are also presented at the very top of the page using easy to see icons.
@@ -197,6 +197,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed about me section paddings and margins.
 -   Added drop-down menu to navbar.
 -   Styled drop-down menu.
+-   Fixed about me image.
+-   Completed about me section, merging dev with main.
 
 ## Known Bugs
 
