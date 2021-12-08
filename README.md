@@ -79,7 +79,7 @@ This is the website for my online resume as part of milestone project 1 for my f
 1. [Font Awesome 4.7.0](https://fontawesome.com/v4.7/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [VS Code Web Version](https://vscode.dev/)
-    - VS code web version was used within Gitpod to create and edit the content of the website..
+    - VS code web version was used within Gitpod to create and edit the content of the website.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub](https://github.com/)
@@ -100,15 +100,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar at the top of the page, enabling the user to go to the page of their choice. Underneath the navbar is an eye catching hero image that clearly defines the purpose of the site.
+        2. The main points are made immediately with the hero image.
+        3. Also at there very top of the page, there is a call to action button along with social links.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. In each section of the page, there is a "top" button, when it is clicked the user is brought to the top of the page where the navigation bar is.
+        1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
+        2. The site uses a fixed navigation bar so that the user can navigate the site at any moment with a single click.
+        3. The navbar reduces to "essential" links for the mobile version, I chose not to use a hamburger menu as this would mean an extra click would be required to reach the destination, every time.
 
     3. As a First Time Visitor, I want to look for references or testimonials to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
         1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the testimonials section,social links are also presented at the very top of the page using easy to see icons.
@@ -125,25 +125,26 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
 
         1. The navigation bar clearly highlights the "Contact Me" Page.
-        2. Here the user can fill out the form on the page, or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        2. Here the user can fill out the form on the page, or are told that alternatively they can message the individual on social media.
+        3. The footer contains links to the individuals Instagram, Linkedin, Git Hub and Slack pages as well as the individuals email.
+        4. Whichever link they click, it will open up in a new tab to ensure that the user can easily get back to the website.
         5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
 -   #### Frequent User Goals
 
     1. As a Frequent User, I want to find information about new and/or improved skills.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+        1. The user would already be comfortable with the website layout and can easily click the nabar link.
+        2. For a mobile user, the section is a short swipe down the page.
 
     2. As a Frequent user, I want to check for new portfolio entries to view current work..
 
-        1. The user would already be comfortable with the website layout and can easily click the blog link
+        1. The user would already be comfortable with the website layout and can easily click the portfolio link.
 
     3. As a Frequent user, I want to check for new blog posts.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+        1. The user would already be comfortable with the website layout and can easily click the blog link.
+        2. Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
+        3. A call to action button has been created in order for users to sign up for newsletters, they will be notified of new blog entries by e-mail.
 
 ### Further Testing
 
@@ -183,6 +184,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Revision and improvement of README.md
 
+**08/12/21**
+
+-   Revision and improvement of README.md
+
 ## Known Bugs
 
 **05/12/21**
@@ -197,7 +202,7 @@ Have added a top padding of 2px to push the links down slightly.
 
 -   Firefox Mobile Night Mode
 
-Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
+Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
 
 ## Deployment
 
