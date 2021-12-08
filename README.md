@@ -191,6 +191,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 **08/12/21**
 
 -   Revision and improvement of README.md
+-   Created about me section (not responsive)
+-   Created about me section image.
+-   About me section now fully responsive.
 
 ## Known Bugs
 
