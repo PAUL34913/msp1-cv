@@ -138,10 +138,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a Frequent User, I want to find information about new and/or improved skills.
 
-        1. The user would already be comfortable with the website layout and can easily click the nabar link.
-        2. For a mobile user, the section is a short swipe down the page.
+        1. The user would already be comfortable with the website layout and can easily click the navbar link.
+        2. For a mobile user already comfortable with the website layout, the section is a short swipe down the page.
 
-    2. As a Frequent user, I want to check for new portfolio entries to view current work..
+    2. As a Frequent user, I want to check for new portfolio entries to view current work.
 
         1. The user would already be comfortable with the website layout and can easily click the portfolio link.
 
