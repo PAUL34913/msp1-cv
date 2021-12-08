@@ -194,6 +194,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Created about me section (not responsive)
 -   Created about me section image.
 -   About me section now fully responsive.
+-   Fixed paddings and margins
 
 ## Known Bugs
 
