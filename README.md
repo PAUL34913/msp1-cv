@@ -268,16 +268,16 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Media
 
 -   Eagle vector used in hero image from Getdrawings.com
--   
+   
     http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
 
 -   Spiderweb image used in hero image by Ellie Burgin
--   
+   
     https://www.pexels.com/@ellie-burgin-1661546
     
 ### Acknowledgements
 
--   My sons Thomas and James, for their help with testing the site on a variety of devices.
+-   My Sons, Thomas and James, for their help with testing the site on a variety of devices.
 
 -   My Mentor [Dick Vlaanderen](https://github.com/dickvla), for continuous helpful feedback.
 
