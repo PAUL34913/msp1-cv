@@ -148,15 +148,17 @@ ul {
 
 .about-me-mobile-image {
     max-width: 75%;
-    padding-top: 70px;
+    padding-top: 100px;
 }
 
 .about-me-tablet-image {
     max-width: 50%;
+    padding-top: 100px;
 }
 
 .about-me-laptop-image {
     max-width: 75%;
+    padding-top: 20px;
 }
 
 .about-me-image {
