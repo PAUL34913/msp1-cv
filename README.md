@@ -199,6 +199,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Styled drop-down menu.
 -   Fixed about me image.
 -   Completed about me section, merging dev with main.
+-   Error - about me image (Know Bugs)
 
 ## Known Bugs
 
@@ -215,6 +216,10 @@ Have added a top padding of 2px to push the links down slightly.
 -   Firefox Mobile Night Mode
 
 Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
+
+Fix:
+
+Set Navbar z-index to 1, night viewing and normal viewing both ok.
 
 ## Deployment
 
