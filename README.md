@@ -247,119 +247,119 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Known Bugs
 </br>
 
--   **Social Link Alignment**
+**Social Link Alignment**
 
-        Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
+    Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
-    Fixed
+    Fixed:
 
-        Have added a top padding of 2px to push the links down slightly.
+    Have added a top padding of 2px to push the links down slightly.
 </br>
 
--   **Firefox Mobile Night Mode**
+**Firefox Mobile Night Mode**
 
-        Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
+    Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
 
-    Fixed
+    Fixed:
 
-        Set Navbar z-index to 1, night viewing and normal viewing both ok.
+    Set Navbar z-index to 1, night viewing and normal viewing both ok.
 </br>
 
--   **About Me Image Not Loading**
+**About Me Image Not Loading**
 
-        About me image was not loading when using Github pages. Had to start path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images.
+    About me image was not loading when using Github pages. Had to start path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images.
 
-    Fixed
+    Fixed:
 
-        Set Navbar z-index to 1, night viewing and normal viewing both ok.
+    Set Navbar z-index to 1, night viewing and normal viewing both ok.
 </br>
 
--   **Dropdown Navbar Sticking**
+**Dropdown Navbar Sticking**
 
-        When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse after reaching the section and clicking off it.
+    When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse after reaching the section and clicking off it.
 
 ## Deployment
 
-### GitHub Pages
+**GitHub Pages**
 
-The project was deployed to GitHub Pages using the following steps...
+    The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+    2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+        - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+    3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+    4. Under "Source", click the dropdown called "None" and select "Master Branch".
+    5. The page will automatically refresh.
+    6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-### Forking the GitHub Repository
+**Forking the GitHub Repository**
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+    By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+    2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+    3. You should now have a copy of the original repository in your GitHub account.
 
-### Making a Local Clone
+**Making a Local Clone**
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+    2. Under the repository name, click "Clone or download".
+    3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+    4. Open Git Bash
+    5. Change the current working directory to the location where you want the cloned directory to be made.
+    6. Type `git clone`, and then paste the URL you copied in Step 3.
 
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-```
+    ```
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    ```
 
-7. Press Enter. Your local clone will be created.
+    7. Press Enter. Your local clone will be created.
 
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
+    ```
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    > Cloning into `CI-Clone`...
+    > remote: Counting objects: 10, done.
+    > remote: Compressing objects: 100% (8/8), done.
+    > remove: Total 10 (delta 1), reused 10 (delta 1)
+    > Unpacking objects: 100% (10/10), done.
+    ```
 
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+    Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 
-### Code
+**Code**
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    </br>
-    </br>
-    Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+    -   Bootstrap4:     https://getbootstrap.com/docs/4.4/getting-started/introduction/
+        </br>
+        </br>
+        Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [Dropdown-Menu](https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user)
-    </br>
-    </br>
-    Dropdown menu in navbar, found on stack overflow on the above link
+    -   Dropdown-Menu:  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
+        </br>
+        </br>
+        Dropdown menu in navbar, found on stack overflow on the above link
 
-### Content
+**Content**
 
--   All content was written by the developer.
+    -   All content was written by the developer.
 
-### Media
+**Media**
 
--   [Eagle Vector](http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png)
+    Eagle Vector:       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
  
     Used in creation of hero image.
    
-    [Spiderweb Image](http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png)
+    Spiderweb Image:    http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
 
     Used in creation of hero image.
     
     https://www.pexels.com/@ellie-burgin-1661546
     
-### Acknowledgements
+**Acknowledgements**
 
--   My Sons, Thomas and James, for their help with testing the site on a variety of devices.
+    -   My Sons, Thomas and James, for their help with testing the site on a variety of devices.
 
--   My Mentor [Dick Vlaanderen](https://github.com/dickvla), for continuous helpful feedback.
+    -   My Mentor [Dick Vlaanderen](https://github.com/dickvla), for continuous helpful feedback.
 
--   Tutor support at Code Institute, for being there in a flash when needed.
+    -   Tutor support at Code Institute, for being there in a flash when needed.
