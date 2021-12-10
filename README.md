@@ -236,15 +236,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         Set Navbar z-index to 1, night viewing and normal viewing both ok.
 </br>
 
--   **About me image (Github pages)**
-
-        When using Github pages to view the site, the section image (about me) would not load. 
-    
-    Fixed
-
-        I had to start the image path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images. This will obviously not be an issue when using a webhost.
-</br>
-
 -   **Dropdown Navbar Sticking**
 
         When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse after reaching the section and clicking off it.
