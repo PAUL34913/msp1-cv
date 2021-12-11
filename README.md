@@ -55,15 +55,15 @@ The index page will include sections for:
 
 ## Design
 
-**Colour Scheme**
+### Colour Scheme
 
 -   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
-**Typography**
+### Typography
 
 -   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
 
-**Imagery**
+### magery
 
 -   For the hero image I have created a large image with bright popping colors against a darker background and used thick edges to highlight the image and accompanying hero text header. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
@@ -91,12 +91,12 @@ Click the images for a full screen view.
 
 ## Technologies Used
 
-**Languages Used**
+### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-## Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/download/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
@@ -113,8 +113,6 @@ Click the images for a full screen view.
 1. [Balsamiq](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-</br>
-
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -122,13 +120,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
-</br>
-
 ## Testing User Stories from User Experience (UX) Section
 
-</br>
-
-**First Time Visitor Goals**
+### First Time Visitor Goals
 
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 
@@ -147,7 +141,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. The social links are also presented in the footer of the page for good measure.
     3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media and highlights the links to them.
 
-**Returning Visitor Goals**
+### Returning Visitor Goals
 
 1. As a Returning Visitor, I want to spend time reading blog entries.
 
@@ -162,7 +156,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     4. Whichever link they click, it will open up in a new tab to ensure that the user can easily get back to the website.
     5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
-**Frequent User Goals**
+### Frequent User Goals
 
 1. As a Frequent User, I want to find information about new and/or improved skills.
 
@@ -241,7 +235,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   It's Friday night, I'm off to have a few beers and practice :D
 
 ## Known Bugs
-</br>
 
 **Social Link Alignment**
 
@@ -250,7 +243,6 @@ Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and F
 Fixed:
 
 Have added a top padding of 2px to push the links down slightly.
-</br>
 
 **Firefox Mobile Night Mode**
 
@@ -259,7 +251,6 @@ Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on t
 Fixed:
 
 Set Navbar z-index to 1, night viewing and normal viewing both ok.
-</br>
 
 **About Me Image Not Loading**
 
@@ -268,7 +259,6 @@ About me image was not loading when using Github pages. Had to start path with m
 Fixed:
 
 Set Navbar z-index to 1, night viewing and normal viewing both ok.
-</br>
 
 **Dropdown Navbar Sticking**
 
@@ -276,7 +266,7 @@ When pressing the dropdown menu in safari mobile (iphone-7), and choosing a sect
 
 ## Deployment
 
-**GitHub Pages**
+### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
 
@@ -288,7 +278,7 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-**Forking the GitHub Repository**
+### Forking the GitHub Repository
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
@@ -296,7 +286,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-**Making a Local Clone**
+### Making a Local Clone
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. Under the repository name, click "Clone or download".
