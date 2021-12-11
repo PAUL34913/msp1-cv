@@ -34,40 +34,40 @@ The index page will include sections for:
 -   Work History
 -   Testimonials
 
-## User stories
+### User stories
 
-### First Time Visitor Goals
+**First Time Visitor Goals**
 
 -   As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 -   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 -   As a First Time Visitor, I want to look for references or testimonials, and understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
 
-### Returning Visitor Goals
+**Returning Visitor Goals**
 
 -   As a Returning Visitor, I want to spend time reading blog entries.
 -   As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
 
-### Frequent User Goals
+**Frequent User Goals**
 
 -   As a Frequent User, I want to find information about new and/or improved skills.
 -   As a Frequent user, I want to check for new portfolio entries to view current work.
 -   As a Frequent user, I want to check for new blog posts.
 
-## Design
+### Design
 
-### Colour Scheme
+**Colour Scheme**
 
 -   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
-### Typography
+**Typography**
 
 -   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
 
-### magery
+**Imagery**
 
 -   For the hero image I have created a large image with bright popping colors against a darker background and used thick edges to highlight the image and accompanying hero text header. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
-## Wireframes
+### Wireframes
 
 These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
 
@@ -83,7 +83,7 @@ Click the images for a full screen view.
 </br>
 </br>
 
-## Features
+### Features
 
 -   Responsive on all device sizes
 
