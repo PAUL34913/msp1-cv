@@ -117,7 +117,7 @@ Click the images for a full screen view.
 
 ## Testing
 
-**Validator Testing**
+### Validator Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
