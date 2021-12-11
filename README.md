@@ -260,11 +260,11 @@ About me image was not loading when using Github pages. Had to start path with m
 
 Fixed:
 
-Set Navbar z-index to 1, night viewing and normal viewing both ok.
+Relative path was not correct for the d-lg image.
 
 **Dropdown Navbar Sticking**
 
-When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse after reaching the section and clicking off it.
+When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse easily after reaching the section and clicking off it.
 
 ## Deployment
 
