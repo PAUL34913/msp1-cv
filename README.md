@@ -96,7 +96,7 @@ Click the images for a full screen view.
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used
+## Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/download/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
