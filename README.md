@@ -120,9 +120,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
-## Testing User Stories from User Experience (UX) Section
+### Testing User Stories from User Experience (UX) Section
 
-### First Time Visitor Goals
+**First Time Visitor Goals**
 
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 
@@ -141,7 +141,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. The social links are also presented in the footer of the page for good measure.
     3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media and highlights the links to them.
 
-### Returning Visitor Goals
+**Returning Visitor Goals**
 
 1. As a Returning Visitor, I want to spend time reading blog entries.
 
@@ -156,7 +156,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     4. Whichever link they click, it will open up in a new tab to ensure that the user can easily get back to the website.
     5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
-### Frequent User Goals
+**Frequent User Goals**
 
 1. As a Frequent User, I want to find information about new and/or improved skills.
 
