@@ -7,6 +7,7 @@
 body {
     color: #fff;
     font-family: 'Exo', sans-serif;
+    text-align: center;
 }
 
 .row {
@@ -135,14 +136,15 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
+    border: 1px solid #000;
 }
 
 .about-me-text {
     padding-top: 40px;
+    text-align: center;
 }
 
 .about-me-row {
-    border: 1px solid #000;
     padding: 0 20px 50px 20px;
 }
 
@@ -164,4 +166,52 @@ ul {
 .about-me-image {
     max-width: 85%;
     padding-top: 20px;
+}
+
+/* My Skills */
+
+.my-skills {
+    color: rgb(0, 0, 0);
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000;
+}
+
+/* My Skills - Progress Bars */
+
+.progress {
+    height: 25px;
+}
+
+.progress-bar-red {
+    background-color: #f02121;
+}
+
+.progress-bar-blue {
+    background-color: #0095ff;
+}
+
+.progress-bar-purple {
+    background-color: #bb00ff;
+}
+
+.progress-bar-yellow {
+    background-color: #ffea00;
+}
+
+.progress-bar-lightblue {
+    background-color: #00d5ff;
+}
+
+.progress-bar-darkblue {
+    background-color: #000d9d;
+}
+
+.progress-bar-orange {
+    background-color: #ffb300;
+}
+
+.progress-bar-green {
+    background-color: #00e500;
 }

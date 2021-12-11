@@ -238,6 +238,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Started to work on the five planes within README.md
 -   It's Friday night, I'm off to have a few beers and practice :D
 
+**11/12/21**
+
+-   Worked on README.md and improved layout
+
 ## Known Bugs
 
 **Social Link Alignment**
@@ -321,13 +325,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 **Code**
 
 -   Bootstrap4:     https://getbootstrap.com/docs/4.4/getting-started/introduction/
-    </br>
-    </br>
+   
     Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 -   Dropdown-Menu:  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
-    </br>
-    </br>
+
     Dropdown menu in navbar, found on stack overflow on the above link
 
 **Content**
