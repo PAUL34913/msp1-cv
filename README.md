@@ -174,7 +174,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
     3. A call to action button has been created in order for users to sign up for newsletters, they will be notified of new blog entries by e-mail.
 
-**Further Testing**
+### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, and i-Pad.
