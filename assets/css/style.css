@@ -176,6 +176,33 @@ ul {
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
     border: 1px solid #000;
+    padding: 100px 20px 40px 20px;
+}
+
+.my-skills-header-row {
+    text-align: left;
+}
+
+.my-skills-row {
+    text-align: left;
+    font-size: 0.8rem;
+}
+
+.my-skills-text-left {
+    padding: 60px 20px 0 10px;
+}
+
+.my-skills-text-right {
+    padding: 40px 10px 0 20px;
+}
+
+.my-skills-content {
+    text-align: center;
+}
+
+.my-skills-sm {
+    max-width: 75%;
+    margin: 0 auto;
 }
 
 /* My Skills - Progress Bars */
@@ -214,4 +241,11 @@ ul {
 
 .progress-bar-green {
     background-color: #00e500;
+}
+
+/* Font Awseome Icons */
+
+.ms-icons {
+    color: #000;
+  
 }

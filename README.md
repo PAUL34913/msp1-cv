@@ -242,7 +242,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Worked on README.md and improved layout
 -   Created my-skills section
--   Added progress bars for skills
+-   Added progress bars for skill
+-   Added content to my-skills
+-   Added section image to my-skills
+-   My-skills now fully responsive
+-   My-skills section complete
 
 ## Known Bugs
 
@@ -344,11 +348,15 @@ Eagle Vector:       http://getdrawings.com/eagle-vector-free-download#eagle-vect
 
 Used in creation of hero image.
 
-Spiderweb Image:    http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
+Spiderweb Image:    https://www.pexels.com/@ellie-burgin-1661546png
 
 Used in creation of hero image.
 
-https://www.pexels.com/@ellie-burgin-1661546
+Several cogs image:    https://www.hiclipart.com/free-transparent-background-png-clipart-ibuzq
+
+Used for my-skills section image.
+
+
     
 **Acknowledgements**
 
