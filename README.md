@@ -252,6 +252,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed my-skills progress label issues on sm
 -   Fixed section image padding issue
 -   Created new hero image for i-pad version
+-   Added footer image to about-me section
 
 ## Known Bugs
 
@@ -361,7 +362,9 @@ Several cogs image:    https://www.hiclipart.com/free-transparent-background-png
 
 Used for my-skills section image.
 
+Silhouette Skyline Illustration:    https://www.vecteezy.com/vector-art/1218547-silhouette-skyline-illustration
 
+Used for about-me section footer image
     
 **Acknowledgements**
 
