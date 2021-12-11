@@ -1,6 +1,4 @@
-# Full Stack Web Development - Milestone Project 1
-
-## Online Resume
+# Milestone Project 1 - Online Resume
 
 **Repo:** 
 
