@@ -251,6 +251,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed my-skills text padding issue
 -   Fixed my-skills progress label issues on sm
 -   Fixed section image padding issue
+-   Created new hero image for i-pad version
 
 ## Known Bugs
 
