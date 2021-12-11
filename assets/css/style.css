@@ -206,6 +206,12 @@ ul {
     margin: 0 auto;
 }
 
+/* My Skills - Font Awseome Icons */
+
+.ms-icons {
+    color: #000;
+}
+
 /* My Skills - Progress Bars */
 
 .progress {
@@ -244,8 +250,3 @@ ul {
     background-color: #00e500;
 }
 
-/* Font Awseome Icons */
-
-.ms-icons {
-    color: #000;
-}
