@@ -226,7 +226,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed about me image
 -   Added working link from navbar to about me section
 -   Fixed about me landing position when jumping from navbar link on mobile
--   Completed about me section, merging dev with main
+-   Completed about me section
 
 **09/12/21**
 
