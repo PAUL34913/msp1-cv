@@ -218,19 +218,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Revision and improvement of README.md
 -   Created about me section (not responsive)
--   Created about me section image.
--   About me section now fully responsive.
--   Fixed about me section paddings and margins.
--   Added drop-down menu to navbar.
--   Styled drop-down menu.
--   Fixed about me image.
--   Added working link from navbar to about me section.
--   Fixed about me landing position when jumping from navbar link on mobile.
--   Completed about me section, merging dev with main.
+-   Created about me section image
+-   About me section now fully responsive
+-   Fixed about me section paddings and margins
+-   Added drop-down menu to navbar
+-   Styled drop-down menu
+-   Fixed about me image
+-   Added working link from navbar to about me section
+-   Fixed about me landing position when jumping from navbar link on mobile
+-   Completed about me section, merging dev with main
 
 **09/12/21**
 
--   Fixed about me image not loading on github pages.
+-   Fixed about me image not loading on github pages
 
 **10/12/21**
 
@@ -241,6 +241,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 **11/12/21**
 
 -   Worked on README.md and improved layout
+-   Created my-skills section
+-   Added progress bars for skills
 
 ## Known Bugs
 
