@@ -254,6 +254,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Created new hero image for i-pad version
 -   Added footer image to about-me section
 -   Removed about-me bottom bar
+-   Removed lorem ipsum
 
 ## Known Bugs
 
