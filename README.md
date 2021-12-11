@@ -57,7 +57,7 @@ The index page will include sections for:
 
 **Colour Scheme**
 
--   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
+-   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, that will also benefit users who wish to use dark or night modes with their browser. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
 **Typography**
 
@@ -247,6 +247,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added section image to my-skills
 -   My-skills now fully responsive
 -   My-skills section complete
+-   Fixed my-skills md responsive issues
+-   Fixed my-skills padding issue
+-   Fixed my-skills progress label issues on sm
 
 ## Known Bugs
 
