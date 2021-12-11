@@ -10,11 +10,9 @@ https://github.com/PAUL34913/msp1-online-resume
 
 https://paul34913.github.io/msp1-online-resume/
 
-</br>
-
 ## Introduction
 
-    This is the website for my online resume as part of milestone project 1 for my full stack web development course with Code Institute. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential employers, fellow students, tutors, or anyone else who may be interested in my information.
+This is the website for my online resume as part of milestone project 1 for my full stack web development course with Code Institute. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential employers, fellow students, tutors, or anyone else who may be interested in my information.
 
 ![Website Mockup](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/mockup.png "Website Mockup")
 
@@ -22,76 +20,76 @@ https://paul34913.github.io/msp1-online-resume/
 
 **Strategy**
 
-    The aim of the site is to create a webspace with personal information in the form of an online resume. I also intend to use it to advertise myself for collaborations, and display my own work to pontential employers, clients or colleagues.
+The aim of the site is to create a webspace with personal information in the form of an online resume. I also intend to use it to advertise myself for collaborations, and display my own work to pontential employers, clients or colleagues.
 
-    By creating the site, I hope to increase my network of students and peers, whilst creating opportunity for future work and collaborations. It is to be my online presence and proof of skills to anyone who may be interested.
+By creating the site, I hope to increase my network of students and peers, whilst creating opportunity for future work and collaborations. It is to be my online presence and proof of skills to anyone who may be interested.
 
 **Scope**
 
-    For this project I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read like a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages, to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
+For this project I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read like a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages, to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
 
-    The index page will include sections for:
+The index page will include sections for:
 
-    -   About me
-    -   My Skills
-    -   Personal Info
-    -   Work History
-    -   Testimonials
+-   About me
+-   My Skills
+-   Personal Info
+-   Work History
+-   Testimonials
 
 ## User stories
 
 **First Time Visitor Goals**
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for references or testimonials, and understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
+2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+3. As a First Time Visitor, I want to look for references or testimonials, and understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
 
 **Returning Visitor Goals**
 
-        1. As a Returning Visitor, I want to spend time reading blog entries.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
+1. As a Returning Visitor, I want to spend time reading blog entries.
+2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
 
 **Frequent User Goals**
 
-        1. As a Frequent User, I want to find information about new and/or improved skills.
-        2. As a Frequent user, I want to check for new portfolio entries to view current work.
-        3. As a Frequent user, I want to check for new blog posts.
+1. As a Frequent User, I want to find information about new and/or improved skills.
+2. As a Frequent user, I want to check for new portfolio entries to view current work.
+3. As a Frequent user, I want to check for new blog posts.
 
 ## Design
 
 **Colour Scheme**
 
-        -   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
+-   The sites theme consists of a white background, contrasted by black bars and trims, with the sections alternating between black and white. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
 **Typography**
 
-        -   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
+    -   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
 
 **Imagery**
 
-        -   For the hero image I have created a large image with bright popping colors against a darker background and used thick edges to highlight the image and accompanying hero text header. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
+    -   For the hero image I have created a large image with bright popping colors against a darker background and used thick edges to highlight the image and accompanying hero text header. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
 ## Wireframes
 
-    These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
+These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
 
-    Click the images for a full screen view.
-    
+Click the images for a full screen view.
+
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
-    </br>
-    </br>
+</br>
+</br>
 ![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
-    </br>
-    </br>
+</br>
+</br>
 ![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
-    </br>
-    </br>
+</br>
+</br>
 
 ## Features
 
-    -   Responsive on all device sizes
+-   Responsive on all device sizes
 
-    -   Interactive elements
+-   Interactive elements
 
 ## Technologies Used
 
@@ -134,22 +132,22 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 **First Time Visitor Goals**
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar at the top of the page, enabling the user to go to the page of their choice. Underneath the navbar is an eye catching hero image that clearly defines the purpose of the site.
-        2. The main points are made immediately with the hero image.
-        3. Also at there very top of the page, there is a call to action button along with social links.
+- Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar at the top of the page, enabling the user to go to the page of their choice. Underneath the navbar is an eye catching hero image that clearly defines the purpose of the site.
+- The main points are made immediately with the hero image.
+- Also at there very top of the page, there is a call to action button along with social links.
 
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
-        2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
-        3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
+    1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
+    2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
+    3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
-    3. As a First Time Visitor, I want to look for references or testimonials to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
-        1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the testimonials section,social links are also presented at the very top of the page using easy to see icons.
-        2. The social links are also presented in the footer of the page for good measure.
-        3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media and highlights the links to them.
+3. As a First Time Visitor, I want to look for references or testimonials to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+    1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the testimonials section,social links are also presented at the very top of the page using easy to see icons.
+    2. The social links are also presented in the footer of the page for good measure.
+    3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media and highlights the links to them.
 
 **Returning Visitor Goals**
 
