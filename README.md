@@ -110,6 +110,8 @@ Click the images for a full screen view.
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
+1. [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop/landpa.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=38065da0fd621f6893cd3c145f3deef6:G:s&s_kwcid=AL!3085!10!79371107814531!79371160303225)
+    - Adobe Photoshop was used to edit the images for the site.
 1. [Balsamiq](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
