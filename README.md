@@ -248,8 +248,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   My-skills now fully responsive
 -   My-skills section complete
 -   Fixed my-skills md responsive issues
--   Fixed my-skills padding issue
+-   Fixed my-skills text padding issue
 -   Fixed my-skills progress label issues on sm
+-   Fixed section image padding issue
 
 ## Known Bugs
 
