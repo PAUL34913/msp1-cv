@@ -257,6 +257,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Removed lorem ipsum
 -   Added downloadable CV file and linked to navbar
 -   Added new about-me section image
+-   Added about-me section footer image
+-   Added my-skills header image
 
 
 ## Known Bugs
@@ -370,6 +372,10 @@ Used for my-skills section image.
 Silhouette Skyline Illustration:    https://www.vecteezy.com/vector-art/1218547-silhouette-skyline-illustration
 
 Used for about-me section footer image
+
+Mountain Tree Silhouette:    http://getdrawings.com/img/mountain-tree-silhouette-29.png
+
+Used for my-skills section header image
     
 **Acknowledgements**
 
