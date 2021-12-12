@@ -266,6 +266,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added basic layout for personal info section
 -   Personal info section now responsive
 -   Fixed layout responsive layout issues
+-   Styled personal-skills table
+-   Tweaked navbar styling
+-   Increased height of bottom bars
+-   Added personal-info header image
 
 
 ## Known Bugs
@@ -364,25 +368,29 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 **Media**
 
-Eagle Vector:       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
+-   Eagle Vector:       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
 
-Used in creation of hero image.
+    Used in creation of hero image.
 
-Spiderweb Image:    https://www.pexels.com/@ellie-burgin-1661546png
+-   Spiderweb Image:    https://www.pexels.com/@ellie-burgin-1661546png
 
-Used in creation of hero image.
+    Used in creation of hero image.
 
-Several cogs image:    https://www.hiclipart.com/free-transparent-background-png-clipart-ibuzq
+-   Several cogs image:    https://www.hiclipart.com/free-transparent-background-png-clipart-ibuzq
 
-Used for my-skills section image.
+    Used for my-skills section image.
 
-Silhouette Skyline Illustration:    https://www.vecteezy.com/vector-art/1218547-silhouette-skyline-illustration
+-   Silhouette Skyline Illustration:    https://www.vecteezy.com/vector-art/1218547-silhouette-skyline-illustration
 
-Used for about-me section footer image
+    Used for about-me section footer image
 
-Mountain Tree Silhouette:    http://getdrawings.com/img/mountain-tree-silhouette-29.png
+-   Mountain Tree Silhouette:    http://getdrawings.com/img/mountain-tree-silhouette-29.png
 
-Used for my-skills section header image
+    Used for my-skills section header image
+
+-   Cloud Silhouette:    https://creazilla.com/nodes/2715-cloud-silhouette
+
+    Used for personal-info section header image
     
 **Acknowledgements**
 

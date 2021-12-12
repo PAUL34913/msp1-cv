@@ -66,6 +66,7 @@ ul {
     font-size: 0.8rem;
     float: left;
     padding: 12px 0 0 10px;
+    color: #fff;
 }
 
 /* Navbar */
@@ -99,11 +100,6 @@ ul {
 
 .n-bar a:hover {
     text-decoration: none;
-    color: #000000;
-}
-
-.active {
-    font-weight: bold;
     color: #dc3545;
 }
 
@@ -127,7 +123,7 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     background-color: #000;
-    height: 40px;
+    height: 80px;
     border: 1px solid #000;
 }
 
@@ -271,8 +267,22 @@ ul {
 
 .personal-info-table {
     padding: 0 25px 25px 25px;
+    text-align: left;
 }
 
 .map {
     padding: 0 0 100px 0;
+}
+
+/* Work History */
+
+.work-history {
+    border: 1px solid #000;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.work-history-header {
+    padding: 100px 0 25px 0;
+    text-align: center;
 }
