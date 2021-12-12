@@ -263,7 +263,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 **11/12/21**
 
 -   Worked on README.md
--   Added basic layout for personal info section
+-   Added basic layout for personal-info section
 -   Embedded a google map into personal-info section
 -   Personal info section now responsive
 -   Fixed layout responsive layout issues
@@ -274,6 +274,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added clickable phone link to personal-info
 -   Added peronal-info footer-image
 -   Fine tuned layout
+-   Added basic layout for work-history section
+-   Added work-history footer image
 
 
 ## Known Bugs
@@ -403,6 +405,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   Houses Silhouette:    https://clipground.com/suburb-silhouette-clipart.html
 
     Used for personal-info section footer image
+
+-   Industrial Silhouette:    https://creazilla.com/nodes/2242-industrial-silhouette
+
+    Used for work-history section footer image
     
 **Acknowledgements**
 
