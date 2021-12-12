@@ -270,6 +270,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Tweaked navbar styling
 -   Increased height of bottom bars
 -   Added personal-info header image
+-   Added clickable phone link to personal-info
+-   Added peronal-info footer-image
+-   Fine tuned layout
 
 
 ## Known Bugs

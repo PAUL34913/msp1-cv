@@ -139,6 +139,7 @@ ul {
 
 .about-me-text {
     padding-top: 40px;
+    margin-top: 15px;
     text-align: center;
 }
 
@@ -261,7 +262,7 @@ ul {
 }
 
 .personal-info-header {
-    padding: 100px 0 25px 0;
+    padding: 110px 0 25px 0;
     text-align: center;
 }
 
