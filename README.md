@@ -255,6 +255,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added footer image to about-me section
 -   Removed about-me bottom bar
 -   Removed lorem ipsum
+-   Added downloadable CV file and linked to navbar
+-   Added new about-me section image
+
 
 ## Known Bugs
 
