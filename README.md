@@ -276,6 +276,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fine tuned layout
 -   Added basic layout for work-history section
 -   Added work-history footer image
+-   Work-history section now responsive
 
 
 ## Known Bugs
