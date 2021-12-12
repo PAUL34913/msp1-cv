@@ -264,6 +264,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Worked on README.md
 -   Added basic layout for personal info section
+-   Embedded a google map into personal-info section
 -   Personal info section now responsive
 -   Fixed layout responsive layout issues
 -   Styled personal-skills table
@@ -365,6 +366,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Dropdown menu in navbar, found on stack overflow on the above link
 
+-   Google-map:  https://www.embedgooglemap.net/
+
+    Map in personal-info section, customised from the above source.
+
 **Content**
 
 -   All content was written by the developer.
@@ -394,6 +399,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   Cloud Silhouette:    https://creazilla.com/nodes/2715-cloud-silhouette
 
     Used for personal-info section header image
+
+-   Houses Silhouette:    https://clipground.com/suburb-silhouette-clipart.html
+
+    Used for personal-info section footer image
     
 **Acknowledgements**
 
