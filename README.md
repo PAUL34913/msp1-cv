@@ -264,6 +264,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Worked on README.md
 -   Added basic layout for personal info section
+-   Personal info section now responsive
+-   Fixed layout responsive layout issues
 
 
 ## Known Bugs

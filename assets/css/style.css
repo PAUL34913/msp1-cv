@@ -178,7 +178,7 @@ ul {
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
     border: 1px solid #000;
-    padding: 0px 0px 40px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .my-skills-header-row {
@@ -201,7 +201,6 @@ ul {
 
 .my-skills-content {
     text-align: center;
-    padding-bottom: 100px;
 }
 
 .my-skills-sm {
@@ -266,21 +265,14 @@ ul {
 }
 
 .personal-info-header {
-    padding-top: 50px;
+    padding: 100px 0 25px 0;
+    text-align: center;
 }
 
-.personal-info-lbl {
-    text-align: left;
-    padding: 50px 0 0 0;
-    font-weight: bold;
-}
-
-.personal-info-value {
-    text-align: left;
-    padding: 50px 0 0 0;
-    text-align: right;
+.personal-info-table {
+    padding: 0 25px 25px 25px;
 }
 
 .map {
-    padding: 50px 0 50px 20px;
+    padding: 0 0 100px 0;
 }
