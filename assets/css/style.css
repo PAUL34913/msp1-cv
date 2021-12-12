@@ -208,6 +208,10 @@ ul {
     margin: 0 auto;
 }
 
+.ms-pb-padding {
+    padding-top: 31px;
+}
+
 /* My Skills - Font Awseome Icons */
 
 .ms-icons {
