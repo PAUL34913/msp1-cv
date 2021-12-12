@@ -291,3 +291,22 @@ ul {
 .work-history-row {
     padding: 0px 0 100px 0;
 }
+
+.mycard {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 0 0 20px 0;
+    margin: 0 0 50px 0;;
+}
+
+.mycard-header {
+    background-color: rgb(200, 200, 200);
+    border-radius: 10px 10px 0 0;
+    font-size: 1.25vh;
+}
+
+.btn-work-history {
+    background-color: #dc3545;
+    font-weight: bold;
+    color: #fff;
+}
