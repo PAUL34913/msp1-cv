@@ -272,11 +272,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Increased height of bottom bars
 -   Added personal-info header image
 -   Added clickable phone link to personal-info
--   Added peronal-info footer-image
+-   Added personal-info footer-image
 -   Fine tuned layout
 -   Added basic layout for work-history section
 -   Added work-history footer image
 -   Work-history section now responsive
+-   Added cards to work-history layout
+-   Added links to previous employer websites
+-   Linked work-history section to navbar and adjusted landing
 
 
 ## Known Bugs
