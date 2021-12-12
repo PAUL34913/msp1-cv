@@ -7,6 +7,7 @@
 body {
     color: #fff;
     font-family: 'Exo', sans-serif;
+    color: #000;
     text-align: center;
 }
 
@@ -256,3 +257,30 @@ ul {
     background-color: #00e500;
 }
 
+/* Personal Info */
+
+.personal-info {
+    border: 1px solid #000;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.personal-info-header {
+    padding-top: 50px;
+}
+
+.personal-info-lbl {
+    text-align: left;
+    padding: 50px 0 0 0;
+    font-weight: bold;
+}
+
+.personal-info-value {
+    text-align: left;
+    padding: 50px 0 0 0;
+    text-align: right;
+}
+
+.map {
+    padding: 50px 0 50px 20px;
+}

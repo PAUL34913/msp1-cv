@@ -260,6 +260,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added about-me section footer image
 -   Added my-skills header image
 
+**11/12/21**
+
+-   Worked on README.md
+-   Added basic layout for personal info section
+
 
 ## Known Bugs
 
