@@ -291,6 +291,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed padding issues
 -   Fixed work-history dates being recognised as phone links
 -   Added links to Code Institute in content mentions
+-   Added portfolio page template
+-   Added blog page template
+-   Fixed dropdown links from all pages
 
 ## Known Bugs
 

@@ -76,6 +76,10 @@ ul {
 
 /* Navbar */
 
+.active {
+    color: #dc3545;
+}
+
 .dropdown:hover .dropdown-menu {
     display: inline;
 }
