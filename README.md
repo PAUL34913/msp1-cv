@@ -260,7 +260,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added about-me section footer image
 -   Added my-skills header image
 
-**11/12/21**
+**12/12/21**
 
 -   Worked on README.md
 -   Added basic layout for personal-info section
@@ -281,6 +281,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added links to previous employer websites
 -   Linked work-history section to navbar and adjusted landing
 
+**13/12/21**
+
+-   Removed dead class names
+-   Removed work-history header
 
 ## Known Bugs
 
