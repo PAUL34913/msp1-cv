@@ -201,7 +201,7 @@ ul {
 .my-skills-text-header {
     text-align: left;
     text-indent: 20px;
-    padding: 40px 20px 10px 0px;
+    padding: 10px 20px 0px 0px;
 }
 
 .my-skills-text-body {
@@ -218,7 +218,7 @@ ul {
 }
 
 .ms-pb-padding {
-    padding-top: 31px;
+    padding-top: 20px;
 }
 
 /* My Skills - Font Awseome Icons */
