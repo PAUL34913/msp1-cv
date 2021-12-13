@@ -180,6 +180,7 @@ ul {
 
 .my-skills-header-row {
     text-align: left;
+    text-indent: 20px;
     padding: 100px 20px 0 0;
 }
 
@@ -188,12 +189,14 @@ ul {
     font-size: 1.25rem;
 }
 
-.my-skills-text-left {
-    padding: 60px 20px 0 10px;
+.my-skills-text-header {
+    text-align: left;
+    text-indent: 20px;
+    padding: 40px 20px 10px 0px;
 }
 
-.my-skills-text-right {
-    padding: 40px 10px 0 20px;
+.my-skills-text-body {
+    padding: 0px 20px 0 20px;
 }
 
 .my-skills-content {
@@ -263,7 +266,8 @@ ul {
 
 .personal-info-header {
     padding: 112px 0 25px 0;
-    text-align: center;
+    text-align: left;
+    text-indent: 20px;
 }
 
 .personal-info-table {
@@ -285,7 +289,8 @@ ul {
 
 .work-history-header {
     padding: 100px 0 25px 0;
-    text-align: center;
+    text-align: left;
+    text-indent: 20px;
 }
 
 .work-history-row {
