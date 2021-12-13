@@ -4,6 +4,11 @@
 
 /* General */
 
+.ci-link:hover {
+    text-decoration: none;
+    color: #dc3545;
+}
+
 body {
     color: #fff;
     font-family: 'Exo', sans-serif;

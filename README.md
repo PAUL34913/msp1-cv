@@ -287,6 +287,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Removed work-history header
 -   Added new work-history-header
 -   Added footer, copyright, and social links
+-   Fixed layout and response issues
+-   Fixed padding issues
+-   Fixed work-history dates being recognised as phone links
+-   Added links to Code Institute in content mentions
 
 ## Known Bugs
 
