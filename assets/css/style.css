@@ -310,3 +310,14 @@ ul {
     font-weight: bold;
     color: #fff;
 }
+
+/* Footer */
+
+.footer-main-bar {
+    background-color: #000;
+    height: 60px;
+    z-index: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+

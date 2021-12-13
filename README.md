@@ -286,6 +286,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Removed dead class names
 -   Removed work-history header
 -   Added new work-history-header
+-   Added footer, copyright, and social links
 
 ## Known Bugs
 
