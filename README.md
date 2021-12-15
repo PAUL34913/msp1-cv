@@ -307,6 +307,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Portfolio landing position fixed
 -   Added portfolio footer image
 -   Removed hero image from portfolio and blog pages
+-   Created a basic structure for the blog page including a video header
 
 ## Known Bugs
 
@@ -398,9 +399,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Dropdown menu in navbar, found on stack overflow on the above link.
 
--   Google-map:  https://www.google.com/maps?ll=51.59594,-3.788783&z=13&t=h&hl=en-GB&gl=US&mapclient=embed&q=Port+Talbot
+-   Google-map:  https://www.google.com/maps
 
     Map in personal-info section, embedded responsively using Bootstrap.
+
+-   Youtube:  https://www.youtube.com/
+
+    Music video in blog, embedded resposively using bootstrap.
 
 **Content**
 
