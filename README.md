@@ -439,6 +439,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Used for work-history section footer image
     
+-   Sea Silhouette:   http://www.supercoloring.com/sites/default/files/silhouettes/2015/05/sea-waves-black-silhouette.svg
+
+    Used for portfolio section footer image
+
 **Acknowledgements**
 
 -   My Sons, Thomas and James, for their help with testing the site on a variety of devices.

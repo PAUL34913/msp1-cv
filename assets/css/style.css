@@ -359,12 +359,15 @@ ul {
 
 .pf-hero-text {
     text-align: center;
+    font-size: 0.75rem;
 }
 
 .pf-content {
     text-align: left;
+
 }
 
 .pf-msp1-header {
     text-align: left;
+    text-indent: 20px;
 }
