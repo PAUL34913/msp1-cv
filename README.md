@@ -295,6 +295,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added blog page template
 -   Fixed dropdown links from all pages
 
+**15/12/21**
+
+-   HTML validated on https://validator.w3.org/nu/#textarea
+-   Fixed issues with iframe and missing header from footer
+-   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
+-   Changed layout of footer
+-   Home page content complete
+
 ## Known Bugs
 
 **Social Link Alignment**
@@ -383,11 +391,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   Dropdown-Menu:  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
 
-    Dropdown menu in navbar, found on stack overflow on the above link
+    Dropdown menu in navbar, found on stack overflow on the above link.
 
--   Google-map:  https://www.embedgooglemap.net/
+-   Google-map:  https://www.google.com/maps?ll=51.59594,-3.788783&z=13&t=h&hl=en-GB&gl=US&mapclient=embed&q=Port+Talbot
 
-    Map in personal-info section, customised from the above source.
+    Map in personal-info section, embedded responsively using Bootstrap.
 
 **Content**
 

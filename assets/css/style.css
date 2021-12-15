@@ -4,6 +4,10 @@
 
 /* General */
 
+a:hover {
+    text-decoration: none;
+}
+
 .ci-link:hover {
     text-decoration: none;
     color: #dc3545;
@@ -284,10 +288,6 @@ ul {
     text-align: left;
 }
 
-.map {
-    padding: 0 0 100px 0;
-}
-
 /* Work History */
 
 .work-history {
@@ -329,9 +329,16 @@ ul {
 
 .footer-main-bar {
     background-color: #000;
-    height: 60px;
+    height: 150px;
     z-index: 1;
     max-width: 1200px;
     margin: 0 auto;
+    font-size: 5px;
+
 }
+
+.collaborate-text {
+    text-align: center;
+}
+
 
