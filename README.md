@@ -302,6 +302,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 -   Changed layout of footer
 -   Home page content complete
+-   Portfolio content and basic layout complete
+-   Portfolio default response ok
+-   Portfolio landing position fixed
+-   Added portfolio footer image
 
 ## Known Bugs
 

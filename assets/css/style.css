@@ -349,6 +349,10 @@ ul {
     margin: 0 auto;
 }
 
+.portfolio-container {
+    padding: 50px 0 0 0;
+}
+
 .mfmp-image {
     border: 1px solid #000;
 }
