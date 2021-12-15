@@ -306,6 +306,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Portfolio default response ok
 -   Portfolio landing position fixed
 -   Added portfolio footer image
+-   Removed hero image from portfolio and blog pages
 
 ## Known Bugs
 
