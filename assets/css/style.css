@@ -341,4 +341,26 @@ ul {
     text-align: center;
 }
 
+/* Portfolio */
 
+.portfolio {
+    border: 1px solid #000000;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.mfmp-image {
+    border: 1px solid #000;
+}
+
+.pf-hero-text {
+    text-align: center;
+}
+
+.pf-content {
+    text-align: left;
+}
+
+.pf-msp1-header {
+    text-align: left;
+}
