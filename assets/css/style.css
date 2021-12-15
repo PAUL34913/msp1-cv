@@ -371,3 +371,22 @@ ul {
     text-align: left;
     text-indent: 20px;
 }
+
+/* music */
+
+.sos-video {
+    max-width: 1200px;
+    border: 1px solid #000;
+    margin: 0 auto !important;
+}  
+
+.video-header {
+    padding: 20px 0 0 0;
+}
+
+.blog-container {
+    padding: 50px 0 0 0;
+    border: 1px solid#000;
+    margin: 0 auto;
+    max-width: 1200px;
+}
