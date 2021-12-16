@@ -319,6 +319,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Tweaked layout and response
 -   General cleanup
 -   Reduced amount of skills showing in my-skills to 3 on small mobile devices and below
+-   Fixed padding issue below progress bars in my-skills section
 
 ## Known Bugs
 
