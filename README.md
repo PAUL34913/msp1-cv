@@ -315,6 +315,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Amended layout to facilitate fix.
 -   Added footer image to Blog
 -   Added video to blog
+-   Finished blog layout
+-   Tweaked layout and response
 
 ## Known Bugs
 
@@ -342,7 +344,7 @@ Fixed:
 
 Relative path was not correct for the d-lg image.
 
-**Social Link Alignment**
+**1px White Lines**
 
 White 1px horizontal showing at bottom of two section footers when viewing on safari mobile
 
@@ -462,7 +464,15 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
     
 -   Sea Silhouette:   http://www.supercoloring.com/sites/default/files/silhouettes/2015/05/sea-waves-black-silhouette.svg
 
-    Used for portfolio section footer image
+    Used for portfolio page footer image
+
+-   Mountain Silhouette:   http://getdrawings.com/img/mountain-silhouette-transparent-2.png
+
+    Used for blog page footer image
+
+-   Music Video by Sick of Sirens: https://www.youtube.com/watch?v=Lqz_4QlgbeI&feature=emb_imp_woyt
+
+    Used for post on blog page (written and recorded by me, see youtube description)
 
 **Acknowledgements**
 

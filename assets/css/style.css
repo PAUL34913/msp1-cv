@@ -209,7 +209,7 @@ ul {
 .my-skills-text-header {
     text-align: left;
     text-indent: 20px;
-    padding: 10px 20px 0px 0px;
+    padding: 10px 0 0px 0px;
 }
 
 .my-skills-text-body {
@@ -371,12 +371,12 @@ ul {
 
 .pf-content {
     text-align: left;
-    padding-top: 20px;
 
 }
 
 .pf-msp1-header {
-    text-align: center;
+    text-align: left;
+    padding: 5px 0 10px 0;
 }
 
 .pf-footer {
@@ -393,12 +393,24 @@ ul {
     margin: 0 auto !important;
 }  
 
-.video-header {
-    padding: 20px 0 20px 0;
+.blog-header {
+    text-align: left;
+    text-indent: 5px;
+    padding-top: 70px;
+}
+
+.blog-post1-header {
+    padding: 50px 0 10px 0;
+    text-align: left;
 }
 
 .blog-container {
-    padding: 50px 0 0 0;
+
     margin: 0 auto;
     max-width: 1200px;
+}
+
+.blog-content {
+    text-align: left;
+
 }
