@@ -309,6 +309,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Removed hero image from portfolio and blog pages
 -   Created a basic structure for the blog page including a video header
 
+**16/12/21**
+
+-   Fixed layout issue causing a white 1px horizontal line across the bottom of two footers when viewing on actual mobile devices.
+-   Fixed 
+
 ## Known Bugs
 
 **Social Link Alignment**
@@ -334,6 +339,14 @@ About me image was not loading when using Github pages. Had to start path with m
 Fixed:
 
 Relative path was not correct for the d-lg image.
+
+**Social Link Alignment**
+
+White 1px horizontal showing at bottom of two section footers when viewing on safari mobile
+
+Fixed:
+
+I was using a 1px border on individual sections causing a double border which seemed to be at fault, fixed by removing section borders and placing on the main container.
 
 **Dropdown Navbar Sticking**
 

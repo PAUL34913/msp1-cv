@@ -197,7 +197,7 @@ ul {
 
 .my-skills-header-row {
     text-align: left;
-    text-indent: 20px;
+    text-indent: 10px;
     padding: 100px 20px 0 0;
 }
 
@@ -352,6 +352,12 @@ ul {
 
 .portfolio-container {
     padding: 50px 0 0 0;
+    text-align: left;
+}
+
+.portfolio-header {
+    text-indent: 50px;
+    padding: 70px 0 0 20px;
 }
 
 .mfmp-image {
@@ -365,12 +371,13 @@ ul {
 
 .pf-content {
     text-align: left;
+    padding-top: 20px;
 
 }
 
 .pf-msp1-header {
-    text-align: left;
-    text-indent: 20px;
+    text-align: center;
+    text-indent: 0px;
 }
 
 .pf-footer {
