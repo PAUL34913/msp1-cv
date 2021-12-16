@@ -307,12 +307,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Portfolio landing position fixed
 -   Added portfolio footer image
 -   Removed hero image from portfolio and blog pages
--   Created a basic structure for the blog page including a video header
+-   Created a basic structure for the blog page
 
 **16/12/21**
 
 -   Fixed layout issue causing a white 1px horizontal line across the bottom of two footers when viewing on actual mobile devices.
--   Fixed 
+-   Amended layout to facilitate fix.
+-   Added footer image to Blog
+-   Added video to blog
 
 ## Known Bugs
 
