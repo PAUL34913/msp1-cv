@@ -323,6 +323,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   HTML validated with no errors on https://validator.w3.org/nu/#textarea
 -   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 
+**17/12/21**
+
+-   Added a portfolio project image for small mobile devices, also made responsive
+-   Made youtube video on blog page responsive
+-   Added preload to hero images
+
 ## Known Bugs
 
 **Social Link Alignment**
