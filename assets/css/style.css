@@ -420,3 +420,30 @@ ul {
     text-align: left;
 
 }
+
+/* form */
+
+.form {
+    text-align: left;
+}
+
+.form-form {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#fullname {
+    width: 100%
+}
+
+#email-address {
+    width: 100%
+}
+
+#phone-number {
+    width: 100%
+}
+
+#message-text {
+    width: 100%
+}

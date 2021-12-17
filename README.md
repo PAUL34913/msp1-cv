@@ -327,7 +327,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Added a portfolio project image for small mobile devices, also made responsive
 -   Made youtube video on blog page responsive
--   Added preload to hero images
 
 ## Known Bugs
 
