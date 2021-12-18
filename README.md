@@ -341,6 +341,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   Updated navbar
 -   Updated layout and landing positions
+-   Edited form image
+-   Fixed blog layout response
+-   Fixed footer layout issue
 -   Site ready for 2nd mentor meeting
 
 ## Known Bugs
