@@ -334,13 +334,10 @@ ul {
     height: 150px;
     z-index: 1;
     max-width: 1200px;
-    margin: 1 auto;
+    margin: 0 auto;
     border: 1px solid #000;
-
-}
-
-.collaborate-text {
     text-align: center;
+    padding-top: 20px;
 }
 
 /* Portfolio */
