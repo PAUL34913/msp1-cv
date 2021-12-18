@@ -451,17 +451,21 @@ ul {
 }
 
 #fullname {
-    width: 100%
+    width: 100%;
+    font-size: 0.8rem;
 }
 
 #email-address {
-    width: 100%
+    width: 100%;
+    font-size: 0.8rem;
 }
 
 #phone-number {
-    width: 100%
+    width: 100%;
+    font-size: 0.8rem;
 }
 
 #message-text {
-    width: 100%
+    width: 100%;
+    font-size: 0.8rem;
 }
