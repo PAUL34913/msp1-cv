@@ -329,6 +329,16 @@ ul {
 
 /* Footer */
 
+.footer-main-bar {
+    background-color: #000;
+    height: 150px;
+    z-index: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 5px;
+
+}
+
 .collaborate-text {
     text-align: center;
 }
