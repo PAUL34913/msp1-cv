@@ -335,9 +335,11 @@ ul {
     z-index: 1;
     max-width: 1200px;
     margin: 0 auto;
-    border: 1px solid #000;
     text-align: center;
-    padding-top: 20px;
+}
+
+.footer-border {
+    border: 1px solid #000;
 }
 
 /* Portfolio */
