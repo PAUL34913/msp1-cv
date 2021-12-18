@@ -1,6 +1,6 @@
 # Milestone Project 1 - Online Resume
 
-Please use the hamburger menu at the top left if you wish to browse the index.
+Please use the hamburger menu at the top left of this README if you wish to browse the index.
 
 **Repo:** 
 
