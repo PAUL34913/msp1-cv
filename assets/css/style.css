@@ -299,9 +299,9 @@ ul {
 }
 
 .work-history-header {
-    padding: 100px 0 25px 0;
+    padding: 110px 0 25px 0;
     text-align: left;
-    text-indent: 20px;
+    text-indent: 5px;
 }
 
 .work-history-row {
@@ -430,6 +430,24 @@ ul {
 .form-form {
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.form-header {
+    padding: 70px 0 0 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-indent: 5px;
+}
+
+.form-footer-image {
+    vertical-align: bottom;
+    border: 0;
+}
+
+.small-text {
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-align: center;
 }
 
 #fullname {

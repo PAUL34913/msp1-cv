@@ -326,7 +326,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 **17/12/21**
 
 -   Added a portfolio project image for small mobile devices, also made responsive
--   Made youtube video on blog page responsive
+-   Youtube video on blog page now responsive
+-   Created initial layout for form
+-   Added form page image
+-   Form page now responsive
+-   Fixed form layout
+-   Set form validation
 
 ## Known Bugs
 
@@ -483,6 +488,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   Music Video by Sick of Sirens: https://www.youtube.com/watch?v=Lqz_4QlgbeI&feature=emb_imp_woyt
 
     Used for post on blog page (written and recorded by me, see youtube description)
+
+-   Call Customer Silhouette:   https://pxhere.com/en/photo/1446823
+
+    Used for contact me page footer image
 
 **Acknowledgements**
 
