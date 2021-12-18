@@ -423,6 +423,12 @@ ul {
 
 /* form */
 
+.btn-form {
+    background-color: #dc3545;
+    font-weight: bold;
+    color: #fff;
+}
+
 .form {
     text-align: left;
 }
@@ -468,4 +474,11 @@ ul {
 #message-text {
     width: 100%;
     font-size: 0.8rem;
+}
+
+/* form success */
+
+.form-success-header {
+    padding: 70px 0 0 0;
+    margin: 0 0 600px 0;
 }

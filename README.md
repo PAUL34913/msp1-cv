@@ -332,6 +332,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Form page now responsive
 -   Fixed form layout
 -   Set form validation
+-   Added form success page
+-   Added submit button link to form success page
 
 ## Known Bugs
 
