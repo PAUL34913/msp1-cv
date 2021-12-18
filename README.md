@@ -1,5 +1,7 @@
 # Milestone Project 1 - Online Resume
 
+Please use the hamburger menu at the top left if you wish to browse the index.
+
 **Repo:** 
 
 https://github.com/PAUL34913/msp1-online-resume
@@ -334,6 +336,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Set form validation
 -   Added form success page
 -   Added submit button link to form success page
+
+**18/12/21**
+
+-   Updated navbar
+-   Updated layout and landing positions
+-   Site ready for 2nd mentor meeting
 
 ## Known Bugs
 

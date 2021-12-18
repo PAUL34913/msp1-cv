@@ -62,12 +62,12 @@
 
             <div class="row">
                 <!-- nav-bar -->
-                <div class="col-12 n-bar">
+                <nav class="col-12 n-bar">
                     <ul class="list-inline n-bar">
                         <li class="list-inline-item">Navigation:</li>
                         <!-- drop-down code from stack overflow -->
                         <li class="list-inline-item dropdown active">
-                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle">Home <b class="caret"></b></a>
+                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle active">Home <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                               <li><a href="index.html#about-me">About Me</a></li>
                               <li><a href="index.html#my-skills">My Skills</a></li>
@@ -80,7 +80,8 @@
                         <li class="list-inline-item"><a href="blog.html">Blog</a></li>
                         <li class="list-inline-item"><a href="assets/cv/download-cv.pdf" Target="_blank">Download CV</a></li>
                     </ul>
-                </div>
+                </nav>
+                <!-- /nav-bar -->
             </div>
         </div>
     </header>
@@ -104,7 +105,7 @@
                             <br>
                             <label for="email-address">E-mail address:</label>
                             <br>
-                            <input type="email" id="email-address" name="email-address" placeholder="Please a valid e-mail address here." required>
+                            <input type="email" id="email-address" name="email-address" placeholder="Please enter a valid e-mail address here." required>
                             <br>
                             <br>
                             <label for="phone-number">Phone Number:</label>
@@ -114,7 +115,7 @@
                             <br>
                             <label for="message-text">Message:</label>
                             <br>
-                            <textarea id="message-text" name="message-text" rows="7" placeholder="Leave a message here and I will contact you as soon as possible....." required></textarea>
+                            <textarea id="message-text" name="message-text" rows="7" placeholder="Leave a message here and I will contact you as soon as possible." required></textarea>
                             <br> 
                             <br>
                             <input class ="btn btn-form" type="submit" value="Submit">

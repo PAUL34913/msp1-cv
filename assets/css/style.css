@@ -198,7 +198,7 @@ ul {
 .my-skills-header-row {
     text-align: left;
     text-indent: 10px;
-    padding: 100px 20px 0 0;
+    padding: 80px 20px 0 0;
 }
 
 .my-skills-row {
@@ -281,7 +281,7 @@ ul {
 }
 
 .personal-info-header {
-    padding: 112px 0 25px 0;
+    padding: 90px 0 25px 0;
     text-align: left;
     text-indent: 20px;
 }
@@ -299,7 +299,7 @@ ul {
 }
 
 .work-history-header {
-    padding: 110px 0 25px 0;
+    padding: 90px 0 25px 0;
     text-align: left;
     text-indent: 5px;
 }
@@ -357,7 +357,7 @@ ul {
 
 .portfolio-header {
     text-indent: 50px;
-    padding: 70px 0 0 20px;
+    padding: 50px 0 0 20px;
 }
 
 .mfmp-image {
@@ -397,7 +397,7 @@ ul {
 .blog-header {
     text-align: left;
     text-indent: 5px;
-    padding-top: 70px;
+    padding-top: 100px;
 }
 
 .blog-post1-header1 {
@@ -439,10 +439,10 @@ ul {
 }
 
 .form-header {
-    padding: 70px 0 0 0;
+    padding: 50px 0 0 0;
     max-width: 1200px;
     margin: 0 auto;
-    text-indent: 5px;
+    text-indent: 10px;
 }
 
 .form-footer-image {
