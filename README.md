@@ -12,6 +12,8 @@ https://paul34913.github.io/msp1-online-resume/
 
 This is the repository for my online resume as part of milestone project 1 for my full stack web development course with Code Institute. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential employers, fellow students, tutors, or anyone else who may be interested in my information.
 
+![Online Resume](https://paul34913.github.io/msp1-online-resume/assets/images/pf-my-first-milestone-project.png "Online Resume")
+
 ## User Experience Design(UX)
 
 ### Strategy
