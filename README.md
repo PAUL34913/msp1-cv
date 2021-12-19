@@ -128,11 +128,13 @@ The navbar, social links, and contact button are all fixed to the top of the vie
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ![Index Page](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index-html-validation.png "Index Page")
 
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+All pages passed without no errors.
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ![Stylesheet-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-css-validation.png "Stylesheet")
 
