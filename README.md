@@ -388,7 +388,7 @@ All pages passed without error.
 
 ### Social Link Alignment
 
--   Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
+-   Alignment of links slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
 Fixed:
 
