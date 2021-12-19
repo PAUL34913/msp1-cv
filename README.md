@@ -173,6 +173,8 @@ All pages passed without error.
 
 1. As a Returning Visitor, I want to spend time reading blog entries.
 
+![Blog Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-blog.png "Blog Image")
+
 -   These are clearly linked in the navigation bar.
 -   The user will be directed to a page with archived blogs available to read.
 
@@ -191,14 +193,21 @@ All pages passed without error.
 
 1. As a Frequent User, I want to find information about new and/or improved skills.
 
+![My Skill Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-myskills.png "My Skills Image")
+
 -   The user would already be comfortable with the website layout and can easily click the navbar link.
 -   For a mobile user already comfortable with the website layout, the section is a short swipe down the page.
 
 2. As a Frequent user, I want to check for new portfolio entries to view current work.
 
+![Portfolio Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-portfolio.png "Portfolio Image")
+
 -   The user would already be comfortable with the website layout and can easily click the portfolio link.
 
 3. As a Frequent user, I want to check for new blog posts.
+
+![Blog Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-blog.png "Blog Image")
+
 -   The user would already be comfortable with the website layout and can easily click the blog link.
 -   Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
 
