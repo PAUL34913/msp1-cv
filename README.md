@@ -211,6 +211,29 @@ All pages passed without error.
 -   The user would already be comfortable with the website layout and can easily click the blog link.
 -   Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
 
+### Functional Testing
+
+| Action | Expected Result | Actual Result |
+|---|---|---|
+| Testing navbar links | Links take user to correct destination in the same tab/window | Worked as expected |
+| Testing contact me button | Link takes user to contact me page in the same tab/window | Worked as expected |
+| Social links | Social links (header and footer) take user to the correct destination in a seperate tab/window | Works as expected |
+| Code Institute links | Links take user to Code Institute website in a seperate tab/window. | Works as expected  |
+| Email contact | Opens mail client and new mail ready to send | Works as expected |
+| Phone contact | When clicked on mobile, opens the call function | Works as expected  |
+| Map functionality | Map can be moved, zoomed and larger map used if required | Works as expected |
+| Work history cards | Card buttons can be clicked and lead to current employers in a seperate tab/window | Works as expected |
+| Back to top link (footer) | When clicked, takes the user back to the top of the relevant page | Works as expected |
+| Blog video | When page loads, video does not play | Works as expected |
+| Blog video | Video has controls | Works as expected |
+| Facebook link | Link takes user to sick of sirens fanpage via seperate tab/window | Works as expected |
+| Download CV | Link takes user to a seperate tab/window with a viewable/printable/downloadable .PDF of the CV | Works as expected |
+| Contact me form | User must input all fields correctly before the form will submit | Works as expected |
+| Contact me link | Link takes user to the personal info section via the same tab/window | Works as expected |
+Contact me submit | When all fields entered correctly, submit button redirects to success page |
+| Form success page | Success message given to user and link which redirects to blog page via same tab/window | Works as expected |
+
+
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
