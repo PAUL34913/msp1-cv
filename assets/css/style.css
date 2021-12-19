@@ -336,11 +336,6 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
-    vertical-align: top;
-}
-
-.footer-border {
-    border: 1px solid #000;
 }
 
 /* Portfolio */
