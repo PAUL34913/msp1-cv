@@ -541,7 +541,6 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 ### Acknowledgements
 
 -   My Sons, Thomas and James, for their help with testing the site on a variety of devices.
-
 -   My Mentor [Dick Vlaanderen](https://github.com/dickvla), for continuous helpful feedback.
-
 -   Tutor support at Code Institute, for being there in a flash when needed.
+-   The slack community for its friendly and helpful advice.
