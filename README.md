@@ -98,7 +98,6 @@ The navbar, social links, and contact button are all fixed to the top of the vie
 ### Features
 
 -   Responsive on all device sizes
-
 -   Interactive elements
 
 ## Technologies Used
@@ -152,10 +151,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
     3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
-3. As a First Time Visitor, I want to look for references or testimonials to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
-    1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the testimonials section,social links are also presented at the very top of the page using easy to see icons.
+3. As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+    1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
     2. The social links are also presented in the footer of the page for good measure.
-    3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media and highlights the links to them.
+    3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media or the personal-info page, and highlights the links to them.
 
 **Returning Visitor Goals**
 
@@ -167,7 +166,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
 
     1. The navigation bar clearly highlights the "Contact Me" Page.
-    2. Here the user can fill out the form on the page, or are told that alternatively they can message the individual on social media.
+    2. Here the user can fill out the form on the page, or are told that alternatively they can message the individual on social media or use a method from their personal info.
     3. The footer contains links to the individuals Instagram, Linkedin, Git Hub and Slack pages as well as the individuals email.
     4. Whichever link they click, it will open up in a new tab to ensure that the user can easily get back to the website.
     5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
@@ -186,7 +185,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 3. As a Frequent user, I want to check for new blog posts.
     1. The user would already be comfortable with the website layout and can easily click the blog link.
     2. Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
-    3. A call to action button has been created in order for users to sign up for newsletters, they will be notified of new blog entries by e-mail.
 
 ### Further Testing
 
