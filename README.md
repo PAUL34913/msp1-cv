@@ -468,19 +468,19 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Code
 
--   Bootstrap4:     https://getbootstrap.com/docs/4.4/getting-started/introduction/
+-   **Bootstrap4:**     https://getbootstrap.com/docs/4.4/getting-started/introduction/
    
     Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   Dropdown-Menu:  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
+-   **Dropdown-Menu:**  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
 
     Dropdown menu in navbar, found on stack overflow on the above link.
 
--   Google-map:  https://www.google.com/maps
+-   **Google-map:**  https://www.google.com/maps
 
     Map in personal-info section, embedded responsively using Bootstrap.
 
--   Youtube:  https://www.youtube.com/
+-   **Youtube:**  https://www.youtube.com/
 
     Music video in blog, embedded resposively using bootstrap.
 
@@ -490,51 +490,51 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Media
 
--   Eagle Vector:       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
+-   **Eagle Vector:**       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
 
     Used in creation of hero image.
 
--   Spiderweb Image:    https://www.pexels.com/@ellie-burgin-1661546png
+-   **Spiderweb Image:**    https://www.pexels.com/@ellie-burgin-1661546png
 
     Used in creation of hero image.
 
--   Several cogs image:    https://www.hiclipart.com/free-transparent-background-png-clipart-ibuzq
+-   **Several cogs image:**    https://www.hiclipart.com/free-transparent-background-png-clipart-ibuzq
 
     Used for my-skills section image.
 
--   Silhouette Skyline Illustration:    https://www.vecteezy.com/vector-art/1218547-silhouette-skyline-illustration
+-   **Silhouette Skyline Illustration:**    https://www.vecteezy.com/vector-art/1218547-silhouette-skyline-illustration
 
     Used for about-me section footer image
 
--   Mountain Tree Silhouette:    http://getdrawings.com/img/mountain-tree-silhouette-29.png
+-   **Mountain Tree Silhouette:**    http://getdrawings.com/img/mountain-tree-silhouette-29.png
 
     Used for my-skills section header image
 
--   Cloud Silhouette:    https://creazilla.com/nodes/2715-cloud-silhouette
+-   **Cloud Silhouette:**    https://creazilla.com/nodes/2715-cloud-silhouette
 
     Used for personal-info section header image
 
--   Houses Silhouette:    https://clipground.com/suburb-silhouette-clipart.html
+-   **Houses Silhouette:**    https://clipground.com/suburb-silhouette-clipart.html
 
     Used for personal-info section footer image
 
--   Industrial Silhouette:    https://creazilla.com/nodes/2242-industrial-silhouette
+-   **Industrial Silhouette:**    https://creazilla.com/nodes/2242-industrial-silhouette
 
     Used for work-history section footer image
     
--   Sea Silhouette:   http://www.supercoloring.com/sites/default/files/silhouettes/2015/05/sea-waves-black-silhouette.svg
+-   **Sea Silhouette:**   http://www.supercoloring.com/sites/default/files/silhouettes/2015/05/sea-waves-black-silhouette.svg
 
     Used for portfolio page footer image
 
--   Mountain Silhouette:   http://getdrawings.com/img/mountain-silhouette-transparent-2.png
+-   **Mountain Silhouette:**   http://getdrawings.com/img/mountain-silhouette-transparent-2.png
 
     Used for blog page footer image
 
--   Music Video by Sick of Sirens: https://www.youtube.com/watch?v=Lqz_4QlgbeI&feature=emb_imp_woyt
+-   **Music Video by Sick of Sirens:** https://www.youtube.com/watch?v=Lqz_4QlgbeI&feature=emb_imp_woyt
 
     Used for post on blog page (written and recorded by me, see youtube description)
 
--   Call Customer Silhouette:   https://pxhere.com/en/photo/1446823
+-   **Call Customer Silhouette:**   https://pxhere.com/en/photo/1446823
 
     Used for contact me page footer image
 
