@@ -2,6 +2,8 @@
 
 Please use the hamburger menu at the top left of this README if you wish to browse the index.
 
+![Website Mockup](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/mockup.png "Website Mockup")
+
 **Live Site:** 
 
 https://paul34913.github.io/msp1-online-resume/
@@ -49,8 +51,6 @@ The following will have independant pages:
 For the UI, I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read as a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
-
-![Website Mockup](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/mockup.png "Website Mockup")
 
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 </br>
