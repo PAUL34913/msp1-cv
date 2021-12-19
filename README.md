@@ -74,7 +74,7 @@ The navbar, social links, and contact button are all fixed to the top of the vie
 
 **Imagery**
 
--   For the hero image I have created a large image with bright popping colors against a darker background. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
+-   For the hero image I have created a large image with bright popping colors against a darker background. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site. 
 
 ### User stories
 
