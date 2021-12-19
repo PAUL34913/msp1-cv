@@ -216,6 +216,8 @@ All pages passed without error.
 | Action | Expected Result | Actual Result |
 |---|---|---|
 | Testing navbar links | Links take user to correct destination in the same tab/window | Worked as expected |
+| Testing navbar dropdown | Expands/collapses when clicked and shows correct links | Works as expected |
+| Navbar drop down links | When clicked, links take the user to the correct section with the page, and a good landing position, within the same tab/window | Works as expected |
 | Testing contact me button | Link takes user to contact me page in the same tab/window | Worked as expected |
 | Social links | Social links (header and footer) take user to the correct destination in a seperate tab/window | Works as expected |
 | Code Institute links | Links take user to Code Institute website in a seperate tab/window. | Works as expected  |
@@ -232,6 +234,8 @@ All pages passed without error.
 | Contact me link | Link takes user to the personal info section via the same tab/window | Works as expected |
 Contact me submit | When all fields entered correctly, submit button redirects to success page | Works as expected |
 | Form success page | Success message given to user and link which redirects to blog page via same tab/window | Works as expected |
+| Site Response | Elements/layout readjust and show/hide as intended for different breakpoints | Works as expected |
+
 
 
 ### Further Testing
@@ -432,12 +436,6 @@ Relative path was not correct for the d-lg image.
 Fixed:
 
 I was using a 1px border on individual sections causing a double border which seemed to be at fault, fixed by removing section borders and placing on the main container.
-
-### Sticky Dropdown Navbar
-
--   When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse easily after reaching the section and clicking off it.
-
-No fix
 
 ## Deployment
 
