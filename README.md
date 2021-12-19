@@ -52,10 +52,6 @@ For the UI, I have decided to use a single page for the bulk of the information,
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scorlling, they are always present for quick and easy access to the remainder of the site.
 
-These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
-
-Click the images for a full screen view.
-
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 </br>
 </br>
@@ -65,6 +61,20 @@ Click the images for a full screen view.
 ![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
 </br>
 </br>
+
+### Surface
+
+**Colour Scheme**
+
+-   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
+
+**Typography**
+
+-   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
+
+**Imagery**
+
+-   For the hero image I have created a large image with bright popping colors against a darker background. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
 ### User stories
 
@@ -84,20 +94,6 @@ Click the images for a full screen view.
 -   As a Frequent User, I want to find information about new and/or improved skills.
 -   As a Frequent user, I want to check for new portfolio entries to view current work.
 -   As a Frequent user, I want to check for new blog posts.
-
-### Design
-
-**Colour Scheme**
-
--   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
-
-**Typography**
-
--   I have used the "True Bold" font for the hero image header, it compliments "Exo" which has been used for the rest of the site with Sans Serif as a backup. It gives the site a modern and clean feel, and helps to provide a professional looking layout.
-
-**Imagery**
-
--   For the hero image I have created a large image with bright popping colors against a darker background. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
 ### Features
 
