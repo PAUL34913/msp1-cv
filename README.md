@@ -144,7 +144,7 @@ All pages passed without error.
 
 **First Time Visitor Goals**
 
-1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
+1. **As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.**
 
 ![Index Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index.png "Index Image")
 
@@ -152,7 +152,7 @@ All pages passed without error.
 - The main points are made immediately with the hero image.
 - Also at there very top of the page, there is a call to action button along with social links.
 
-2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+2. **As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.**
 
 ![Flow Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-flow.png "Flow Image")
 
@@ -161,7 +161,7 @@ All pages passed without error.
 -   The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
 
-3. As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+3. **As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.**
 
 ![Work History Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-work-history.png "Work History Image")
 
@@ -171,14 +171,14 @@ All pages passed without error.
 
 **Returning Visitor Goals**
 
-1. As a Returning Visitor, I want to spend time reading blog entries.
+1. **As a Returning Visitor, I want to spend time reading blog entries.**
 
 ![Blog Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-blog.png "Blog Image")
 
 -   These are clearly linked in the navigation bar.
 -   The user will be directed to a page with archived blogs available to read.
 
-2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
+2. **As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.**
 
 ![Contact Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-contactme.png "Contact Image")
 
@@ -191,20 +191,20 @@ All pages passed without error.
 
 **Frequent User Goals**
 
-1. As a Frequent User, I want to find information about new and/or improved skills.
+1. **As a Frequent User, I want to find information about new and/or improved skills.**
 
 ![My Skill Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-myskills.png "My Skills Image")
 
 -   The user would already be comfortable with the website layout and can easily click the navbar link.
 -   For a mobile user already comfortable with the website layout, the section is a short swipe down the page.
 
-2. As a Frequent user, I want to check for new portfolio entries to view current work.
+2. **As a Frequent user, I want to check for new portfolio entries to view current work.**
 
 ![Portfolio Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-portfolio.png "Portfolio Image")
 
 -   The user would already be comfortable with the website layout and can easily click the portfolio link.
 
-3. As a Frequent user, I want to check for new blog posts.
+3. **As a Frequent user, I want to check for new blog posts.**
 
 ![Blog Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-blog.png "Blog Image")
 
