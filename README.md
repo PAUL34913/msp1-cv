@@ -53,14 +53,10 @@ For the UI, I have decided to use a single page for the bulk of the information,
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
-</br>
-</br>
+
 ![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
-</br>
-</br>
+
 ![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
-</br>
-</br>
 
 ### Surface
 
