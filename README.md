@@ -232,7 +232,7 @@ All pages passed without error.
 | Facebook link | Link takes user to sick of sirens fanpage via seperate tab/window | Works as expected |
 | Download CV | Link takes user to a seperate tab/window with a viewable/printable/downloadable .PDF of the CV | Works as expected |
 | Contact me form | User must input all fields correctly before the form will submit | Works as expected |
-| Contact me link | Link takes user to the personal info section via the same tab/window | Works as expected |
+| Link on contact me form | Link takes user to the personal info section via the same tab/window | Works as expected |
 Contact me submit | When all fields entered correctly, submit button redirects to success page | Works as expected |
 | Form success page | Success message given to user and link which redirects to blog page via same tab/window | Works as expected |
 | Site Response | Elements/layout readjust and show/hide as intended for different breakpoints | Works as expected |
