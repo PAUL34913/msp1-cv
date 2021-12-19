@@ -22,7 +22,7 @@ By creating the site, I hope to increase my network of students and peers, whils
 
 ### Scope
 
-For this project I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read like a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages, to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
+For this project I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read like a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
 
 The index page will include sections for:
 
@@ -30,7 +30,6 @@ The index page will include sections for:
 -   My Skills
 -   Personal Info
 -   Work History
--   Testimonials
 
 ### User stories
 
@@ -38,7 +37,7 @@ The index page will include sections for:
 
 -   As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 -   As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
--   As a First Time Visitor, I want to look for references or testimonials, and understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+-   As a First Time Visitor, I want to view user experience and work history, and understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
 
 **Returning Visitor Goals**
 
@@ -55,7 +54,7 @@ The index page will include sections for:
 
 **Colour Scheme**
 
--   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, that will also benefit users who wish to use dark or night modes with their browser. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
+-   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
 **Typography**
 
@@ -63,7 +62,7 @@ The index page will include sections for:
 
 **Imagery**
 
--   For the hero image I have created a large image with bright popping colors against a darker background and used thick edges to highlight the image and accompanying hero text header. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
+-   For the hero image I have created a large image with bright popping colors against a darker background. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
 
 ### Wireframes
 
