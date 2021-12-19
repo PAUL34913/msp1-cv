@@ -336,6 +336,7 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
+    vertical-align: top;
 }
 
 .footer-border {
