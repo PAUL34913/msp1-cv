@@ -162,9 +162,9 @@ All pages passed without error.
 
 ![Contact Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-contactme.png "Contact Image")
 
-    1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
-    2. The social links are also presented in the footer of the page for good measure.
-    3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media or the personal-info page, and highlights the links to them.
+1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
+2. The social links are also presented in the footer of the page for good measure.
+3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media or the personal-info page, and highlights the links to them.
 
 **Returning Visitor Goals**
 
