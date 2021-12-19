@@ -218,7 +218,7 @@ All pages passed without error.
 | Navbar links | Links take user to correct destination in the same tab/window | Worked as expected |
 | Link hovers | Link hover states display as intended | Works as expected |
 | Navbar dropdown menu | Expands/collapses when clicked and shows correct links | Works as expected |
-| Navbar drop down links | When clicked, links take the user to the correct section with the page, and a good landing position, within the same tab/window | Works as expected |
+| Navbar drop down links | When clicked, links take the user to the correct section withib the index the page, and provide a good landing position within the same tab/window | Works as expected |
 | Contact me button | Link takes user to contact me page in the same tab/window | Worked as expected |
 | Social links | Social links (header and footer) take user to the correct destination in a seperate tab/window | Works as expected |
 | Code Institute links | Links take user to Code Institute website in a seperate tab/window. | Works as expected  |
