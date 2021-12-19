@@ -197,13 +197,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Changelog
 
-**04/12/21**
+### 04/12/21
 
 -   Created repo from boilerplate
 -   Worked on README.md in preparation for initial mentor meeting
 -   Created wireframe for site layout
 
-**05/12/21**
+### 05/12/21
 
 -   Added contact button to top bar
 -   Added social-links to top-bar
@@ -215,18 +215,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   HTML validated with no errors on https://validator.w3.org/nu/#textarea
 -   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 
-**06/12/21**
+### 06/12/21
 
 -   Meeting with mentor
 -   Revision and improvement of README.md
 -   Updated desktop wireframe
 -   Created wireframes for tablet and mobile   
 
-**07/12/21**
+### 07/12/21
 
 -   Revision and improvement of README.md
 
-**08/12/21**
+### 08/12/21
 
 -   Revision and improvement of README.md
 -   Created about me section (not responsive)
@@ -240,17 +240,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed about me landing position when jumping from navbar link on mobile
 -   Completed about me section
 
-**09/12/21**
+
+### 09/12/21
 
 -   Fixed about me image not loading on github pages
 
-**10/12/21**
+### 10/12/21
 
 -   Worked on README.md and improved layout
 -   Started to work on the five planes within README.md
 -   It's Friday night, I'm off to have a few beers and practice :D
 
-**11/12/21**
+### 11/12/21
 
 -   Worked on README.md and improved layout
 -   Created my-skills section
@@ -272,7 +273,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added about-me section footer image
 -   Added my-skills header image
 
-**12/12/21**
+### 12/12/21
 
 -   Worked on README.md
 -   Added basic layout for personal-info section
@@ -293,7 +294,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added links to previous employer websites
 -   Linked work-history section to navbar and adjusted landing
 
-**13/12/21**
+### 13/12/21
 
 -   Removed dead class names
 -   Removed work-history header
@@ -307,7 +308,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added blog page template
 -   Fixed dropdown links from all pages
 
-**15/12/21**
+### 15/12/21
 
 -   HTML validated on https://validator.w3.org/nu/#textarea
 -   Fixed issues with iframe and missing header from footer
@@ -321,7 +322,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Removed hero image from portfolio and blog pages
 -   Created a basic structure for the blog page
 
-**16/12/21**
+### 16/12/21
 
 -   Fixed layout issue causing a white 1px horizontal line across the bottom of two footers when viewing on actual mobile devices.
 -   Amended layout to facilitate fix.
@@ -335,7 +336,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   HTML validated with no errors on https://validator.w3.org/nu/#textarea
 -   CSS validated with no errors on https://jigsaw.w3.org/css-validator/validator
 
-**17/12/21**
+### 17/12/21
 
 -   Added a portfolio project image for small mobile devices, also made responsive
 -   Youtube video on blog page now responsive
@@ -347,7 +348,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Added form success page
 -   Added submit button link to form success page
 
-**18/12/21**
+### 18/12/21
 
 -   Updated navbar
 -   Updated layout and landing positions
@@ -355,6 +356,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Fixed blog layout response
 -   Fixed footer layout issue
 -   Site ready for 2nd mentor meeting
+
+### 19/12/21
+
+-   Working on README.md
 
 ## Known Bugs
 
@@ -390,7 +395,7 @@ Fixed:
 
 I was using a 1px border on individual sections causing a double border which seemed to be at fault, fixed by removing section borders and placing on the main container.
 
-**Dropdown Navbar Sticking**
+**Sticky Dropdown Navbar**
 
 When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse easily after reaching the section and clicking off it.
 
