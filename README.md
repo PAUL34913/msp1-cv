@@ -154,9 +154,9 @@ All pages passed without error.
 
 ![Flow Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-flow.png "Flow Image")
 
-    1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
-    2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
-    3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
+1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
+2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
+3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
 3. As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
 
