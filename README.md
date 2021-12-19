@@ -445,7 +445,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-**Code**
+### Code
 
 -   Bootstrap4:     https://getbootstrap.com/docs/4.4/getting-started/introduction/
    
@@ -463,11 +463,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Music video in blog, embedded resposively using bootstrap.
 
-**Content**
+### Content
 
 -   All content was written by the developer.
 
-**Media**
+### Media
 
 -   Eagle Vector:       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
 
@@ -517,7 +517,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Used for contact me page footer image
 
-**Acknowledgements**
+### Acknowledgements
 
 -   My Sons, Thomas and James, for their help with testing the site on a variety of devices.
 
