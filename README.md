@@ -154,17 +154,17 @@ All pages passed without error.
 
 ![Flow Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-flow.png "Flow Image")
 
-1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
-2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
+-   The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
+-   The site uses a fixed navigation bar so that the user can navigate the site at any moment.
 3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
-3. As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+-   As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
 
 ![Contact Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-contactme.png "Contact Image")
 
-1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
-2. The social links are also presented in the footer of the page for good measure.
-3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media or the personal-info page, and highlights the links to them.
+-   At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
+-   The social links are also presented in the footer of the page for good measure.
+-   At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media or the personal-info page, and highlights the links to them.
 
 **Returning Visitor Goals**
 
