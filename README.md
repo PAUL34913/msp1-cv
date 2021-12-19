@@ -409,7 +409,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 19/12/21
 
 -   Working on README.md
--   Readme complete, meeting with mentor booked for 22/12/21 at 18:30 GMT
+-   README.md complete, meeting with mentor booked for 22/12/21 at 18:30 GMT
 
 ## Known Bugs
 
@@ -423,7 +423,7 @@ Have added a top padding of 2px to push the links down slightly.
 
 ### About Me Image Not Loading
 
--   About me image was not loading when using Github pages. Had to start path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images.
+-   About me image was not loading when using Github pages. H
 
 Fixed:
 
@@ -435,7 +435,7 @@ Relative path was not correct for the d-lg image.
 
 Fixed:
 
-I was using a 1px border on individual sections causing a double border which seemed to be at fault, fixed by removing section borders and placing on the main container.
+Improper use of DIV tags, fixed by removing some DIV's, removing section borders and placing the border on the main container.
 
 ## Deployment
 
