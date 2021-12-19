@@ -144,7 +144,7 @@ All pages passed without error.
 
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
 
-![First Time Visitor Goals](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-first-time-visitor.png "First Time Visitor Goals")
+![Index Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index.png "Index Image")
 
 - Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar at the top of the page, enabling the user to go to the page of their choice. Underneath the navbar is an eye catching hero image that clearly defines the purpose of the site.
 - The main points are made immediately with the hero image.
@@ -152,11 +152,16 @@ All pages passed without error.
 
 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
+![Flow Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-flow.png "Flow Image")
+
     1. The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
     2. The site uses a fixed navigation bar so that the user can navigate the site at any moment.
     3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
 3. As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+
+![Contact Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-contactme.png "Contact Image")
+
     1. At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
     2. The social links are also presented in the footer of the page for good measure.
     3. At the bottom of the "Contact Me" page, the user is told underneath the form, that alternatively they can contact the individual on social media or the personal-info page, and highlights the links to them.
