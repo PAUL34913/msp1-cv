@@ -132,7 +132,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ![Index Page](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index-html-validation.png "Index Page")
 
-All pages passed without no errors.
+All pages passed without error.
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
@@ -143,6 +143,8 @@ All pages passed without no errors.
 **First Time Visitor Goals**
 
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
+
+![First Time Visitor Goals](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-first-time-visitor.png "First Time Visitor Goals")
 
 - Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar at the top of the page, enabling the user to go to the page of their choice. Underneath the navbar is an eye catching hero image that clearly defines the purpose of the site.
 - The main points are made immediately with the hero image.
