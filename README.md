@@ -299,7 +299,6 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 -   Worked on README.md and improved layout
 -   Started to work on the five planes within README.md
--   It's Friday night, I'm off to have a few beers and practice :D
 
 ### 11/12/21
 
@@ -410,6 +409,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 19/12/21
 
 -   Working on README.md
+-   Readme complete, meeting with mentor booked for 22/12/21 at 18:30 GMT
 
 ## Known Bugs
 
