@@ -158,11 +158,12 @@ All pages passed without error.
 
 -   The site has been designed to be fluid and never to entrap the user. The site is presented in a structured order that prioritises how the information is displayed.
 -   The site uses a fixed navigation bar so that the user can navigate the site at any moment.
-3. The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
+-   The navbar makes use of a drop-down menu to avoid clutter and remove the need of a hamburger menu, this reduces the amount of clicks a user needs to make in order to navigate the site.
 
--   As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
 
-![Contact Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-contactme.png "Contact Image")
+3. As a First Time Visitor, I want to look for previous experience, skills or work experience in order to understand more about the individuals strengths. I also want to locate their social media links in order to connect with them.
+
+![Work History Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-work-history.png "Work History Image")
 
 -   At the top of the page in the navigation bar, the user is immediatley presented with a link to reach the my-skills and work-history sections,social links are also presented at the very top of the page using easy to see icons.
 -   The social links are also presented in the footer of the page for good measure.
@@ -172,16 +173,19 @@ All pages passed without error.
 
 1. As a Returning Visitor, I want to spend time reading blog entries.
 
-    1. These are clearly linked in the navigation bar.
-    2. The user will be directed to a page with archived blogs available to read.
+-   These are clearly linked in the navigation bar.
+-   The user will be directed to a page with archived blogs available to read.
 
 2. As a Returning Visitor, I want to find the best way to get in contact with the individual with any questions I may have.
 
-    1. The navigation bar clearly highlights the "Contact Me" Page.
-    2. Here the user can fill out the form on the page, or are told that alternatively they can message the individual on social media or use a method from their personal info.
-    3. The footer contains links to the individuals Instagram, Linkedin, Git Hub and Slack pages as well as the individuals email.
-    4. Whichever link they click, it will open up in a new tab to ensure that the user can easily get back to the website.
-    5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+![Contact Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-contactme.png "Contact Image")
+
+
+-   The navigation bar clearly highlights the "Contact Me" Page.
+-   Here the user can fill out the form on the page, or are told that alternatively they can message the individual on social media or use a method from their personal info.
+-   The footer contains links to the individuals Instagram, Linkedin, Git Hub and Slack pages as well as the individuals email.
+-   Whichever link they click, it will open up in a new tab to ensure that the user can easily get back to the website.
+-   The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
 **Frequent User Goals**
 
