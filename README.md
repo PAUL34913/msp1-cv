@@ -2,10 +2,6 @@
 
 Please use the hamburger menu at the top left of this README if you wish to browse the index.
 
-**Repo:** 
-
-https://github.com/PAUL34913/msp1-online-resume
-
 **Live Site:** 
 
 https://paul34913.github.io/msp1-online-resume/
