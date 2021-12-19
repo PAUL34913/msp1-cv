@@ -394,14 +394,6 @@ Fixed:
 
 Have added a top padding of 2px to push the links down slightly.
 
-### Firefox Mobile Night Mode
-
--   Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
-
-Fixed:
-
-Set Navbar z-index to 1, night viewing and normal viewing both ok.
-
 ### About Me Image Not Loading
 
 -   About me image was not loading when using Github pages. Had to start path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images.
