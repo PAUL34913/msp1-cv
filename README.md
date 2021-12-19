@@ -185,16 +185,16 @@ All pages passed without error.
 
 1. As a Frequent User, I want to find information about new and/or improved skills.
 
-    1. The user would already be comfortable with the website layout and can easily click the navbar link.
-    2. For a mobile user already comfortable with the website layout, the section is a short swipe down the page.
+-   The user would already be comfortable with the website layout and can easily click the navbar link.
+-   For a mobile user already comfortable with the website layout, the section is a short swipe down the page.
 
 2. As a Frequent user, I want to check for new portfolio entries to view current work.
 
-    1. The user would already be comfortable with the website layout and can easily click the portfolio link.
+-   The user would already be comfortable with the website layout and can easily click the portfolio link.
 
 3. As a Frequent user, I want to check for new blog posts.
-    1. The user would already be comfortable with the website layout and can easily click the blog link.
-    2. Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
+-   The user would already be comfortable with the website layout and can easily click the blog link.
+-   Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
 
 ### Further Testing
 
