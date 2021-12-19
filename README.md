@@ -62,6 +62,8 @@ The navbar, social links, and contact button are all fixed to the top of the vie
 
 **Colour Scheme**
 
+![Surface Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-surface.png "Surface Image")
+
 -   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
 **Typography**
