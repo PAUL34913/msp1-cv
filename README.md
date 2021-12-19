@@ -122,7 +122,7 @@ The navbar, social links, and contact button are all fixed to the top of the vie
 1. [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop/landpa.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=38065da0fd621f6893cd3c145f3deef6:G:s&s_kwcid=AL!3085!10!79371107814531!79371160303225)
     - Adobe Photoshop was used to edit the images for the site.
 1. [Balsamiq](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 
