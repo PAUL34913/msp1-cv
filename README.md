@@ -363,41 +363,43 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Known Bugs
 
-**Social Link Alignment**
+### Social Link Alignment
 
-Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
+-   Alignment of links is slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
 Fixed:
 
 Have added a top padding of 2px to push the links down slightly.
 
-**Firefox Mobile Night Mode**
+### Firefox Mobile Night Mode
 
-Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
+-   Night mode on Firefox mobile (iphone 7) is causing the hero image to scroll on top of the navbars instead of behind, will investigate z-index and position of bars. As the navbar colors have now flipped there is also a 1px white border between the navbar and hero image, need to investigate padding.
 
 Fixed:
 
 Set Navbar z-index to 1, night viewing and normal viewing both ok.
 
-**About Me Image Not Loading**
+### About Me Image Not Loading
 
-About me image was not loading when using Github pages. Had to start path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images.
+-   About me image was not loading when using Github pages. Had to start path with msp-online-resume/ instead of assets/ however, when applying this to the hero image, the hero image would then not load at all. Kept hero image as assets/ and used msp1-online-resume/ for the section images.
 
 Fixed:
 
 Relative path was not correct for the d-lg image.
 
-**1px White Lines**
+### 1px White Lines
 
-White 1px horizontal showing at bottom of two section footers when viewing on safari mobile
+-   White 1px horizontal showing at bottom of two section footers when viewing on safari mobile
 
 Fixed:
 
 I was using a 1px border on individual sections causing a double border which seemed to be at fault, fixed by removing section borders and placing on the main container.
 
-**Sticky Dropdown Navbar**
+### Sticky Dropdown Navbar
 
-When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse easily after reaching the section and clicking off it.
+-   When pressing the dropdown menu in safari mobile (iphone-7), and choosing a section, the drop down menu does not collapse easily after reaching the section and clicking off it.
+
+No fix
 
 ## Deployment
 
