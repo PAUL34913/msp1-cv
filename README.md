@@ -22,7 +22,16 @@ By creating the site, I hope to increase my network of students and peers, whils
 
 ### Scope
 
-For this project I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read like a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
+Features that I am looking to include on this site are:
+
+-   Download of CV in traditional format
+-   Map of locality
+-   Contact form for collaboration and other requests
+-   Blog page
+
+These are the minimum features required for the initial build of the site. Other features are to be implemented as the site grows and my own skills improve.
+
+### Structure
 
 The index page will include sections for:
 
@@ -30,6 +39,32 @@ The index page will include sections for:
 -   My Skills
 -   Personal Info
 -   Work History
+
+The following will have independant pages:
+
+-   Portfolio
+-   Blog
+-   Contact Form
+
+### Skeleton
+
+For the UI, I have decided to use a single page for the bulk of the information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read like a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
+
+The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scorlling, they are always present for quick and easy access to the remainder of the site.
+
+These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
+
+Click the images for a full screen view.
+
+![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
+</br>
+</br>
+![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
+</br>
+</br>
+![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
+</br>
+</br>
 
 ### User stories
 
@@ -63,22 +98,6 @@ The index page will include sections for:
 **Imagery**
 
 -   For the hero image I have created a large image with bright popping colors against a darker background. This makes the header really pop and grab the attention of the user. Other images used have been created and styled to fit within their sections and carry through the theme of the site.
-
-### Wireframes
-
-These are the wireframes for the mobile, tablet and desktop versions of my website. These designs were created prior to the website development and as such, are likely to change throughout the process. Please click the pictures to get a full screen view.
-
-Click the images for a full screen view.
-
-![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
-</br>
-</br>
-![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
-</br>
-</br>
-![Desktop Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-desktop.png)
-</br>
-</br>
 
 ### Features
 
