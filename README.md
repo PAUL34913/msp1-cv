@@ -228,7 +228,7 @@ All pages passed without error.
 | Work history cards | Card buttons can be clicked and lead to current employers in a seperate tab/window | Works as expected |
 | Back to top link (footer) | When clicked, takes the user back to the top of the relevant page | Works as expected |
 | Blog video | When page loads, video does not play | Works as expected |
-| Blog video | Video has controls | Works as expected |
+| Blog video | Video has working controls | Works as expected |
 | Facebook link | Link takes user to sick of sirens fanpage via seperate tab/window | Works as expected |
 | Download CV | Link takes user to a seperate tab/window with a viewable/printable/downloadable .PDF of the CV | Works as expected |
 | Contact me form | User must input all fields correctly before the form will submit | Works as expected |
