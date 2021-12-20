@@ -412,10 +412,12 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Working on README.md
 -   README.md complete, meeting with mentor booked for 22/12/21 at 18:30 GMT
 
-### 19/12/21
+### 20/12/21
 
 -   Alt tags now have good descriptions
 -   All code checked and passed with no errors on W3 HTML and CSS validators
+-   Tuning layout
+-   Cleaning up code structure (Blog Page) 
 
 ## Known Bugs
 

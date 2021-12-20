@@ -379,14 +379,6 @@ ul {
     max-width: 1200px;
 }
 
-/* music */
-
-.sos-video {
-    max-width: 1200px;
-    border: 1px solid #000;
-    margin: 0 auto !important;
-}  
-
 /* Blog */
 
 .blog-header {
@@ -395,26 +387,11 @@ ul {
     padding-top: 100px;
 }
 
-.blog-post1-header1 {
-    padding: 50px 0 10px 0;
-    text-align: left;
-}
-
-.blog-post1-header2 {
-    padding: 0 0 10px 0;
-    text-align: left;
-}
-
-.blog-container {
-
+.youtube-video {
+    border: 1px solid #000;
     margin: 0 auto;
-    max-width: 1200px;
-}
+}  
 
-.blog-content {
-    text-align: left;
-
-}
 
 /* form */
 
@@ -451,7 +428,7 @@ ul {
     text-align: center;
 }
 
-#fullname {
+#full-name {
     width: 100%;
     font-size: 0.8rem;
 }
