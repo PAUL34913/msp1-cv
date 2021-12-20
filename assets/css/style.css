@@ -422,12 +422,6 @@ ul {
     border: 0;
 }
 
-.small-text {
-    font-size: 0.75rem;
-    font-weight: bold;
-    text-align: center;
-}
-
 #full-name {
     width: 100%;
     font-size: 0.8rem;
