@@ -281,9 +281,8 @@ ul {
 }
 
 .personal-info-header {
-    padding: 90px 0 25px 0;
+    padding: 90px 0 25px 20px;
     text-align: left;
-    text-indent: 20px;
 }
 
 .personal-info-table {

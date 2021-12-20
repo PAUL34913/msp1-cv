@@ -423,6 +423,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Cleaned up code structure (Portfolio Page) 
 -   Cleaned up comments for all HTML
 -   Edited content on contact form
+-   Site-wide padding now uniform
 
 ## Known Bugs
 
