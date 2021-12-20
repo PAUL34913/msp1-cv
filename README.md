@@ -418,6 +418,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All code checked and passed with no errors on W3 HTML and CSS validators
 -   Tuning layout
 -   Cleaning up code structure (Blog Page) 
+-   Cleaning up code structure (Portfolio Page) 
 
 ## Known Bugs
 
