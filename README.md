@@ -417,8 +417,9 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Alt tags now have good descriptions
 -   All code checked and passed with no errors on W3 HTML and CSS validators
 -   Tuning layout
--   Cleaning up code structure (Blog Page) 
--   Cleaning up code structure (Portfolio Page) 
+-   Cleaned up code structure (Blog Page) 
+-   Cleaned up code structure (Portfolio Page) 
+-   Cleaned up comments for all HTML
 
 ## Known Bugs
 
@@ -476,9 +477,9 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 ### Code
 
--   **Bootstrap4:**     https://getbootstrap.com/docs/4.4/getting-started/introduction/
+-   **Bootstrap4:**     https://getbootstrap.com/docs/4.2/getting-started/download/
    
-    Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+    Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, also used for progress bars and to embed objects.
 
 -   **Dropdown-Menu:**  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
 
