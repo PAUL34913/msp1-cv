@@ -52,6 +52,8 @@ For the UI, I have decided to use a single page for the personal information, wh
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
+The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit.
+
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 
 ![Tablet Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-tablet.png)
@@ -420,6 +422,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Cleaned up code structure (Blog Page) 
 -   Cleaned up code structure (Portfolio Page) 
 -   Cleaned up comments for all HTML
+-   Edited content on contact form
 
 ## Known Bugs
 
@@ -427,7 +430,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 -   Alignment of links slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
-Fixed:
+**Fixed:**
 
 Have added a top padding of 2px to push the links down slightly.
 
@@ -435,7 +438,7 @@ Have added a top padding of 2px to push the links down slightly.
 
 -   About me image was not loading when using Github pages. 
 
-Fixed:
+**Fixed:**
 
 Relative path was not correct for the d-lg image.
 
@@ -443,9 +446,15 @@ Relative path was not correct for the d-lg image.
 
 -   White 1px horizontal showing at bottom of two section footers when viewing on safari mobile
 
-Fixed:
+**Fixed:**
 
 Improper use of DIV tags, fixed by removing some DIV's, removing section borders and placing the border on the main container.
+
+### Single White Line
+
+-   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also.
+
+**Not Fixed**
 
 ## Deployment
 
