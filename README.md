@@ -433,6 +433,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed text about callers from outside UK from contact form
 -   Increased amount of rows in text-area on contact form
 -   Padding out bottom of work-history section before footer
+-   Removed dead selectors from style.css
 
 ## Known Bugs
 

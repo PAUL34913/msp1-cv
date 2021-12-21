@@ -303,10 +303,6 @@ ul {
     text-indent: 5px;
 }
 
-.work-history-row {
-    padding: 0px 0 100px 0;
-}
-
 .mycard {
     border: 1px solid #000;
     border-radius: 10px;
@@ -339,16 +335,6 @@ ul {
 
 /* Portfolio */
 
-.portfolio {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.portfolio-container {
-    padding: 50px 0 0 0;
-    text-align: left;
-}
-
 .portfolio-header {
     text-align: left;
     text-indent: 5px;
@@ -364,19 +350,9 @@ ul {
     font-size: 0.75rem;
 }
 
-.pf-content {
-    text-align: left;
-
-}
-
 .pf-msp1-header {
     text-align: left;
     padding: 5px 0 10px 0;
-}
-
-.pf-footer {
-    margin: 0 auto;
-    max-width: 1200px;
 }
 
 /* Blog */
@@ -425,10 +401,6 @@ ul {
     text-indent: 5px;
 }
 
-.form-footer-image {
-    vertical-align: bottom;
-    border: 0;
-}
 
 #full-name {
     width: 100%;
