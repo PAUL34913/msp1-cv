@@ -465,6 +465,12 @@ Improper use of DIV tags, fixed by removing some DIV's, removing section borders
 
 **Not Fixed**
 
+### Index page landing positions
+
+-   Landing positions from anchor links vary between browser so that the pages are slightly out of line if you click directly from one link to another.
+
+**Not Fixed**
+
 ## Deployment
 
 ### GitHub Pages
