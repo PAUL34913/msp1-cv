@@ -427,7 +427,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 ### 21/12/21
 
--   Fixed text-indent issue in blog content.
+-   Fixed text-indent issue in blog content
+-   Fixed minor layout issue on form
 
 ## Known Bugs
 

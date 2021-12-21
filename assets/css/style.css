@@ -409,6 +409,10 @@ ul {
     text-align: left;
 }
 
+.form-container {
+    padding: 0 25px 0 25px;
+}
+
 .form-form {
     max-width: 1200px;
     margin: 0 auto;
@@ -418,7 +422,7 @@ ul {
     padding-top: 50px;
     max-width: 1200px;
     margin: 0 auto;
-    text-indent: 20px;
+    text-indent: 5px;
 }
 
 .form-footer-image {
