@@ -432,6 +432,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed page header alignment for landing positions
 -   Removed text about callers from outside UK from contact form
 -   Increased amount of rows in text-area on contact form
+-   Padding out bottom of work-history section before footer
 
 ## Known Bugs
 
