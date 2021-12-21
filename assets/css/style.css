@@ -387,6 +387,10 @@ ul {
     padding-top: 100px;
 }
 
+.blog-content {
+    text-indent: 0px;
+}
+
 .youtube-video {
     border: 1px solid #000;
     margin: 0 auto;
