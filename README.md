@@ -434,6 +434,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Increased amount of rows in text-area on contact form
 -   Padding out bottom of work-history section before footer
 -   Removed dead selectors from style.css
+-   Removed footer link that takes you back to the top of the page, from form and form success pages
 
 ## Known Bugs
 
