@@ -430,6 +430,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed text-indent issue in blog content
 -   Fixed layout issue on form
 -   Fixed page header alignment for landing positions
+-   Removed text about callers from outside UK from contact form
+-   Increased amount of rows in text-area on contact form
 
 ## Known Bugs
 
