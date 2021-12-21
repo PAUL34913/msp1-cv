@@ -468,9 +468,9 @@ Improper use of DIV tags, fixed by removing some DIV's, removing section borders
 
 **Not Fixed**
 
-### Index page landing positions
+### Index page section landing positions
 
--   Landing positions from anchor links vary between browser so that the pages are slightly out of line if you click directly from one link to another.
+-   Landing positions from anchor links between single page sections vary between browser so that the pages are slightly out of line if you click directly from one link to another.
 
 **Not Fixed**
 
