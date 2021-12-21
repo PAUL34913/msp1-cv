@@ -352,7 +352,7 @@ ul {
 .portfolio-header {
     text-align: left;
     text-indent: 5px;
-    padding-top: 110px;
+    padding-top: 100px;
 }
 
 .mfmp-image {
@@ -384,7 +384,7 @@ ul {
 .blog-header {
     text-align: left;
     text-indent: 5px;
-    padding-top: 110px;
+    padding-top: 100px;
 }
 
 .blog-content {
@@ -419,7 +419,7 @@ ul {
 }
 
 .form-header {
-    padding-top: 60px;
+    padding-top: 50px;
     max-width: 1200px;
     margin: 0 auto;
     text-indent: 5px;
