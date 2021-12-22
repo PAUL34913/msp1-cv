@@ -106,11 +106,12 @@ The contact form will require validation, ensuring that all fields are completed
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/download/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
+    - Bootstrap was used to assist with the responsiveness and styling of the website, .
 1. [Google Fonts](https://fonts.google.com/)
     - Google fonts were used to import the 'Exo' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome 4.7.0](https://fontawesome.com/v4.7/)
@@ -441,6 +442,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed dead class attributes from index.html
 -   All dead class attributes and selectors removed from HTML and CSS
 -   Added a collapse button to my skills section for mobile, that shows the 6 skills that I chose to hide for mobile
+-   Fixed incorrect Aria value in progress bars
 
 ## Known Bugs
 
@@ -512,11 +514,15 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 -   **Bootstrap4:**     https://getbootstrap.com/docs/4.2/getting-started/download/
    
-    Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, also used for progress bars and to embed objects.
+    Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, also used for progress bars and to embed objects, and maybe a teeny tiny bit of JavaScript.
 
 -   **Dropdown-Menu:**  https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user
 
     Dropdown menu in navbar, found on stack overflow on the above link.
+
+-   **Collapse-Button:**  https://www.w3schools.com/bootstrap4/bootstrap_collapse.asp
+
+    Collapse button introduced for mobile viewing to initially hide elemtns then give option of viewing more by clicking a button.
 
 -   **Google-map:**  https://www.google.com/maps
 
