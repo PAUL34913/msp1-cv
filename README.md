@@ -442,8 +442,10 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed dead class attributes from index.html
 -   All dead class attributes and selectors removed from HTML and CSS
 -   Added a collapse button to my skills section for mobile, that shows the 6 skills that I chose to hide for mobile
--   Fixed incorrect Aria value in progress bars
+-   Fixed incorrect aria value in progress bars
 -   Edited hover states of general page buttons
+-   Edited call to action hover state to align with general page buttons
+-   Fixed header alignment on collapse skills
 
 ## Known Bugs
 

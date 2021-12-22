@@ -59,6 +59,12 @@ ul {
     background-color: #dc3545;
 }
 
+.badge-danger:hover {
+    color: #dc3545 !important;
+    background-color: #fff !important;
+    border: 1px solid #dc3545 !important;
+}
+
 .social-icon {
     color: #fff;
     list-style: none;
@@ -77,6 +83,7 @@ ul {
 .collaborate-button {
     float: left;
 }
+
 .collaborate-text {
     font-size: 0.8rem;
     float: left;
@@ -232,6 +239,11 @@ ul {
 .mobile-btn-collapse {
     text-align: center;
 }
+
+.collapse {
+    text-align: left !important;
+}
+
 
 /* My Skills - Font Awseome Icons */
 
