@@ -348,7 +348,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 ### 13/12/21
 
--   Removed dead class names
+-   Removed dead class attributes
 -   Removed work-history header
 -   Added new work-history-header
 -   Added footer, copyright, and social links
@@ -435,6 +435,11 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Padding out bottom of work-history section before footer
 -   Removed dead selectors from style.css
 -   Removed footer link that takes you back to the top of the page, from form and form success pages
+
+### 22/12/21
+
+-   Removed dead class attributes from index.html
+-   All dead class attributes and selectors removed from HTML and CSS
 
 ## Known Bugs
 
