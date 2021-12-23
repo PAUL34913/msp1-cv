@@ -422,6 +422,9 @@ ul {
     text-indent: 5px;
 }
 
+.img-bot {
+    vertical-align: bottom;
+}
 
 #full-name {
     width: 100%;
