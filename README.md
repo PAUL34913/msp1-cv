@@ -453,6 +453,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed white pixel issue by applying page break above the page image
 -   Removed form image after issue re-appeared
 -   Re-added top link to footer
+-   Re-added form image, issue not resolved but white pixel line does not look out of place
 
 ## Known Bugs
 
