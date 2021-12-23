@@ -450,6 +450,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 23/12/21
 
 -   Testing, new white pixel line between form image and footer on mobile devices
+-   Fixed white pixel issue by applying page break above the page image
 
 ## Known Bugs
 
