@@ -447,6 +447,10 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Edited call to action hover state to align with general page buttons
 -   Fixed header alignment on collapse skills
 
+### 23/12/21
+
+-   Testing, new white pixel line between form image and footer on mobile devices
+
 ## Known Bugs
 
 ### Social Link Alignment
