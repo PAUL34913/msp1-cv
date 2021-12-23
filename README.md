@@ -52,7 +52,9 @@ For the UI, I have decided to use a single page for the personal information, wh
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
-The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit. I have however removed validation in the form of a pattern from the phone-number input as I wanted to keep the option available to a global audience, and believed an international calling validation system to be too substantial a task for this project.
+The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit. I have however removed pattern validation from the phone-number input as I wanted to keep the option available to a global audience, and believed an international calling validation system to be too substantial a task for this project. Input is required, but there is no prefined format.
+
+Also I have discovered the validation pop-up alerts cannot be styled directly with css or html, they are set by browsers and vary from browser to browser, and require Javascript to overide. As I have already used
 
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 
@@ -66,7 +68,7 @@ The contact form will require validation, ensuring that all fields are completed
 
 ![Surface Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-surface.png "Surface Image")
 
--   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
+-   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background. The validation popups are styled by the browser and cannot be changed with CSS, as such their appearance is out of my control. They are editable using Javascript but I believe they are out of scope for this project. As a result, in particular whilst using Firefox, the popups are a similar color to the background and do not stand out as much as I would like.
 
 **Typography**
 
@@ -454,6 +456,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed form image after issue re-appeared
 -   Re-added top link to footer
 -   Re-added form image, issue not resolved but white pixel line does not look out of place
+-   Fixed form validation
 
 ## Known Bugs
 
