@@ -52,7 +52,7 @@ For the UI, I have decided to use a single page for the personal information, wh
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
-The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit.
+The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit. I have however removed validation in the form of a pattern from the phone-number input as I wanted to keep the option available to a global audience, and believed an international calling validation system to be too substantial a task for this project.
 
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 
