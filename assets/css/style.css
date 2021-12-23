@@ -405,12 +405,9 @@ ul {
     color: #fff;
 }
 
-.form {
-    text-align: left;
-}
-
 .form-container {
     padding: 0 25px 0 25px;
+    text-align: left;
 }
 
 .form-form {
