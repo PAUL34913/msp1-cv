@@ -467,6 +467,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed issue where clicking the work-history collapse button would cause it to shift right
 -   Completed all work based on mentor feedback
 -   Created new form-success footer image, working and responsive
+-   Fixed white pixel line issue below footer (had padding: 0 0 0 0;)
 
 ## Known Bugs
 
