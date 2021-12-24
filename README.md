@@ -461,8 +461,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Re-designing form to not use bubbles for validation messages
 -   Form validation complete, responsive and working
 -   Removed dead class attirbutes and links from form
--   Created new contact form footer
--   Redsigned form image position and response
+-   Created new contact form footer image
+-   Moved form image position and changed response with show/hide
 
 ## Known Bugs
 
@@ -611,6 +611,10 @@ By forking the GitHub Repository we make a copy of the original repository on ou
     Used for post on blog page (written and recorded by me, see youtube description)
 
 -   **Call Customer Silhouette:**   https://pxhere.com/en/photo/1446823
+
+    Used for contact me page image
+
+-   **City Silhouette Vector**   https://www.goodfreephotos.com/albums/vector-images/city-silhouette-vector-clipart.png
 
     Used for contact me page footer image
 
