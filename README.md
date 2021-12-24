@@ -52,9 +52,7 @@ For the UI, I have decided to use a single page for the personal information, wh
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
-The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit. I have however removed pattern validation from the phone-number input as I wanted to keep the option available to a global audience, and believed an international calling validation system to be too substantial a task for this project. Input is required, but there is no prefined format.
-
-Also I have discovered the validation pop-up alerts cannot be styled directly with css or html, they are set by browsers and vary from browser to browser, and require Javascript to overide. As I have already used
+The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit. 
 
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 
@@ -457,6 +455,10 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Re-added top link to footer
 -   Re-added form image, issue not resolved but white pixel line does not look out of place
 -   Fixed form validation
+
+### 24/12/21
+
+-   Re-designing form to not use bubbles for validation messages
 
 ## Known Bugs
 

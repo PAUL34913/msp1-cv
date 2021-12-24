@@ -403,11 +403,14 @@ ul {
     background-color: #dc3545;
     font-weight: bold;
     color: #fff;
+    margin: 20px 0 40px 0;
 }
 
 .form-container {
-    padding: 0 25px 0 25px;
     text-align: left;
+    margin: 0 auto;
+    max-width: 1200px;
+    border: 1px solid #000;
 }
 
 .form-form {
@@ -440,6 +443,11 @@ ul {
 #message-text {
     width: 100%;
     font-size: 0.8rem;
+}
+
+.needs-validation {
+    text-align: left !important;
+    text-indent: 7px;
 }
 
 /* form success */
