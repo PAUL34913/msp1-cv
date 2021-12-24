@@ -502,6 +502,12 @@ Redsigned form validation and issue dissapeared once completed.
 
 **Not Fixed**
 
+### Home navbar link
+
+-   The home navbar stops working on the form page since adding new validation with bootstrap and javascript
+
+**Not Fixed**
+
 ## Deployment
 
 ### GitHub Pages
