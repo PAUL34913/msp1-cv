@@ -459,6 +459,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 24/12/21
 
 -   Re-designing form to not use bubbles for validation messages
+-   Form valiudation complete, responsive and working
 
 ## Known Bugs
 
@@ -490,7 +491,9 @@ Improper use of DIV tags, fixed by removing some DIV's, removing section borders
 
 -   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also.
 
-**Not Fixed**
+**Fixed**
+
+Redsigned form validation and issue dissapeared once completed.
 
 ### Index page section landing positions
 
