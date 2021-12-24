@@ -506,7 +506,7 @@ Redsigned form validation and issue dissapeared once completed.
 
 ### Home navbar link
 
--   The home navbar stops working on the form page since adding new validation with bootstrap and javascript
+-   When on the contact form page, the home navbar link stops working on the form page since adding new validation with bootstrap and javascript.
 
 **Not Fixed**
 
