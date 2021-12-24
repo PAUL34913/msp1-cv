@@ -234,7 +234,7 @@
                     </div> 
                 </div>
 
-                <!-- my skills collapse button for mobile viewing -->
+                <!-- my skills collapse button for mobile viewing (https://www.w3schools.com/bootstrap4/bootstrap_collapse.asp) -->
                 <div class="col-12 d-inline d-md-none mobile-btn-collapse">
                     <button class="btn btn-work-history mt-5" data-toggle="collapse" data-target="#ms-collapse-mobile">More Skills</button>
                     <div id="ms-collapse-mobile" class="collapse">
@@ -412,8 +412,8 @@
 
             <!-- work history cards -->
             <div class="row d-flex pl-4 pr-4 pb-5">
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="mycard">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <div class="mycard mb-0">
                         <div class="mycard-header">
                             <p>May 2021 - Present</p>
                         </div>
@@ -423,8 +423,53 @@
                             <a href="https://cultech.co.uk/" target="_blank" class="btn btn-work-history">Visit</a>
                         </div>
                     </div>
+
+                    <!-- work history collapse button for mobile viewing (https://www.w3schools.com/bootstrap4/bootstrap_collapse.asp) -->
+                    <div class="col-12 d-inline d-md-none mobile-btn-collapse">
+                        <button class="btn btn-work-history mt-5" data-toggle="collapse" data-target="#wh-collapse-mobile">View More</button>
+                        <div id="wh-collapse-mobile" class="collapse wh-collapse-button">
+                            <div class="col-12 col">    
+                                <div class="mycard mt-5">
+                                    <div class="mycard-header">
+                                        <p> Sept 2020 - May 2021</p>
+                                    </div>
+                                    <div class="mycard-content">
+                                        <h4>Cyden</h4>
+                                        <p>Warehouse Operator</p>
+                                        <a href="https://www.cyden.com/" target="_blank" class="btn btn-work-history">Visit</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12"> 
+                                <div class="mycard">
+                                    <div class="mycard-header">
+                                        <p>Feb 2017 - May 2020</p>
+                                    </div>
+                                    <div class="mycard-content">
+                                        <h4>Ash & Lacy</h4>
+                                        <p>Machine Operator</p>
+                                        <a href="https://www.ashandlacy.com/" target="_blank" class="btn btn-work-history">Visit</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12"> 
+                                <div class="mycard">
+                                    <div class="mycard-header">
+                                        <p>Apr 2015 - Feb 2017</p>
+                                    </div>
+                                    <div class="mycard-content">
+                                        <h4>Aspire Debt</h4>
+                                        <p>Admin/E-commerce</p>
+                                        <a href="http://aspiredebt.com/" target="_blank" class="btn btn-work-history">Visit</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>
+                    <!-- /work history collapse button for mobile viewing -->
+
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">    
+                <div class="col-12 col-md-6 col-lg-3 d-none d-md-inline">    
                     <div class="mycard">
                         <div class="mycard-header">
                             <p> Sept 2020 - May 2021</p>
@@ -436,7 +481,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3"> 
+                <div class="col-12 col-md-6 col-lg-3 d-none d-md-inline"> 
                     <div class="mycard">
                         <div class="mycard-header">
                             <p>Feb 2017 - May 2020</p>
@@ -448,7 +493,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3"> 
+                <div class="col-12 col-md-6 col-lg-3 d-none d-md-inline"> 
                     <div class="mycard">
                         <div class="mycard-header">
                             <p>Apr 2015 - Feb 2017</p>

@@ -463,6 +463,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed dead class attirbutes and links from form
 -   Created new contact form footer image
 -   Moved form image position and changed response with show/hide
+-   Reduced employers to one for work-history mobile, whilst adding a collapse button to show the other 3
 
 ## Known Bugs
 
@@ -550,7 +551,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 -   **Collapse-Button:**  https://www.w3schools.com/bootstrap4/bootstrap_collapse.asp
 
-    Collapse button introduced for mobile viewing to initially hide elemtns then give option of viewing more by clicking a button.
+    Collapse button introduced for mobile viewing to initially hide elements then give option of viewing more by clicking a button.
 
 -   **Google-map:**  https://www.google.com/maps
 

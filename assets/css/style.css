@@ -346,6 +346,11 @@ ul {
     color: #dc3545;
 }
 
+.wh-collapse-button {
+    text-align: center !important;
+    margin: 0 auto;
+}
+
 /* Footer */
 
 .footer-main-bar {
