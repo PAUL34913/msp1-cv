@@ -498,11 +498,9 @@ Improper use of DIV tags, fixed by removing some DIV's, removing section borders
 
 ### 1px White Lines
 
--   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also. The blog uses an identical footer to every other page.
+-   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also. The blog uses an identical footer to every other page where the issue is not present.
 
-**Fixed**
-
-Redsigned form validation and issue dissapeared once completed.
+**Not Fixed**
 
 ### Index page section landing positions
 
