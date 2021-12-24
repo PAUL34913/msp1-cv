@@ -402,6 +402,10 @@ ul {
     margin: 0 auto;
 }  
 
+.pixel-issue {
+    border: 1px solid #000;
+}
+
 /* form */
 
 .btn-form {
