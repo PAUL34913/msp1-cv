@@ -460,6 +460,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 -   Re-designing form to not use bubbles for validation messages
 -   Form valiudation complete, responsive and working
+-   Removed dead class attirbutes and links on form.html
 
 ## Known Bugs
 
