@@ -461,6 +461,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Re-designing form to not use bubbles for validation messages
 -   Form validation complete, responsive and working
 -   Removed dead class attirbutes and links from form
+-   Created new contact form footer
+-   Redsigned form image position and response
 
 ## Known Bugs
 
