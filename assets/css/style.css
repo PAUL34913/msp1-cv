@@ -425,6 +425,14 @@ ul {
     text-indent: 5px;
 }
 
+.form-footer {
+    margin: 0 auto;
+}
+
+#p-padding {
+    padding: 20px 0 0 0;
+}
+
 #full-name {
     width: 100%;
     font-size: 0.8rem;
