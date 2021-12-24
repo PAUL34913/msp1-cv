@@ -465,6 +465,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Moved form image position and changed response with show/hide
 -   Reduced employers to one for work-history mobile, whilst adding a collapse button to show the other 3
 -   Fixed issue where clicking the work-history collapse button would cause it to shift right
+-   Completed all work based on mentor feedback
 
 ## Known Bugs
 
