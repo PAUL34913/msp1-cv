@@ -4,6 +4,10 @@
 
 /* General */
 
+* {
+    border: 1px solid red;
+}
+
 a:hover {
     text-decoration: none;
 }
@@ -415,7 +419,6 @@ ul {
     text-align: left;
     margin: 0 auto;
     max-width: 1200px;
-    border: 1px solid #000;;
 }
 
 .form-content {
