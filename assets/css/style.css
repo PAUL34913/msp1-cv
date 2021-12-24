@@ -13,11 +13,18 @@ a:hover {
     color: #dc3545;
 }
 
+html {
+    overflow: hidden;
+    height: 100%;
+}
+
 body {
     color: #fff;
     font-family: 'Exo', sans-serif;
     color: #000;
     text-align: center;
+    height: 100%;
+    overflow: auto;
 }
 
 .page-content-container {
