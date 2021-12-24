@@ -468,6 +468,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Completed all work based on mentor feedback
 -   Created new form-success footer image, working and responsive
 -   Fixed white pixel line issue below form-success footer, there was a double wrapper with 1px borders
+-   Testing blog footer white pixel line issue
 
 ## Known Bugs
 
@@ -495,9 +496,9 @@ Relative path was not correct for the d-lg image.
 
 Improper use of DIV tags, fixed by removing some DIV's, removing section borders and placing the border on the main container.
 
-### Single White Line
+### 1px White Lines
 
--   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also.
+-   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also. The blog uses an identical footer to every other page.
 
 **Fixed**
 
@@ -615,7 +616,12 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 -   **City Silhouette Vector**   https://www.goodfreephotos.com/albums/vector-images/city-silhouette-vector-clipart.png
 
-    Used for contact me page footer image
+    Used for form page footer image
+
+-   **Party Line Silhouette**   hhttps://pixy.org/src/476/4765257.png
+
+Used for form-success me page footer image
+
 
 ### Acknowledgements
 
