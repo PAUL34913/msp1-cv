@@ -48,7 +48,7 @@ The following will have independant pages:
 
 ### Skeleton
 
-For the UI, I have decided to use a single page for the personal information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read as a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog and portfolio will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
+For the UI, I have decided to use a single page for the personal information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read as a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog, portfolio and contact forrm will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
@@ -66,7 +66,7 @@ The contact form will require validation, ensuring that all fields are completed
 
 ![Surface Image](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-surface.png "Surface Image")
 
--   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background. The validation popups are styled by the browser and cannot be changed with CSS, as such their appearance is out of my control. They are editable using Javascript but I believe they are out of scope for this project. As a result, in particular whilst using Firefox, the popups are a similar color to the background and do not stand out as much as I would like.
+-   The sites theme consists of a white background, contrasted by black bars and trims. I have decided to keep the main background white for clean presentation, even though this contrast of colors is generally advised against from a design aspect. Red and blue have been added to compliment the theme with regards to links and buttons, and red has been used with other bright and bold colors in the images to pop against the background.
 
 **Typography**
 
@@ -111,7 +111,7 @@ The contact form will require validation, ensuring that all fields are completed
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/download/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website, .
+    - Bootstrap was used to assist with the responsiveness and styling of the website, and also for several components mentioned in the credits.
 1. [Google Fonts](https://fonts.google.com/)
     - Google fonts were used to import the 'Exo' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome 4.7.0](https://fontawesome.com/v4.7/)
@@ -459,8 +459,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 24/12/21
 
 -   Re-designing form to not use bubbles for validation messages
--   Form valiudation complete, responsive and working
--   Removed dead class attirbutes and links on form.html
+-   Form validation complete, responsive and working
+-   Removed dead class attirbutes and links from form
 
 ## Known Bugs
 
