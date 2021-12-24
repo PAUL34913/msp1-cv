@@ -464,6 +464,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Created new contact form footer image
 -   Moved form image position and changed response with show/hide
 -   Reduced employers to one for work-history mobile, whilst adding a collapse button to show the other 3
+-   Fixed issue where clicking the work-history collapse button would cause it to shift right
 
 ## Known Bugs
 
@@ -502,12 +503,6 @@ Redsigned form validation and issue dissapeared once completed.
 ### Index page section landing positions
 
 -   Landing positions from anchor links between single page sections vary between browser so that the pages are slightly out of line if you click directly from one link to another.
-
-**Not Fixed**
-
-### Home navbar link
-
--   When on the contact form page, the home navbar link stops working on the form page since adding new validation with bootstrap and javascript.
 
 **Not Fixed**
 
