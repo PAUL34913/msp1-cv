@@ -414,7 +414,6 @@ ul {
     text-align: left;
     margin: 0 auto;
     max-width: 1200px;
-    border: 1px solid #000;
     padding: 0 0 0 0;
 }
 
@@ -480,5 +479,5 @@ ul {
 }
 
 .form-success-content {
-    padding-bottom: 650px !important;
+    padding-bottom: 400px !important;
 }

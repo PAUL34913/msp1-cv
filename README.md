@@ -466,6 +466,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Reduced employers to one for work-history mobile, whilst adding a collapse button to show the other 3
 -   Fixed issue where clicking the work-history collapse button would cause it to shift right
 -   Completed all work based on mentor feedback
+-   Created new form-success footer image, working and responsive
 
 ## Known Bugs
 
