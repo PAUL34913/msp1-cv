@@ -4,10 +4,6 @@
 
 /* General */
 
-* {
-    border: 1px solid red;
-}
-
 a:hover {
     text-decoration: none;
 }
