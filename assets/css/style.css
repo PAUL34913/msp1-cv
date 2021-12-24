@@ -24,6 +24,7 @@ body {
     border: 1px solid #000;
     margin: 0 auto;
     max-width: 1200px;
+    padding: 0px;
 }
 
 .row {
