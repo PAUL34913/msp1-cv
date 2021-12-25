@@ -419,6 +419,7 @@ ul {
     text-align: left;
     margin: 0 auto;
     max-width: 1200px;
+    border: 1px solid #000;
 }
 
 .form-content {
@@ -438,6 +439,7 @@ ul {
 
 .form-image-padding {
     padding-top: 150px;
+    max-width: 100%;
 }
 
 .form-image-padding-sm {
@@ -477,11 +479,11 @@ ul {
 /* form success */
 
 .form-success-header {
-    padding: 50px 0 0 0;
+    padding: 110px 0 0 0;
     margin: 0 0 0 0;
     text-indent: 20px;
 }
 
 .form-success-content {
-    padding-bottom: 400px !important;
+    padding-bottom: 700px !important;
 }
