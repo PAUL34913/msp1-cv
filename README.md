@@ -470,6 +470,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed white pixel line issue below form-success footer, fault was a double wrapper with 1px borders
 -   Testing blog footer white pixel line issue
 -   Reduced rows in form text-area from 14 to 10
+-   Removed form footer image
 
 ## Known Bugs
 
@@ -612,10 +613,6 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 -   **Call Customer Silhouette:**   https://pxhere.com/en/photo/1446823
 
     Used for contact me page image
-
--   **City Silhouette Vector**   https://www.goodfreephotos.com/albums/vector-images/city-silhouette-vector-clipart.png
-
-    Used for form page footer image
 
 -   **Party Line Silhouette**   hhttps://pixy.org/src/476/4765257.png
 
