@@ -33,6 +33,10 @@ body {
     margin: 0 auto;
 }
 
+textarea {
+    resize: none;
+  }
+
 .header-container {
     margin: 0 auto;
     width: 100%;

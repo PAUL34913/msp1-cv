@@ -469,6 +469,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Created new form-success footer image, working and responsive
 -   Fixed white pixel line issue below form-success footer, fault was a double wrapper with 1px borders
 -   Testing blog footer white pixel line issue
+-   Reduced rows in form text-area from 14 to 10
 
 ## Known Bugs
 
