@@ -641,11 +641,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Used for contact me page image
 
--   **Party Line Silhouette**   hhttps://pixy.org/src/476/4765257.png
-
-Used for form-success me page footer image
-
-
 ### Acknowledgements
 
 -   My Sons, Thomas and James, for their help with testing the site on a variety of devices.
