@@ -4,7 +4,7 @@
 
 /* General */
 a {
-    color: rgb(30, 20, 134);
+    color: rgb(0, 0, 0);
 }
 
 
@@ -12,8 +12,14 @@ a:hover {
     text-decoration: none;
 }
 
+.ci-link {
+    text-decoration: none;
+    color: rgb(200, 41, 41);
+}
+
 .ci-link:hover {
     text-decoration: none;
+    font-weight: bold;
     color: rgb(200, 41, 41);
 }
 
