@@ -492,6 +492,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed out of sequence heading on portfolio page
 -   Added title to iframe for youtube video on blog page
 -   Fixed out of sequence heading on blog page
+-   Removed anchors for home page links and applied ID directly to elements
+-   Padded out landing positions for home page links
 
 ## Known Bugs
 
