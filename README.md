@@ -133,29 +133,29 @@ The contact form will require validation, ensuring that all fields are completed
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+**[W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)**
 
 ![HTML Test](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index-html-validation.png "Index Page")
 
-**All pages passed without error**
+-   All pages passed without error
 
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ![CSS Test-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-css-validation.png "Stylesheet")
 
-**All pages passed without error**
+-   All pages passed without error
 
--   [Experte Accessibility Check](https://www.experte.com/accessibility)
+[Experte Accessibility Check](https://www.experte.com/accessibility)
 
 ![Accessibility Test-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-experte.png "Stylesheet")
 
-**All pages passed without error**
+-   All pages passed without error
 
--   [Lighthouse Report](https://www.webpagetest.org/lighthouse)
+[Lighthouse Report](https://www.webpagetest.org/lighthouse)
 
 ![Multiple Tests-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-lighthouse.png "Stylesheet")
 
-**All pages passed without error**
+-   There were several errors with the Lighthouse report but I managed 100 for Accessibility, 100 for SEO and 92 for Best Practice. The downfall in best practice was that I used older versions of bootstrap and JavaScript as advised in the tutorials and lessons with Code Institute, and they raised several flags for vunerabilities putting it at medium risk. This is something I aim to fix going forward, but for the sake of submitting my project and keeping to schedule I will not fix this at present. I was unaware of Lighthouse until I was close to submitting my project at which point I did not want to change frameworks. The bulk of the performance issues I believe were down to the section headers and footers of the home page. I could have hidden these with JavaScript to cut on pre-load times but as I have used a little JavaScript already, I decided that this would add a further unnecesary work load, and was out of the scope of the project.
 
 ### Testing User Stories from User Experience (UX) Section
 
