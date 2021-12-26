@@ -592,6 +592,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     Map in personal-info section, embedded responsively using Bootstrap.
 
+    -   **Social Links (Navbar):**  Taken from front end mini project with [Code Institute](https://codeinstitute.net/)
+
+    Icon links to social media pages.
+
 -   **Youtube:**  https://www.youtube.com/
 
     Music video in blog, embedded resposively using bootstrap.
