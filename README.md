@@ -471,7 +471,12 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Testing blog footer white pixel line issue
 -   Reduced rows in form text-area from 14 to 10
 -   Removed form footer image
--   Removed the form success footer image
+-   Removed form success footer image
+
+### 26/12/21
+
+-   Removed portfolio footer image
+-   Removed blog footer image
 
 ## Known Bugs
 
