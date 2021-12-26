@@ -489,6 +489,9 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed progress bar contrast issue
 -   Fixed footer link contrast issue
 -   Set javascript bars to black in order to comply with accessibility
+-   Fixed out of sequence heading on portfolio page
+-   Added title to iframe for youtube video on blog page
+-   Fixed out of sequence heading on blog page
 
 ## Known Bugs
 
