@@ -484,6 +484,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Gave each page an independant title
 -   All index.html i-frames now have a title
 -   Adjusted page colors to provide better contrast for accessibility
+-   Updated footer layout on all pages
 
 ## Known Bugs
 
