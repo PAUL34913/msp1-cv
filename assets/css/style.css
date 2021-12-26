@@ -267,36 +267,41 @@ ul {
     height: 25px;
 }
 
+.progress-bar {
+    color: #000;
+    font-weight: bold;
+}
+
 .progress-bar-red {
-    background-color: rgb(67, 0, 0);
+    background-color: rgb(200, 41, 41);
 }
 
 .progress-bar-blue {
-    background-color: #001e34;
+    background-color: #0095ff;
 }
 
 .progress-bar-purple {
-    background-color: #20002c;
+    background-color: #bb00ff;
 }
 
 .progress-bar-yellow {
-    background-color: #000;
+    background-color: rgb(255, 221, 0);
 }
 
 .progress-bar-lightblue {
-    background-color: #003843;
+    background-color: #00b1d4;
 }
 
 .progress-bar-darkblue {
-    background-color: #00064c;
+    background-color: #0037ff;
 }
 
 .progress-bar-orange {
-    background-color: #000;
+    background-color: rgb(255, 149, 0);
 }
 
 .progress-bar-green {
-    background-color: #003e00;
+    background-color: #00ea00;
 }
 
 /* Personal Info */
