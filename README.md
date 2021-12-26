@@ -486,6 +486,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Adjusted page colors to provide better contrast for accessibility
 -   Updated footer layout on all pages
 -   Added home to the dropdown menu
+-   Fixed progress bar contrast issue
+-   Fixed footer link contrast issue
 
 ## Known Bugs
 
