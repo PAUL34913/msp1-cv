@@ -479,11 +479,12 @@ ul {
 /* form success */
 
 .form-success-header {
-    padding: 110px 0 0 0;
+    padding: 100px 0 0 0;
     margin: 0 0 0 0;
-    text-indent: 20px;
+    text-align: left;
 }
 
 .form-success-content {
     padding-bottom: 700px !important;
+    text-align: left;
 }

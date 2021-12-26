@@ -477,6 +477,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 -   Removed portfolio footer image
 -   Removed blog footer image
+-   Increased padding below blog post to allow for extra space in chrome
+-   Fixed text-align and padding on form-success page
 
 ## Known Bugs
 
@@ -629,14 +631,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   **Industrial Silhouette:**    https://creazilla.com/nodes/2242-industrial-silhouette
 
     Used for work-history section footer image
-    
--   **Sea Silhouette:**   http://www.supercoloring.com/sites/default/files/silhouettes/2015/05/sea-waves-black-silhouette.svg
-
-    Used for portfolio page footer image
-
--   **Mountain Silhouette:**   http://getdrawings.com/img/mountain-silhouette-transparent-2.png
-
-    Used for blog page footer image
 
 -   **Music Video by Sick of Sirens:** https://www.youtube.com/watch?v=Lqz_4QlgbeI&feature=emb_imp_woyt
 
