@@ -488,6 +488,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added home to the dropdown menu
 -   Fixed progress bar contrast issue
 -   Fixed footer link contrast issue
+-   Set javascript bars to black in order to comply with accessibility
 
 ## Known Bugs
 
