@@ -508,6 +508,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Accessibility validated with no errors https://www.experte.com/accessibility
 -   Added rel="noopener" to all external links
 -   Removed back to top link from form and form-success page
+-   Added new README test images
 
 ## Known Bugs
 
