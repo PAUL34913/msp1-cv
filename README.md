@@ -482,6 +482,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed text-align and padding on form-success page
 -   Updated comments in navbar across all pages
 -   Gave each page an independant title
+-   All index.html i-frames now have a title
 
 ## Known Bugs
 
