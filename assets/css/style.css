@@ -268,15 +268,15 @@ ul {
 }
 
 .progress-bar-red {
-    background-color: rgb(200, 41, 41);
+    background-color: rgb(67, 0, 0);
 }
 
 .progress-bar-blue {
-    background-color: #005089;
+    background-color: #001e34;
 }
 
 .progress-bar-purple {
-    background-color: #bb00ff;
+    background-color: #20002c;
 }
 
 .progress-bar-yellow {
@@ -284,11 +284,11 @@ ul {
 }
 
 .progress-bar-lightblue {
-    background-color: #00d5ff;
+    background-color: #003843;
 }
 
 .progress-bar-darkblue {
-    background-color: #000d9d;
+    background-color: #00064c;
 }
 
 .progress-bar-orange {
@@ -296,7 +296,7 @@ ul {
 }
 
 .progress-bar-green {
-    background-color: #00e500;
+    background-color: #003e00;
 }
 
 /* Personal Info */

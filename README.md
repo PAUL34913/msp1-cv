@@ -512,7 +512,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   HTML validated with no errors https://validator.w3.org/nu/#textarea
 -   CSS validated with no errors https://jigsaw.w3.org/css-validator/
 -   Accessibility validated with no errors https://www.experte.com/accessibility
--   Multiple tests with some errors explained in the testing section 
+-   Added rel="noopener" to all external links
 
 ## Known Bugs
 
