@@ -480,6 +480,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed blog footer image
 -   Increased padding below blog post to allow for extra space in chrome
 -   Fixed text-align and padding on form-success page
+-   Updated comments in navbar across all pages
 
 ## Known Bugs
 
