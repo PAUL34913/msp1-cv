@@ -516,7 +516,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 -   Alignment of links slightly out when viewing on Safari mobile (iPhone7) and Firefox mobile (iphone 7), need to investigate.
 
-**Fixed:**
+Fixed:
 
 Have added a top padding of 2px to push the links down slightly.
 
@@ -524,29 +524,25 @@ Have added a top padding of 2px to push the links down slightly.
 
 -   About me image was not loading when using Github pages. 
 
-**Fixed:**
+Fixed:
 
 Relative path was not correct for the d-lg image.
 
 ### 1px White Lines
 
--   White 1px horizontal showing at bottom of two section footers when viewing on safari mobile
-
-**Fixed:**
-
-Improper use of DIV tags, fixed by removing some DIV's, removing section borders and placing the border on the main container.
-
-### 1px White Lines
-
 -   When viewing on my own mobile (i-Phone 7), using  both Safari and Firefox, there is a single 1px white line at the very bottom of the blog page. I cannot reproduce it on other peoples phones, and it is not present on any other device I have tested. Other people have failed to reproduce this on various devices also. The blog uses an identical footer to every other page where the issue is not present.
 
-**Not Fixed**
+Fixed
+
+Improper use of DIV tags, fixed by removing some DIV's, removing section borders and placing the border on the main container.
 
 ### Index page section landing positions
 
 -   Landing positions from anchor links between single page sections vary between browser so that the pages are slightly out of line if you click directly from one link to another.
 
-**Not Fixed**
+Fixed
+
+Removed anchors and applied iD directly to elemtns before padding out to position
 
 ## Deployment
 
