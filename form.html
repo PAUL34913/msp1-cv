@@ -101,77 +101,78 @@
     </header>
     
     <!-- form -->
-    <div class="col-12 form-container pl-0 pr-0">
-        <div class="row pt-5">
-            <div class="col-12 pb-2 form-header">
-                <h2>Contact Me</h2>
-            </div>
-            <div class="col-12 d-inline d-md-none form-image-align">
-                <img class="img-fluid form-image-padding-sm" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
-            </div>
-            <div class="col-12 pb-3 form-content">
-                <p>If you have any questions or queries regarding my work and/or studies, are looking to collaborate on any future projects, or are interested in my services as a potential employer. Please fill out the form below and I will contact you as soon as possible.</p>
-                <p>You may also contact me via the social links at the top or bottom of any page, or alternatively you may contact me using my personal information which can be found <a href="index.html#personal-info">here</a>.</p>
-            </div>
+    <main>
+        <div class="col-12 form-container pl-0 pr-0">
+            <div class="row pt-5">
+                <div class="col-12 pb-2 form-header">
+                    <h2>Contact Me</h2>
+                </div>
+                <div class="col-12 d-inline d-md-none form-image-align">
+                    <img class="img-fluid form-image-padding-sm" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
+                </div>
+                <div class="col-12 pb-3 form-content">
+                    <p>If you have any questions or queries regarding my work and/or studies, are looking to collaborate on any future projects, or are interested in my services as a potential employer. Please fill out the form below and I will contact you as soon as possible.</p>
+                    <p>You may also contact me via the social links at the top or bottom of any page, or alternatively you may contact me using my personal information which can be found <a href="index.html#personal-info">here</a>.</p>
+                </div>
 
-            <!-- form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
-            <div class="col-12 col-md-6 form-form">
-                <form class="needs-validation" action="form-success.html" novalidate>
-                    <div class="form-row">
-                        <div class="col-12 mb-3">
-                            <label for="full-name">Full Name:</label>
-                            <input type="text" class="form-control" id="full-name" placeholder="Please enter your full name" value="" required>
-                            <div class="invalid-feedback">
-                                Please enter your full name
-                            </div>
-                            <div class="valid-feedback">
-                                Validated
-                            </div>
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="col-12 mb-3">
-                            <label for="email-address">E-mail Address:</label>
-                            <input type="email" class="form-control" id="email-address" placeholder="Please enter a valid e-mail" required>
-                            <div class="invalid-feedback">
-                                Please enter a valid e-mail address
-                            </div>
-                            <div class="valid-feedback">
-                                Validated 
+                <!-- form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
+                <div class="col-12 col-md-6 form-form">
+                    <form class="needs-validation" action="form-success.html" novalidate>
+                        <div class="form-row">
+                            <div class="col-12 mb-3">
+                                <label for="full-name">Full Name:</label>
+                                <input type="text" class="form-control" id="full-name" placeholder="Please enter your full name" value="" required>
+                                <div class="invalid-feedback">
+                                    Please enter your full name
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated
+                                </div>
                             </div>
                         </div>
-                        <div class="col-12 mb-3">
-                            <label for="phone-number">Phone Number:</label>
-                            <input type="tel" class="form-control" id="phone-number" pattern="[0-9]{11}" placeholder="Please enter a UK number " required>
-                            <div class="invalid-feedback">
-                                Please enter an 11 digit UK number e.g. 02920123456 or 07929123456. Calls cannot currently be made outside the UK, if you are not in the UK, please enter 00000000000
+                        <div class="form-row">
+                            <div class="col-12 mb-3">
+                                <label for="email-address">E-mail Address:</label>
+                                <input type="email" class="form-control" id="email-address" placeholder="Please enter a valid e-mail" required>
+                                <div class="invalid-feedback">
+                                    Please enter a valid e-mail address
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated 
+                                </div>
                             </div>
-                            <div class="valid-feedback">
-                                Validated
+                            <div class="col-12 mb-3">
+                                <label for="phone-number">Phone Number:</label>
+                                <input type="tel" class="form-control" id="phone-number" pattern="[0-9]{11}" placeholder="Please enter a UK number " required>
+                                <div class="invalid-feedback">
+                                    Please enter an 11 digit UK number e.g. 02920123456 or 07929123456. Calls cannot currently be made outside the UK, if you are not in the UK, please enter 00000000000
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated
+                                </div>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="text-message">Message:</label>
+                                <textarea class="form-control" id="text-message" rows="10" placeholder="Leave a message here and I will get back to you as soon as possible." required></textarea>
+                                <div class="invalid-feedback">
+                                    Please leave a message describing your enquiry
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated
+                                </div>
                             </div>
                         </div>
-                        <div class="col-12 mb-3">
-                            <label for="text-message">Message:</label>
-                            <textarea class="form-control" id="text-message" rows="10" placeholder="Leave a message here and I will get back to you as soon as possible." required></textarea>
-                            <div class="invalid-feedback">
-                                Please leave a message describing your enquiry
-                            </div>
-                            <div class="valid-feedback">
-                                Validated
-                            </div>
-                        </div>
-                    </div>
-                    <button class="btn btn-form" type="submit">Send Details</button>
-                </form>
-            </div>
-            <!-- /form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
+                        <button class="btn btn-form" type="submit">Send Details</button>
+                    </form>
+                </div>
+                <!-- /form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
 
-            <div class="col-6 d-none d-md-inline">
-                <img class="img-fluid form-image-padding" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
-            </div>
-        </div>   
-    </div>
-
+                <div class="col-6 d-none d-md-inline">
+                    <img class="img-fluid form-image-padding" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
+                </div>
+            </div>   
+        </div>
+    </main>
     <!-- /form -->
     
     <!-- footer -->
