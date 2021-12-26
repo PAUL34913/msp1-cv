@@ -3,6 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&display=swap');
 
 /* General */
+a {
+    color: rgb(30, 20, 134);
+}
+
 
 a:hover {
     text-decoration: none;
@@ -10,7 +14,7 @@ a:hover {
 
 .ci-link:hover {
     text-decoration: none;
-    color: #dc3545;
+    color: rgb(200, 41, 41);
 }
 
 body {
@@ -61,13 +65,13 @@ ul {
     margin-top: 10px;
     padding: 5px;
     border: 1px solid #fff;
-    background-color: #dc3545;
+    background-color: rgb(200, 41, 41);
 }
 
 .badge-danger:hover {
-    color: #dc3545 !important;
+    color: rgb(200, 41, 41) !important;
     background-color: #fff !important;
-    border: 1px solid #dc3545 !important;
+    border: 1px solid rgb(200, 41, 41) !important;
 }
 
 .social-icon {
@@ -77,7 +81,7 @@ ul {
 }
 
 .social-icon:hover {
-    color: #dc3545;
+    color: rgb(200, 41, 41);
 }
 
 .social-links {
@@ -99,7 +103,7 @@ ul {
 /* Navbar */
 
 .active {
-    color: #dc3545;
+    color: rgb(200, 41, 41);
 }
 
 .dropdown:hover .dropdown-menu {
@@ -131,12 +135,12 @@ ul {
 
 .n-bar a:hover {
     text-decoration: none;
-    color: #dc3545;
+    color: rgb(200, 41, 41);
 }
 
 .btn-danger {
     background-color: #fff;
-    color: #dc3545;
+    color: rgb(200, 41, 41);
 }
 
 /* Hero Image */
@@ -263,11 +267,11 @@ ul {
 }
 
 .progress-bar-red {
-    background-color: #f02121;
+    background-color: rgb(200, 41, 41);
 }
 
 .progress-bar-blue {
-    background-color: #0095ff;
+    background-color: #005089;
 }
 
 .progress-bar-purple {
@@ -275,7 +279,7 @@ ul {
 }
 
 .progress-bar-yellow {
-    background-color: #ffea00;
+    background-color: #938700;
 }
 
 .progress-bar-lightblue {
@@ -338,7 +342,7 @@ ul {
 }
 
 .btn-work-history {
-    background-color: #dc3545;
+    background-color: rgb(200, 41, 41);
     font-weight: bold;
     color: #fff;
     border: 1px solid #fff;
@@ -347,13 +351,18 @@ ul {
 .btn-work-history:hover {
     background-color: #fff;
     font-weight: bold;
-    border: 1px solid #dc3545;
-    color: #dc3545;
+    border: 1px solid rgb(200, 41, 41);
+    color: rgb(200, 41, 41);
 }
 
 .wh-collapse-button {
     text-align: center !important;
     margin: 0 auto;
+}
+
+.company-name {
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 /* Footer */
@@ -365,6 +374,20 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
+}
+
+.footer-link {
+    color: rgb(41, 62, 200);
+}
+
+.footer-link:hover {
+    color: rgb(200, 41, 41);
+} 
+
+.footer-copyright {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
 }
 
 /* Portfolio */
@@ -409,7 +432,7 @@ ul {
 /* form */
 
 .btn-form {
-    background-color: #dc3545;
+    background-color: rgb(200, 41, 41);
     font-weight: bold;
     color: #fff;
     margin: 20px 0 40px 0;

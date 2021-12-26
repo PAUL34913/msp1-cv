@@ -483,6 +483,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Updated comments in navbar across all pages
 -   Gave each page an independant title
 -   All index.html i-frames now have a title
+-   Adjusted page colors to provide better contrast for accessibility
 
 ## Known Bugs
 
