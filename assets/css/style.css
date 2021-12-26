@@ -280,7 +280,7 @@ ul {
 }
 
 .progress-bar-yellow {
-    background-color: #938700;
+    background-color: #ffb300;
 }
 
 .progress-bar-lightblue {
@@ -378,11 +378,12 @@ ul {
 }
 
 .footer-link {
-    color: rgb(41, 62, 200);
+    color: rgb(255, 255, 255);
 }
 
 .footer-link:hover {
     color: rgb(200, 41, 41);
+    text-decoration: none;
 } 
 
 .footer-copyright {
