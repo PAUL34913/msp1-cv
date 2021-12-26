@@ -273,7 +273,7 @@ ul {
 }
 
 .progress-bar-red {
-    background-color: rgb(255, 77, 0);
+    background-color: rgb(255, 0, 0);
 }
 
 .progress-bar-blue {
@@ -289,11 +289,11 @@ ul {
 }
 
 .progress-bar-lightblue {
-    background-color: #00b1d4;
+    background-color: #00d5ff;
 }
 
 .progress-bar-darkblue {
-    background-color: #3c66ff;
+    background-color: #0080ff;
 }
 
 .progress-bar-orange {
