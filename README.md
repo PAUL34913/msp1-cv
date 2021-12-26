@@ -135,13 +135,27 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-![Index Page](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index-html-validation.png "Index Page")
+![HTML Test](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-index-html-validation.png "Index Page")
 
-All pages passed without error.
+**All pages passed without error**
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-![Stylesheet-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-css-validation.png "Stylesheet")
+![CSS Test-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-css-validation.png "Stylesheet")
+
+**All pages passed without error**
+
+-   [Experte Accessibility Check](https://www.experte.com/accessibility)
+
+![Accessibility Test-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-experte.png "Stylesheet")
+
+**All pages passed without error**
+
+-   [Lighthouse Report](https://www.webpagetest.org/lighthouse)
+
+![Multiple Tests-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-lighthouse.png "Stylesheet")
+
+**All pages passed without error**
 
 ### Testing User Stories from User Experience (UX) Section
 
