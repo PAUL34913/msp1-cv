@@ -515,6 +515,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed non required main tags
 -   Added link back to home from form-success page
 -   Updated portfolio post main image
+-   Updated mockup.png
 
 ## Known Bugs
 
