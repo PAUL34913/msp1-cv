@@ -77,16 +77,22 @@
 
                         <!-- drop-down code from stack overflow (https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user) -->
                         <li class="list-inline-item dropdown">
-                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle">Home <b class="caret"></b></a>
+                            <span id="home-dropdown-button" class="sr-only">Home dropdown menu</span>
+                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle active" aria-hidden="true" aria-labelledby="home-dropdown-button">Home <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="index.html">Top</a></li>
-                                <li><a href="index.html#about-me">About Me</a></li>
-                                <li><a href="index.html#my-skills">My Skills</a></li>
-                                <li><a href="index.html#personal-info">Personal Info</a></li>
-                                <li><a href="index.html#work-history">Work History</a></li>
+                                <span id="backtotop-button" class="sr-only">Back to top of home page</span>
+                                <li><a href="index.html" aria-hidden="true" aria-labelledby="backtotop-button">Top</a></li>
+                                <span id="aboutme-button" class="sr-only">To the about me section</span>
+                                <li><a href="index.html#about-me" aria-hidden="true" aria-labelledby="aboutme-button">About Me</a></li>
+                                <span id="myskills-button" class="sr-only">To the my skills section</span>
+                                <li><a href="index.html#my-skills" aria-hidden="true" aria-labelledby="myskills-button">My Skills</a></li>
+                                <span id="personalinfo-button" class="sr-only">To the personal info section</span>
+                                <li><a href="index.html#personal-info" aria-hidden="true" aria-labelledby="personalinfo-button">Personal Info</a></li>
+                                <span id="workhistory-button" class="sr-only">To the work history section</span>
+                                <li><a href="index.html#work-history" aria-hidden="true" aria-labelledby="workhistory-button">Work History</a></li>
                             </ul>
                         </li>
-                    <!-- /drop-down code from stack overflow -->
+                        <!-- /drop-down code from stack overflow -->
 
                         <li class="list-inline-item"><a href="portfolio.html">Portfolio</a></li>
                         <li class="list-inline-item"><a class="active" href="blog.html">Blog</a></li>
