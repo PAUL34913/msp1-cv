@@ -513,6 +513,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 27/12/21
 
 -   Removed non required main tags
+-   Added link back to home from form-success page
 
 ## Known Bugs
 
