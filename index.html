@@ -91,9 +91,12 @@
                         </li>
                         <!-- /drop-down code from stack overflow -->
 
-                        <li class="list-inline-item"><a href="portfolio.html">Portfolio</a></li>
-                        <li class="list-inline-item"><a href="blog.html">Blog</a></li>
-                        <li class="list-inline-item"><a href="assets/cv/download-cv.pdf" Target="_blank">Download CV</a></li>
+                        <span id="portfolio-button" class="sr-only" >To the portfolio page</span>
+                        <li class="list-inline-item"><a href="portfolio.html" aria-hidden="true" aria-labelledby="portfolio-button">Portfolio</a></li>
+                        <span id="blog-button" class="sr-only">To the blog page</span>
+                        <li class="list-inline-item"><a href="blog.html" aria-hidden="true" aria-labelledby="blog-button">Blog</a></li>
+                        <span id="cv-button" class="sr-only">Download my CV here</span>
+                        <li class="list-inline-item"><a href="assets/cv/download-cv.pdf" aria-hidden="true" aria-labelledby="cv-button" Target="_blank">Download CV</a></li>
                     </ul>
                 </nav>
                 <!-- /nav-bar -->
