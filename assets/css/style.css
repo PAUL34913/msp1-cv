@@ -14,7 +14,7 @@ a {
 a:hover {
     text-decoration: none;
     font-weight: bold;
-    color: rgb(200, 41, 41);
+    color: rgb(0, 119, 255);
 }
 
 body {
@@ -70,7 +70,7 @@ ul {
 
 .badge-danger:hover {
     color: rgb(200, 41, 41) !important;
-    background-color: #fff !important;
+    background-color: rgb(255, 255, 255) !important;
     border: 1px solid rgb(200, 41, 41) !important;
 }
 
@@ -385,7 +385,7 @@ ul {
 }
 
 .footer-link:hover {
-    color: rgb(200, 41, 41);
+    color: rgb(0, 119, 255);
     text-decoration: none;
 } 
 
@@ -437,10 +437,18 @@ ul {
 /* form */
 
 .btn-form {
-    background-color: rgb(200, 41, 41);
+background-color: rgb(200, 41, 41);
+font-weight: bold;
+color: #fff;
+border: 1px solid #fff;
+margin: 25px 0 150px 0;
+}
+
+.btn-form:hover {
+    background-color: #fff;
     font-weight: bold;
-    color: #fff;
-    margin: 20px 0 40px 0;
+    border: 1px solid rgb(200, 41, 41);
+    color: rgb(200, 41, 41);
 }
 
 .form-container {

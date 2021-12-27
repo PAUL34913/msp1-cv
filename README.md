@@ -518,6 +518,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Updated mockup.png
 -   HTML, CSS and accessibility all validated with no errors
 -   Added ARIA attributes to navbar contact me button all pages
+-   All text link hover states now blue
+-   All button hover states now uniform
 
 ## Known Bugs
 
