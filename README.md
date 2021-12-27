@@ -520,6 +520,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added ARIA attributes to navbar contact me button all pages
 -   All text link hover states now blue
 -   All button hover states now uniform
+-   All social link hover states now blue
 
 ## Known Bugs
 
