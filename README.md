@@ -521,6 +521,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All text link hover states now blue
 -   All button hover states now uniform
 -   All social link hover states now blue
+-   Fixed footer layout all pages
 
 ## Known Bugs
 
