@@ -517,6 +517,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Updated portfolio post main image
 -   Updated mockup.png
 -   HTML, CSS and accessibility all validated with no errors
+-   Added ARIA attributes to navbar contact me button all pages
 
 ## Known Bugs
 
