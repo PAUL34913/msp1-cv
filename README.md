@@ -535,6 +535,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added ARIA attributes to the google map in the personal info section
 -   Added ARIA attributes to all buttons on work-history page and mobile version
 -   Added ARIA attributes to all footerback to top links
+-   Updated ARIA attributes on progress bars
 
 ## Known Bugs
 
