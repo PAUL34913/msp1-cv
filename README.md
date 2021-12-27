@@ -537,6 +537,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added ARIA attributes to all footerback to top links
 -   Updated ARIA attributes on progress bars
 -   Added ARIA attributes to all interactive elements on portfolio and blog page
+-   Added ARIA attributes to all interactive elements on contact form page
+-   Added ARIA attributes to all interactive elements on contact form page
 
 ## Known Bugs
 
