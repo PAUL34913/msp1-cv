@@ -516,6 +516,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added link back to home from form-success page
 -   Updated portfolio post main image
 -   Updated mockup.png
+-   HTML, CSS and accessibility all validated with no errors
 
 ## Known Bugs
 
@@ -636,6 +637,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   All content was written by the developer.
 
 ### Media
+
+-   **Mock-up Image:**       http://ami.responsivedesign.is/?url=https%3A%2F%2Fpaul34913.github.io%2Fmsp1-online-resume%2F#
+
+    Used at top of README.md.
 
 -   **Eagle Vector:**       http://getdrawings.com/eagle-vector-free-download#eagle-vector-free-download-6.png
 

@@ -93,6 +93,10 @@ ul {
     float: left;
 }
 
+.cm-button {
+    z-index: -5;
+}
+
 .collaborate-text {
     font-size: 0.8rem;
     float: left;
