@@ -3,16 +3,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&display=swap');
 
 /* General */
-a {
+nav a {
     color: rgb(0, 0, 0);
 }
 
-.ci-link {
-    text-decoration: none;
+a {
     color: rgb(200, 41, 41);
 }
 
-.ci-link:hover {
+a:hover {
     text-decoration: none;
     font-weight: bold;
     color: rgb(200, 41, 41);
@@ -132,11 +131,6 @@ ul {
     font-size: 0.8rem;
     font-weight: bold;
     z-index: 1;
-}
-
-.n-bar a:hover {
-    text-decoration: none;
-    color: rgb(40, 57, 246);
 }
 
 .btn-danger {
