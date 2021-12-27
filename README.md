@@ -531,6 +531,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Changed navbar dropdown menu item top to top of home
 -   Added ARIA attributes to mobile collapse buttons on home page
 -   Added ARIA attributes to e-mail and phone in personal info section
+-   Added ARIA attributes to e-mail and phone in personal info section for mobile view
 
 ## Known Bugs
 
