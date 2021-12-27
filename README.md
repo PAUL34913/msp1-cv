@@ -510,6 +510,10 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed back to top link from form and form-success page
 -   Added new README test images
 
+### 27/12/21
+
+-   Removed non required main tags
+
 ## Known Bugs
 
 ### Social Link Alignment
