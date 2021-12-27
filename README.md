@@ -522,6 +522,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All button hover states now uniform
 -   All social link hover states now blue
 -   Fixed footer layout all pages
+-   Added ARIA attributes to all social icon links, all pages
 
 ## Known Bugs
 
