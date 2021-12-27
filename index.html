@@ -244,7 +244,10 @@
 
                 <!-- my skills collapse button for mobile viewing (https://www.w3schools.com/bootstrap4/bootstrap_collapse.asp) -->
                 <div class="col-12 d-md-none mobile-btn-collapse">
-                    <button class="btn btn-work-history mt-5" data-toggle="collapse" data-target="#ms-collapse-mobile">More Skills</button>
+                    <button class="btn btn-work-history mt-5" data-toggle="collapse" data-target="#ms-collapse-mobile">
+                        <span id="myskills-collapse-button" class="sr-only">Reveal more skills</span>
+                        <span aria-hidden="true" aria-labelledby="myskills-collapse-button">More Skills</span>
+                    </button>
                     <div id="ms-collapse-mobile" class="collapse">
                         <div class="col-12 col-md-4 pt-5 ms-pb-padding">
                             <p>Photoshop <i class="fa fa-camera ms-icons" title="Photoshop Icon" aria-hidden="true"></i></p>
@@ -432,7 +435,10 @@
 
                     <!-- work history collapse button for mobile viewing (https://www.w3schools.com/bootstrap4/bootstrap_collapse.asp) -->
                     <div class="col-12 d-md-none mobile-btn-collapse">
-                        <button class="btn btn-work-history mt-5" data-toggle="collapse" data-target="#wh-collapse-mobile">View More</button>
+                        <button class="btn btn-work-history mt-5" data-toggle="collapse" data-target="#wh-collapse-mobile">
+                            <span id="workhistory-collapse-button" class="sr-only">Reveal more employment history</span>
+                            <span aria-hidden="true" aria-labelledby="workhistory-collapse-button">View More</span>
+                        </button>
                         <div id="wh-collapse-mobile" class="collapse wh-collapse-button">
                             <div class="col-12 col">    
                                 <div class="mycard mt-5">
