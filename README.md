@@ -523,6 +523,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All social link hover states now blue
 -   Fixed footer layout all pages
 -   Added ARIA attributes to all social icon links, all pages
+-   Fixed missing ARIA attributes in all footers
 
 ## Known Bugs
 
