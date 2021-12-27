@@ -628,7 +628,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   **Youtube:**  https://www.youtube.com/
 
-    Music video in blog, embedded resposively using bootstrap.
+    Music video in blog, embedded responsively using bootstrap.
 
 ### Content
 
