@@ -378,6 +378,8 @@ ul {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
+    font-size: 0.8rem;
+    padding-top: 20px;
 }
 
 .footer-link {
