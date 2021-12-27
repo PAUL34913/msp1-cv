@@ -524,6 +524,9 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed footer layout all pages
 -   Added ARIA attributes to all social icon links, all pages
 -   Fixed missing ARIA attributes in all footers
+-   Added ARIA attributes to navbar dropdown menu and all navbar links
+-   Fixing issue with ARIA ID for socials links, giving independant ID to top and bottom links
+
 
 ## Known Bugs
 
