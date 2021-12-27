@@ -532,6 +532,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added ARIA attributes to mobile collapse buttons on home page
 -   Added ARIA attributes to e-mail and phone in personal info section
 -   Added ARIA attributes to e-mail and phone in personal info section for mobile view
+-   Added ARIA attributes to the google map in the personal info section
 
 ## Known Bugs
 

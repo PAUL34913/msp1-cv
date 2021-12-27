@@ -395,7 +395,8 @@
                 <!-- google map, embedded with bootstrap (https://getbootstrap.com/docs/4.2/utilities/embed/) -->
                 <div class="col-12 col-md-8 pb-5">
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" title="Google Map of Port Talbot" src="https://maps.google.com/maps?q=Port%20Talbot&amp;t=k&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
+                            <span id="pi-google-map" class="sr-only">An interactive google map of the Port Talbot area</span>
+                            <iframe class="embed-responsive-item" aria-hidden="true" aria-labelledby="pi-google-map" title="Google Map of Port Talbot" src="https://maps.google.com/maps?q=Port%20Talbot&amp;t=k&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
                         </div>
                 </div>
                 <!-- /google Map -->
