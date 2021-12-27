@@ -527,6 +527,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added ARIA attributes to navbar dropdown menu and all navbar links
 -   Fixed issue with ARIA ID for socials links, giving independant ID to top and bottom links
 -   Fixed missing ARIA attributes on navbar
+-   Added ARIA attributes to all code institute links
 
 
 ## Known Bugs
