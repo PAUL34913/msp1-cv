@@ -543,6 +543,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed issues with spans being used as a child element of unordered lists on all pages
 -   Fixed issue where duplicate ID's were being used on the home page
 -   Removed aria-placeholders from form page, not required with placeholders
+-   Removed value from text-area on form page, not required
+-   All HTML and CSS validated with no errors
 
 ## Known Bugs
 
