@@ -554,6 +554,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Updated ARIA labels on navbar
 -   Fixed navbar not displaying on some pages
 -   Updated ARIA attributes on social links
+-   All HTML and CSS validated with no errors
+-   Fixed typo on form-success page
 
 
 ## Known Bugs
