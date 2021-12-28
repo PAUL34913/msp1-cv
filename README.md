@@ -551,6 +551,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 28/12/21
 
 -   Updated ARIA labels on social links
+-   Updated ARIA labels on navbar
 
 
 ## Known Bugs

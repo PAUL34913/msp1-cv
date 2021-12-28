@@ -1,38 +1,186 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Paul Eagle - Online Resume - Contact Form">
-    <meta name="keywords" content="paul, eagle, resume, cv, full, stack, web, software, developer, about, me, my, skills, personal, info, work, history, portfolio, blog, contact, me, html, css, javascript, adobe, photoshop, bootstrap, react, python, mysql, nosql, mongo, db,">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="index, follow">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    <title>Contact Form - Paul Eagle - Full Stack Web Developer Student</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Paul Eagle - Online Resume - Contact Form">
+        <meta name="keywords" content="paul, eagle, resume, cv, full, stack, web, software, developer, about, me, my, skills, personal, info, work, history, portfolio, blog, contact, me, html, css, javascript, adobe, photoshop, bootstrap, react, python, mysql, nosql, mongo, db,">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="robots" content="index, follow">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+        <title>Contact Form - Paul Eagle - Full Stack Web Developer Student</title>
+    </head>
 
-<body>
-    <header>
-        <div class="pos-f-t header-container">
-            <div class="row">
-                <div class="col-12 top-bar">
+    <body>
+        <header>
+            <div class="pos-f-t header-container">
+                <div class="row">
+                    <div class="col-12 top-bar">
 
-                    <!-- contact-me button -->
-                    <div class="contact-me-button">
-                        <a href="form.html" class="badge badge-danger" aria-label="Continue to the contact me page">Contact Me</a>
+                        <!-- contact-me button -->
+                        <div class="contact-me-button">
+                            <a href="form.html" class="badge badge-danger" aria-label="Continue to the contact me page">Contact Me</a>
+                        </div>
+                        <div class="contact-me-text">
+                            <p class="d-none d-md-inline">if you are interested in collaborating, or require any information in general!</p>
+                        </div> 
+                        <!-- /contact-me button -->
+
+                        <!-- social links, code from code institute frontend mini project (deleted from my repo) -->
+                        <div class="social-links">
+                            <ul class="list-inline">
+                                <li class="list-inline-item">
+                                    <a href="https://www.instagram.com/paul34913/" aria-label="Continue to my personal instagram page" rel="noopener" target="_blank">
+                                        <i class="social-icon fa fa-instagram" title="Instagram Icon" aria-label="Instagram icon">
+                                        </i>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="https://www.linkedin.com/in/paul-eagle-85532a222/" aria-label="Continue to my personal linkedin page" rel="noopener" target="_blank">
+                                        <i class="social-icon fa fa-linkedin-square" title="Linkedin Icon" aria-label="Linkedin icon">
+                                        </i>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="https://github.com/PAUL34913" aria-label="Continue to my personal github page" rel="noopener" target="_blank">
+                                        <i class="social-icon fa fa-github" title="GitHub Icon" aria-label="Github icon">
+                                        </i>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="https://app.slack.com/client/T0L30B202/C0L316Z96/user_profile/U02E3RW8Y5B" aria-label="Continue to my personal slack page" rel="noopener" target="_blank">
+                                        <i class="social-icon fa fa-slack" title="Slack Icon" aria-label="Slack icon">
+                                        </i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /social links, code from code institute frontend mini project (deleted from my repo) -->
+
                     </div>
-                    <div class="contact-me-text">
-                        <p class="d-none d-md-inline">if you are interested in collaborating, or require any information in general!</p>
-                    </div> 
-                    <!-- /contact-me button -->
+                </div>
 
-                    <!-- social links, code from code institute frontend mini project (deleted from my repo) -->
-                    <div class="social-links">
+                <div class="row">
+
+                    <!-- nav-bar -->
+                    <nav class="col-12 n-bar">
+                        <ul class="list-inline n-bar"></ul>
+
+                            <!-- drop-down code from stack overflow (https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user) -->
+                            <li class="list-inline-item dropdown">                            
+                                <a href="index.html" data-toggle="dropdown" class="dropdown-toggle active" aria-label="Home page drop down menu">Home <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="index.html" aria-label="top of home page">Top of Home Page</a></li>
+                                    <li><a href="index.html#about-me" aria-label="about me">About Me</a></li>
+                                    <li><a href="index.html#my-skills" aria-label="my skills">My Skills</a></li>
+                                    <li><a href="index.html#personal-info" aria-label="personal info">Personal Info</a></li>
+                                    <li><a href="index.html#work-history" aria-label="work history">Work History</a></li>
+                                </ul>
+                            </li>
+                            <!-- /drop-down code from stack overflow -->
+
+                            <li class="list-inline-item"><a href="portfolio.html" aria-label="To the portfolio page">Portfolio</a></li>
+                            <li class="list-inline-item"><a href="blog.html" aria-label="To the blog page">Blog</a></li>
+                            <li class="list-inline-item"><a href="assets/cv/download-cv.pdf" aria-label="Download my cv" target="_blank">Download CV</a></li>
+                        </ul>
+                    </nav>
+                    <!-- /nav-bar -->
+
+                </div>
+            </div>
+        </header>
+        
+        <!-- form -->
+        <div class="col-12 form-container pl-0 pr-0">
+            <div class="row pt-5">
+                <div class="col-12 pb-2 form-header">
+                    <h2>Contact Me</h2>
+                </div>
+                <div class="col-12 d-inline d-md-none form-image-align">
+                    <img class="img-fluid form-image-padding-sm" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
+                </div>
+                <div class="col-12 pb-3 form-content">
+                    <p>If you have any questions or queries regarding my work and/or studies, are looking to collaborate on any future projects, or are interested in my services as a potential employer. Please fill out the form below and I will contact you as soon as possible.</p>
+                    <p>You may also contact me via the social links at the top or bottom of any page, or alternatively you may contact me using my personal information which can be found <a href="index.html#personal-info">here</a>.</p>
+                </div>
+
+                <!-- form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
+                <div class="col-12 col-md-6 form-form">
+                    <form class="needs-validation" action="form-success.html" novalidate>
+                        <div class="form-row">
+                            <div class="col-12 mb-3">
+                                <label for="full-name">Full Name:</label>
+                                <span id="fullname-input" class="sr-only">Please enter your full name here</span>
+                                <input type="text" class="form-control" id="full-name" placeholder="Please enter your full name" aria-labelledby="fullname-input" aria-required="true" value="" required>
+                                <div class="invalid-feedback">
+                                    Please enter your full name
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-12 mb-3">
+                                <label for="email-address">E-mail Address:</label>
+                                <span id="email-input" class="sr-only">Please enter a valid e-mail adress so I can contact you</span>
+                                <input type="email" class="form-control" id="email-address" placeholder="Please enter a valid e-mail" aria-labelledby="email-input" aria-required="true" value="" required>
+                                <div class="invalid-feedback">
+                                    Please enter a valid e-mail address
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated 
+                                </div>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="phone-number">Phone Number:</label>
+                                <span id="phone-input" class="sr-only">Please enter a UK number. If you are from outside of the UK, please enter the number zero eleven times</span>
+                                <input type="tel" class="form-control" id="phone-number" pattern="[0-9]{11}" placeholder="Please enter a UK number" aria-labelledby="phone-input" aria-required="true" value="" required>
+                                <div class="invalid-feedback">
+                                    Please enter an 11 digit UK number e.g. 02920123456 or 07929123456. Calls cannot currently be made outside the UK, if you are not in the UK, please enter 00000000000
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated
+                                </div>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="text-message">Message:</label>
+                                <span id="message-input" class="sr-only">Leave a message here and I will get back to you as soon as possible</span>
+                                <textarea class="form-control" id="text-message" rows="10" placeholder="Leave a message here and I will get back to you as soon as possible." aria-labelledby="message-input" aria-required="true" required></textarea>
+                                <div class="invalid-feedback">
+                                    Please leave a message describing your enquiry
+                                </div>
+                                <div class="valid-feedback">
+                                    Validated
+                                </div>
+                            </div>
+                        </div>
+                        <button class="btn btn-form" aria-label="Send your information">Send Info</button>
+                    </form>
+                </div>
+                <!-- /form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
+
+                <div class="col-6 d-none d-md-inline">
+                    <img class="img-fluid form-image-padding" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
+                </div>
+            </div>   
+        </div>
+        <!-- /form -->
+        
+        <!-- footer -->
+            
+        <footer>
+            <div class="row">
+                <div class="col-12 footer-main-bar">                
+                    <div class="collaborate-text col-12">
+                        <p class="footer-copyright d-inline">copyright © Paul Eagle - 2022</p>
+
+                        <!-- social links, code from code institute frontend mini project (deleted from my repo) -->
                         <ul class="list-inline">
                             <li class="list-inline-item">
                                 <a href="https://www.instagram.com/paul34913/" aria-label="Continue to my personal instagram page" rel="noopener" target="_blank">
@@ -59,184 +207,36 @@
                                 </a>
                             </li>
                         </ul>
-                    </div>
-                    <!-- /social links, code from code institute frontend mini project (deleted from my repo) -->
+                        <!-- /social links, code from code institute frontend mini project (deleted from my repo) -->
 
+                    </div> 
                 </div>
             </div>
+        </footer>
 
-            <div class="row">
+        <!-- /footer -->
 
-                <!-- nav-bar -->
-                <nav class="col-12 n-bar">
-                    <ul class="list-inline n-bar">
-
-                        <!-- drop-down code from stack overflow (https://stackoverflow.com/questions/19679982/how-to-make-bootstrap-3-dropdown-menu-working-for-no-js-user) -->
-                        <li class="list-inline-item dropdown">
-                            <a href="index.html" data-toggle="dropdown" class="dropdown-toggle active" aria-label="Home page drop down menu">Home <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="index.html" aria-label="top of home page">Top of Home Page</a></li>
-                                <li><a href="index.html#about-me" aria-label="about me">About Me</a></li>
-                                <li><a href="index.html#my-skills" aria-label="my skills">My Skills</a></li>
-                                <li><a href="index.html#personal-info" aria-label="personal info">Personal Info</a></li>
-                                <li><a href="index.html#work-history" aria-label="work history">Work History</a></li>
-                            </ul>
-                        </li>
-                        <!-- /drop-down code from stack overflow -->
-
-                        <li class="list-inline-item"><a href="portfolio.html" aria-label="portfolio">Portfolio</a></li>
-                        <li class="list-inline-item"><a href="blog.html" aria-label="blog">Blog</a></li>
-                        <li class="list-inline-item"><a href="assets/cv/download-cv.pdf" aria-label="download cv">Download CV</a></li>
-                    </ul>
-                </nav>
-                <!-- /nav-bar -->
-
-            </div>
-        </div>
-    </header>
-    
-    <!-- form -->
-    <div class="col-12 form-container pl-0 pr-0">
-        <div class="row pt-5">
-            <div class="col-12 pb-2 form-header">
-                <h2>Contact Me</h2>
-            </div>
-            <div class="col-12 d-inline d-md-none form-image-align">
-                <img class="img-fluid form-image-padding-sm" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
-            </div>
-            <div class="col-12 pb-3 form-content">
-                <p>If you have any questions or queries regarding my work and/or studies, are looking to collaborate on any future projects, or are interested in my services as a potential employer. Please fill out the form below and I will contact you as soon as possible.</p>
-                <p>You may also contact me via the social links at the top or bottom of any page, or alternatively you may contact me using my personal information which can be found <a href="index.html#personal-info">here</a>.</p>
-            </div>
-
-            <!-- form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
-            <div class="col-12 col-md-6 form-form">
-                <form class="needs-validation" action="form-success.html" novalidate>
-                    <div class="form-row">
-                        <div class="col-12 mb-3">
-                            <label for="full-name">Full Name:</label>
-                            <span id="fullname-input" class="sr-only">Please enter your full name here</span>
-                            <input type="text" class="form-control" id="full-name" placeholder="Please enter your full name" aria-labelledby="fullname-input" aria-required="true" value="" required>
-                            <div class="invalid-feedback">
-                                Please enter your full name
-                            </div>
-                            <div class="valid-feedback">
-                                Validated
-                            </div>
-                        </div>
-                    </div>
-                    <div class="form-row">
-                        <div class="col-12 mb-3">
-                            <label for="email-address">E-mail Address:</label>
-                            <span id="email-input" class="sr-only">Please enter a valid e-mail adress so I can contact you</span>
-                            <input type="email" class="form-control" id="email-address" placeholder="Please enter a valid e-mail" aria-labelledby="email-input" aria-required="true" value="" required>
-                            <div class="invalid-feedback">
-                                Please enter a valid e-mail address
-                            </div>
-                            <div class="valid-feedback">
-                                Validated 
-                            </div>
-                        </div>
-                        <div class="col-12 mb-3">
-                            <label for="phone-number">Phone Number:</label>
-                            <span id="phone-input" class="sr-only">Please enter a UK number. If you are from outside of the UK, please enter the number zero eleven times</span>
-                            <input type="tel" class="form-control" id="phone-number" pattern="[0-9]{11}" placeholder="Please enter a UK number" aria-labelledby="phone-input" aria-required="true" value="" required>
-                            <div class="invalid-feedback">
-                                Please enter an 11 digit UK number e.g. 02920123456 or 07929123456. Calls cannot currently be made outside the UK, if you are not in the UK, please enter 00000000000
-                            </div>
-                            <div class="valid-feedback">
-                                Validated
-                            </div>
-                        </div>
-                        <div class="col-12 mb-3">
-                            <label for="text-message">Message:</label>
-                            <span id="message-input" class="sr-only">Leave a message here and I will get back to you as soon as possible</span>
-                            <textarea class="form-control" id="text-message" rows="10" placeholder="Leave a message here and I will get back to you as soon as possible." aria-labelledby="message-input" aria-required="true" required></textarea>
-                            <div class="invalid-feedback">
-                                Please leave a message describing your enquiry
-                            </div>
-                            <div class="valid-feedback">
-                                Validated
-                            </div>
-                        </div>
-                    </div>
-                    <button class="btn btn-form" aria-label="Send your information">Send Info</button>
-                </form>
-            </div>
-            <!-- /form validation code modified from bootstrap source https://getbootstrap.com/docs/4.0/components/forms/#validation -->
-
-            <div class="col-6 d-none d-md-inline">
-                <img class="img-fluid form-image-padding" src="assets/images/form-image.png" alt="Blog footer, a silhouette of a man working at a pc with headphones on">
-            </div>
-        </div>   
-    </div>
-    <!-- /form -->
-    
-    <!-- footer -->
-        
-    <footer>
-        <div class="row">
-            <div class="col-12 footer-main-bar">                
-                <div class="collaborate-text col-12">
-                    <p class="footer-copyright d-inline">copyright © Paul Eagle - 2022</p>
-
-                    <!-- social links, code from code institute frontend mini project (deleted from my repo) -->
-                    <ul class="list-inline">
-                        <li class="list-inline-item">
-                            <a href="https://www.instagram.com/paul34913/" aria-label="Continue to my personal instagram page" rel="noopener" target="_blank">
-                                <i class="social-icon fa fa-instagram" title="Instagram Icon" aria-label="Instagram icon">
-                                </i>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="https://www.linkedin.com/in/paul-eagle-85532a222/" aria-label="Continue to my personal linkedin page" rel="noopener" target="_blank">
-                                <i class="social-icon fa fa-linkedin-square" title="Linkedin Icon" aria-label="Linkedin icon">
-                                </i>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="https://github.com/PAUL34913" aria-label="Continue to my personal github page" rel="noopener" target="_blank">
-                                <i class="social-icon fa fa-github" title="GitHub Icon" aria-label="Github icon">
-                                </i>
-                            </a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="https://app.slack.com/client/T0L30B202/C0L316Z96/user_profile/U02E3RW8Y5B" aria-label="Continue to my personal slack page" rel="noopener" target="_blank">
-                                <i class="social-icon fa fa-slack" title="Slack Icon" aria-label="Slack icon">
-                                </i>
-                            </a>
-                        </li>
-                    </ul>
-                    <!-- /social links, code from code institute frontend mini project (deleted from my repo) -->
-
-                </div> 
-            </div>
-        </div>
-    </footer>
-
-    <!-- /footer -->
-
-    <!-- javascript from bootstrap, used for form validation (https://getbootstrap.com/docs/4.2/components/forms/?#validation) -->
-    <script>
-        // Example starter JavaScript for disabling form submissions if there are invalid fields
-        (function() {
-          'use strict';
-          window.addEventListener('load', function() {
-            // Fetch all the forms we want to apply custom Bootstrap validation styles to
-            var forms = document.getElementsByClassName('needs-validation');
-            // Loop over them and prevent submission
-            var validation = Array.prototype.filter.call(forms, function(form) {
-              form.addEventListener('submit', function(event) {
-                if (form.checkValidity() === false) {
-                  event.preventDefault();
-                  event.stopPropagation();
-                }
-                form.classList.add('was-validated');
-              }, false);
-            });
-          }, false);
-        })();
-        </script>
-          <!-- /javascript from bootstrap, used for form validation (https://getbootstrap.com/docs/4.2/components/forms/?#validation) -->
-</body>
+        <!-- javascript from bootstrap, used for form validation (https://getbootstrap.com/docs/4.2/components/forms/?#validation) -->
+        <script>
+            // Example starter JavaScript for disabling form submissions if there are invalid fields
+            (function() {
+            'use strict';
+            window.addEventListener('load', function() {
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.getElementsByClassName('needs-validation');
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(forms, function(form) {
+                form.addEventListener('submit', function(event) {
+                    if (form.checkValidity() === false) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+                });
+            }, false);
+            })();
+            </script>
+            <!-- /javascript from bootstrap, used for form validation (https://getbootstrap.com/docs/4.2/components/forms/?#validation) -->
+    </body>
 </html>
