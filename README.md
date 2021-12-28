@@ -558,6 +558,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed typo on form-success page
 -   Fixed missing ARIA label on instagram social link
 -   Accessibility passed no errors
+-   Fixed actve class for blog page
 
 ## Known Bugs
 
