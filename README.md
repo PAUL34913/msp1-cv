@@ -548,6 +548,10 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Fixed errors from accesibility test on index.html
 -   Accessibility check passed with no errors
 
+### 28/12/21
+
+-   Updated ARIA labels on social links
+
 
 ## Known Bugs
 
