@@ -553,6 +553,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Updated ARIA labels on social links
 -   Updated ARIA labels on navbar
 -   Fixed navbar not displaying on some pages
+-   Updated ARIA attributes on social links
 
 
 ## Known Bugs
