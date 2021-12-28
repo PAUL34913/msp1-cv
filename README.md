@@ -545,7 +545,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed aria-placeholders from form page, not required with placeholders
 -   Removed value from text-area on form page, not required
 -   All HTML and CSS validated with no errors
--   Fixed errors from accesibility test which were caused by aria-hidden="true"
+-   Fixed errors from accesibility test on index.html
+
 
 ## Known Bugs
 
