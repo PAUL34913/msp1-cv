@@ -540,6 +540,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Added ARIA attributes to all interactive elements on contact form page
 -   Added ARIA attributes to all interactive elements on contact form-success page
 -   Removed bold hover states from links
+-   Fixed issues with spans being used as a child element of unordered lists on all pages
+-   Fixed issue where duplicate ID's were being used on the home page
 
 ## Known Bugs
 
