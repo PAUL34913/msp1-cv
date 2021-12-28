@@ -546,6 +546,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed value from text-area on form page, not required
 -   All HTML and CSS validated with no errors
 -   Fixed errors from accesibility test on index.html
+-   Accessibility check passed with no errors
 
 
 ## Known Bugs
