@@ -557,6 +557,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All HTML and CSS validated with no errors
 -   Fixed typo on form-success page
 -   Fixed missing ARIA label on instagram social link
+-   Accessibility passed no errors
 
 ## Known Bugs
 
