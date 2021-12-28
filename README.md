@@ -542,6 +542,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Removed bold hover states from links
 -   Fixed issues with spans being used as a child element of unordered lists on all pages
 -   Fixed issue where duplicate ID's were being used on the home page
+-   Removed aria-placeholders from form page, not required with placeholders
 
 ## Known Bugs
 
