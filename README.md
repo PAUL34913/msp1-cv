@@ -221,6 +221,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   The user would already be comfortable with the website layout and can easily click the blog link.
 -   Upon landing on the blog page, blogs will be displayed in chronological order, beginning with the newest post.
+-   As blog posts increase, an archiving system will be applied to quicker navigate posts by date.
 
 ### Functional Testing
 
