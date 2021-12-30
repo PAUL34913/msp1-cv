@@ -255,7 +255,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The Website was tested on Firefox, Google Chrome, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, and i-Pad.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
@@ -570,6 +570,8 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All CSS tested and passed with no errors on https://jigsaw.w3.org/css-validator/validator
 -   Accessibility tested and passwed with no errors on https://www.experte.com/accessibility
 -   Updated README.md images
+-   README.md check for errors and fixed
+-   Ready for submission
 
 ## Known Bugs
 
@@ -579,7 +581,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 
 Fixed:
 
-Have added a top padding of 2px to push the links down slightly.
+Added a top padding of 2px to push the links down slightly.
 
 ### About Me Image Not Loading
 
