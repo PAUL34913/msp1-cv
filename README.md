@@ -247,7 +247,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 | Link on contact me form | Link takes user to the personal info section via the same tab/window | Works as expected |
 Contact me submit | When all fields entered correctly, submit button redirects to success page | Works as expected |
 | Form success page | Success message given to user and link which redirects to blog page via same tab/window | Works as expected |
-| Site Response | Elements/layout readjust and show/hide as intended for different breakpoints | Works as expected |
+| Site response | Elements/layout readjust and show/hide as intended for different breakpoints | Works as expected |
+| Mobile collapse buttons | Home page mobile view collapse buttons show/hide correct information | Work as expected |
 
 
 
