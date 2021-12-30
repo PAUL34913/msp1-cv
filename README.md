@@ -561,6 +561,10 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Accessibility passed no errors
 -   Fixed actve class for blog page
 
+### 30/12/21
+
+-   All dead classes/selectors removed
+
 ## Known Bugs
 
 ### Social Link Alignment
