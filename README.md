@@ -568,6 +568,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   All HTML tested and passed with no errors on https://jigsaw.w3.org/css-validator/#validate_by_input
 -   All CSS tested and passed with no errors on https://jigsaw.w3.org/css-validator/validator
 -   Accessibility tested and passwed with no errors on https://www.experte.com/accessibility
+-   Updated README.md images
 
 ## Known Bugs
 
