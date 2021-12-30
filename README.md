@@ -564,6 +564,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 ### 30/12/21
 
 -   All dead classes/selectors removed
+-   Vigorous testing of site with Thomas and James on multiple devices
 
 ## Known Bugs
 
