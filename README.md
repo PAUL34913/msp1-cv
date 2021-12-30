@@ -48,11 +48,11 @@ The following will have independant pages:
 
 ### Skeleton
 
-For the UI, I have decided to use a single page for the personal information, whilst using independant pages for contact, blog, portfolio and CV download. I believe by doing this, the initial page will read as a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog, portfolio and contact forrm will have their own pages to give them a personal space for returning users. CV download will link to a traditonal styled CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
+For the UI, I have decided to use a single page for the personal information, whilst using independant pages for contact, blog and portfolio, CV to be download from an internal link. I believe by doing this, the initial page will read as a CV and give the user the important information first, with the organisation of content based on what I believe is priority to the user. Blog, portfolio and contact forrm will have their own pages to give them a personal space. CV download will link to a traditonal CV in .PDF format so that the user can download and/or print if required. I have also provided social links to various platforms including my GitHub repositories.
 
 The navbar, social links, and contact button are all fixed to the top of the viewport. Reagrdless of scrolling, they are always present for quick and easy access to the remainder of the site.
 
-The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit. 
+The contact form will require validation, ensuring that all fields are completed before the user is allowed to submit, and provide relevant feedback on any errors that may occur.
 
 ![Mobile Wireframes](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/wf-mobile.png)
 
@@ -143,7 +143,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ![CSS Test-](https://raw.githubusercontent.com/PAUL34913/msp1-online-resume/main/assets/images/test-css-validation.png "Stylesheet")
 
--   All pages passed without error
+-   Passed without error
 
 [Experte Accessibility Check](https://www.experte.com/accessibility)
 
