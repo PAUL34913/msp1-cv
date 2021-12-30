@@ -572,6 +572,7 @@ Contact me submit | When all fields entered correctly, submit button redirects t
 -   Updated README.md images
 -   README.md check for errors and fixed
 -   Ready for submission
+-   Removed comment tags from all HTML and CSS
 
 ## Known Bugs
 

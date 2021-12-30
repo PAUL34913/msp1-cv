@@ -1,8 +1,5 @@
-/* Fonts (Exo, Sans Serif) */
-
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&display=swap');
 
-/* General */
 nav a {
     color: rgb(0, 0, 0);
 }
@@ -49,8 +46,6 @@ textarea {
 ul {
     padding-top: 0.5vh;
 }
-
-/* Top Bar */
 
 .top-bar {
     position: fixed;
@@ -99,8 +94,6 @@ ul {
     color: #fff;
 }
 
-/* Navbar */
-
 .active {
     color: rgb(200, 41, 41);
 }
@@ -137,8 +130,6 @@ ul {
     color: rgb(200, 41, 41);
 }
 
-/* Hero Image */
-
 .hero-image {
     padding-top: 79px;
     margin: 0 auto;
@@ -146,16 +137,12 @@ ul {
     border: 1px solid #000;
 }
 
-/* Bottom Bar */
-
 .bot-bar {
     max-width: 1200px;
     margin: 0 auto;
     background-color: #000;
     height: 80px;
 }
-
-/* About Me */
 
 .about-me {
     color: #000;
@@ -194,8 +181,6 @@ ul {
     max-width: 85%;
     padding-top: 20px;
 }
-
-/* My Skills */
 
 .my-skills {
     color: rgb(0, 0, 0);
@@ -247,14 +232,9 @@ ul {
     text-align: left !important;
 }
 
-
-/* My Skills - Font Awseome Icons */
-
 .ms-icons {
     color: #000;
 }
-
-/* My Skills - Progress Bars */
 
 .progress {
     height: 25px;
@@ -297,8 +277,6 @@ ul {
     background-color: #00ea00;
 }
 
-/* Personal Info */
-
 .personal-info {
     max-width: 1200px;
     margin: 0 auto;
@@ -317,8 +295,6 @@ ul {
 #personal-info {
     padding-top: 15px;
 }
-
-/* Work History */
 
 .work-history {
     max-width: 1200px;
@@ -368,8 +344,6 @@ ul {
     font-weight: bold;
 }
 
-/* Footer */
-
 .footer-main-bar {
     background-color: #000;
     height: 150px;
@@ -396,8 +370,6 @@ ul {
     color: #fff;
 }
 
-/* Portfolio */
-
 .portfolio-header {
     text-align: left;
     text-indent: 5px;
@@ -418,8 +390,6 @@ ul {
     padding: 5px 0 100px 0;
 }
 
-/* Blog */
-
 .blog-header {
     text-align: left;
     text-indent: 5px;
@@ -434,8 +404,6 @@ ul {
     border: 1px solid #000;
     margin: 0 auto;
 }  
-
-/* form */
 
 .btn-form {
 background-color: rgb(200, 41, 41);
@@ -512,8 +480,6 @@ margin: 25px 0 150px 0;
     text-align: left !important;
     text-indent: 7px;
 }
-
-/* form success */
 
 .form-success-header {
     padding: 100px 0 0 0;
